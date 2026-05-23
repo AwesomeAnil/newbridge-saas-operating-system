@@ -2,6 +2,10 @@
 ## 🏛️ Board-Level Forecast Governance & Recovery Optimization Simulation
 
 <p align="center">
+  <img src="assets/images/hero-banner.png" alt="New Bridge SaaS Operating System Banner" width="100%">
+</p>
+
+<p align="center">
 
 ![Status](https://img.shields.io/badge/Status-Enterprise%20Simulation-blue)
 ![Domain](https://img.shields.io/badge/Domain-SaaS%20Commercial%20Governance-darkblue)
