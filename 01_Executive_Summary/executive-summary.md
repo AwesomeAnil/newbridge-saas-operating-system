@@ -107,6 +107,12 @@ This created escalating enterprise exposure against fiscal commitments and mater
 
 ---
 
+## Executive Dashboard 
+
+<iframe title="new_bridge" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiNDcxZTU3M2YtMjQ5Ni00ODRhLTk3NTYtM2Q3NmJhYjU0ZGZlIiwidCI6ImY2NTRlNzkxLWY4NTgtNDZkNi05MWE5LTE5YzlmZTA4YTc0ZiJ9&pageName=1620bb6e7a6a9c45a384" frameborder="0" allowFullScreen="true"></iframe>
+
+---
+
 # 🧠 Executive Narrative Progression
 
 ```mermaid
