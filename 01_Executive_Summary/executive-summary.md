@@ -107,6 +107,16 @@ This created escalating enterprise exposure against fiscal commitments and mater
 
 ---
 
+## 📷 Executive Dashboard Preview
+
+<p align="center">
+  <img src="../assets/images/executive-dashboard-preview.png"
+       alt="New Bridge Executive Dashboard"
+       width="100%">
+</p>
+
+---
+
 ## 🚀 Launch Interactive Power BI Experience
 
 [![Launch Power BI Dashboard](https://img.shields.io/badge/Launch-Interactive%20Executive%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNDcxZTU3M2YtMjQ5Ni00ODRhLTk3NTYtM2Q3NmJhYjU0ZGZlIiwidCI6ImY2NTRlNzkxLWY4NTgtNDZkNi05MWE5LTE5YzlmZTA4YTc0ZiJ9&pageName=1620bb6e7a6a9c45a384)
