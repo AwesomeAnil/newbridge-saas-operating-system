@@ -110,9 +110,7 @@ This created escalating enterprise exposure against fiscal commitments and mater
 ## 📷 Executive Dashboard Preview
 
 <p align="center">
-  <img src="../assets/images/executive-dashboard-preview.png"
-       alt="New Bridge Executive Dashboard"
-       width="100%">
+  ![Predicted vs Actuals](assets/images/executive_dashboard-preview.png)
 </p>
 
 ---
