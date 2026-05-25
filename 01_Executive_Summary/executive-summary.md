@@ -111,7 +111,7 @@ This created escalating enterprise exposure against fiscal commitments and mater
 
 <p align="center">
   
-  ![Executive Dashboard](/assets/images/executive_dashboard-preview.png)
+  ![Executive Dashboard](/assets/images/executive-dashboard-preview.png)
   
 </p>
 
