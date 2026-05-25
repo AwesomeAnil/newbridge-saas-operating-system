@@ -110,7 +110,9 @@ This created escalating enterprise exposure against fiscal commitments and mater
 ## 📷 Executive Dashboard Preview
 
 <p align="center">
-  ![Predicted vs Actuals](assets/images/executive_dashboard-preview.png)
+  
+  ![Executive Dashboard](/assets/images/executive_dashboard-preview.png)
+  
 </p>
 
 ---
