@@ -109,6 +109,24 @@ This exposed a completely different risk profile.
 
 Once the pipeline was segmented by confidence quality, forecast survivability deteriorated rapidly.
 
+## 📊 Scenario Escalation Sequence
+
+![Q3 Historical](https://img.shields.io/badge/Q3%20YTD-Historical%20Performance-blue?style=for-the-badge)
+
+![Q3 YTD PNG](/assets/images/Q3-YTD.png)
+
+![Full Pipe](https://img.shields.io/badge/Full%20Pipe-Coverage%20105%25-yellow?style=for-the-badge)
+
+![Full Pipe PNG](/assets/images/Full-Pipe.png)
+
+![Qualified Pipe](https://img.shields.io/badge/Qualified%20Pipe-Coverage%2092.5%25-orange?style=for-the-badge)
+
+![Qualified Pipe PNG](/assets/images/Qualified-Pipe.png)
+
+![High Confidence](https://img.shields.io/badge/High%20Confidence-Coverage%2078%25-critical?style=for-the-badge)
+
+![High Confidence PNG](/assets/images/High-Pipe.png)
+
 ---
 
 ## 📊 Enterprise Coverage Analysis
