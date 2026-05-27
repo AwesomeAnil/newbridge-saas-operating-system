@@ -66,9 +66,9 @@ The New Bridge simulation intentionally models forecast deterioration through fo
 ![Q3 Historical](https://img.shields.io/badge/Q3%20YTD-Historical%20Performance-blue?style=for-the-badge)
 
 <p align="center">
-  <img src="../assets/screenshots/q3-ytd-historical-performance.png"
+  <img src="../assets/images/Q3-YTD.png"
        alt="Q3 Historical Performance"
-       width="100%">
+       width="75%">
 </p>
 
 > Historical operating performance indicates strong enterprise execution across all major geographies with overall attainment reaching 139%.
@@ -80,9 +80,9 @@ The New Bridge simulation intentionally models forecast deterioration through fo
 ![Full Pipe](https://img.shields.io/badge/Full%20Pipe-Coverage%20105%25-yellow?style=for-the-badge)
 
 <p align="center">
-  <img src="../assets/screenshots/full-pipeline-coverage.png"
+  <img src="../assets/images/Full-Pipe.png"
        alt="Full Pipeline Coverage"
-       width="100%">
+       width="75%">
 </p>
 
 > Forward-looking survivability begins weakening as enterprise attainment becomes increasingly dependent on total pipeline assumptions.
@@ -94,9 +94,9 @@ The New Bridge simulation intentionally models forecast deterioration through fo
 ![Qualified Pipe](https://img.shields.io/badge/Qualified%20Pipe-Coverage%2092.5%25-orange?style=for-the-badge)
 
 <p align="center">
-  <img src="../assets/screenshots/qualified-pipeline-coverage.png"
+  <img src="../assets/images/Qualified-Pipe.png"
        alt="Qualified Pipeline Coverage"
-       width="100%">
+       width="75%">
 </p>
 
 > Forecast resilience deteriorates materially once pipeline confidence calibration is introduced across the commercial portfolio.
@@ -108,9 +108,9 @@ The New Bridge simulation intentionally models forecast deterioration through fo
 ![High Confidence](https://img.shields.io/badge/High%20Confidence-Coverage%2078%25-critical?style=for-the-badge)
 
 <p align="center">
-  <img src="../assets/screenshots/high-confidence-pipeline-coverage.png"
+  <img src="../assets/images/High-Pipe.png"
        alt="High Confidence Pipeline Coverage"
-       width="100%">
+       width="75%">
 </p>
 
 > Enterprise forecast exposure becomes structurally severe once only high-confidence survivability assumptions are applied.
