@@ -96,7 +96,7 @@ E --> F[Recovery Governance]
 ![Executive Forecast Governance](https://img.shields.io/badge/Executive-Forecast%20Governance-blue?style=for-the-badge)
 
 <p align="center">
-  <img src="../assets/screenshots/executive-forecast-governance.png"
+  <img src="../assets/images/executive-dashboard-preview.png"
        alt="Executive Forecast Governance Dashboard"
        width="100%">
 </p>
@@ -116,7 +116,7 @@ E --> F[Recovery Governance]
 ![Current FY Operations](https://img.shields.io/badge/Current%20FY-Commercial%20Operations-success?style=for-the-badge)
 
 <p align="center">
-  <img src="../assets/screenshots/current-fy-operating-dashboard.png"
+  <img src="../assets/images/FY26 View.png"
        alt="Current Fiscal Year Operating Dashboard"
        width="100%">
 </p>
@@ -136,7 +136,7 @@ E --> F[Recovery Governance]
 ![Historical ARR Evolution](https://img.shields.io/badge/Historical-ARR%20Evolution-purple?style=for-the-badge)
 
 <p align="center">
-  <img src="../assets/screenshots/historical-arr-evolution.png"
+  <img src="../assets/images/Historical View.png"
        alt="Historical ARR Evolution Dashboard"
        width="100%">
 </p>
@@ -156,7 +156,7 @@ E --> F[Recovery Governance]
 ![Pipeline Governance](https://img.shields.io/badge/Pipeline-Governance-orange?style=for-the-badge)
 
 <p align="center">
-  <img src="../assets/screenshots/fy26-pipeline-governance.png"
+  <img src="../assets/images/FY26 View.png"
        alt="FY26 Opportunities Governance Dashboard"
        width="100%">
 </p>
@@ -176,7 +176,7 @@ E --> F[Recovery Governance]
 ![Cohort Analysis](https://img.shields.io/badge/Cohort-Revenue%20Durability-darkred?style=for-the-badge)
 
 <p align="center">
-  <img src="../assets/screenshots/cohort-revenue-durability.png"
+  <img src="../assets/images/Cohort Analysis.png"
        alt="Cohort Revenue Durability Dashboard"
        width="100%">
 </p>
