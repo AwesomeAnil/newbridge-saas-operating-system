@@ -205,7 +205,7 @@ focused on:
 ## 📊 Qualified Pipe Solver Optimization
 
 <p align="center">
-  <img src="../assets/images/qualified-pipe-solver-results.png"
+  <img src="../assets/images/qualifed-pipe-solver-results.png"
        alt="Qualified Pipe Solver Results"
        width="75%">
 </p>
@@ -294,7 +294,7 @@ requiring:
 <p align="center">
   <img src="../assets/images/high-pipe-solver-results.png"
        alt="High Confidence Solver Results"
-       width="100%">
+       width="75%">
 </p>
 
 ---
