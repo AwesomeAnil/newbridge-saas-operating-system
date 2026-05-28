@@ -161,7 +161,7 @@ Instead, this scenario functioned as:
 <p align="center">
   <img src="../assets/images/Qualified-Pipe.png"
        alt="Qualified Pipe Geography Coverage"
-       width="100%">
+       width="75%">
 </p>
 
 ### 📌 Executive Interpretation
