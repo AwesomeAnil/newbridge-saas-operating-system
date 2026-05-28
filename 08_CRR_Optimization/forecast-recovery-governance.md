@@ -207,7 +207,7 @@ focused on:
 <p align="center">
   <img src="../assets/images/qualified-pipe-solver-results.png"
        alt="Qualified Pipe Solver Results"
-       width="100%">
+       width="75%">
 </p>
 
 ---
@@ -244,7 +244,7 @@ can materially improve enterprise survivability when intervention occurs early e
 <p align="center">
   <img src="../assets/images/High-Pipe.png"
        alt="High Confidence Geography Coverage"
-       width="100%">
+       width="75%">
 </p>
 
 ### 📌 Executive Interpretation
@@ -292,7 +292,7 @@ requiring:
 ## 📊 High-Confidence Solver Optimization
 
 <p align="center">
-  <img src="../assets/screenshots/high-pipe-solver-results.png"
+  <img src="../assets/images/high-pipe-solver-results.png"
        alt="High Confidence Solver Results"
        width="100%">
 </p>
