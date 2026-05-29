@@ -49,7 +49,7 @@ Enterprise recovery capital should be concentrated where marginal impact is high
 Rather than distributing investment uniformly across all regions, recovery planning focused on the largest deficit geographies where intervention could generate the greatest forecast uplift.
 
 <p align="center">
-  <img src="./images/solver_qualified_pipe/geography-gap-analysis.png"
+  <img src="../images/solver_qualified_pipe/geography-gap-analysis.png"
        alt="Geography Gap Analysis"
        width="100%">
 </p>
@@ -93,7 +93,7 @@ Historical investment outcomes were analyzed to estimate forecast uplift potenti
 for each targeted geography.
 
 <p align="center">
-  <img src="./assets/solver_qualified_pipe/roi-coefficient-matrix.png"
+  <img src="../assets/solver_qualified_pipe/roi-coefficient-matrix.png"
        alt="ROI Coefficient Matrix"
        width="100%">
 </p>
@@ -121,7 +121,7 @@ while balancing:
 * and fiscal constraints.
 
 <p align="center">
-  <img src="./assets/solver_qualified_pipe/solver-investment-allocation-matrix.png"
+  <img src="../assets/solver_qualified_pipe/solver-investment-allocation-matrix.png"
        alt="Capital Allocation Framework"
        width="100%">
 </p>
@@ -169,7 +169,7 @@ Success depends on deploying scarce capital where recovery efficiency is highest
 ## Capital Allocation Framework
 
 <p align="center">
-  <img src="./assets/solver_qualified_pipe/solver-investment-allocation-matrix.png"
+  <img src="../assets/solver_qualified_pipe/solver-investment-allocation-matrix.png"
        alt="Qualified Pipe Capital Allocation"
        width="100%">
 </p>
@@ -179,7 +179,7 @@ Success depends on deploying scarce capital where recovery efficiency is highest
 ## Forecast Uplift Matrix
 
 <p align="center">
-  <img src="./assets/solver_qualified_pipe/forecast-uplift-matrix.png"
+  <img src="../assets/solver_qualified_pipe/forecast-uplift-matrix.png"
        alt="Qualified Pipe Forecast Uplift"
        width="100%">
 </p>
@@ -189,7 +189,7 @@ Success depends on deploying scarce capital where recovery efficiency is highest
 ## Recovery Efficiency Curve
 
 <p align="center">
-  <img src="./assets/solver_qualified_pipe/recovery-efficiency-curve.png"
+  <img src="../assets/solver_qualified_pipe/recovery-efficiency-curve.png"
        alt="Qualified Pipe Recovery Efficiency Curve"
        width="100%">
 </p>
@@ -203,7 +203,7 @@ Progressive CRR deployment generated increasing forecast uplift while preserving
 ## Qualified Pipe Recovery Summary
 
 <p align="center">
-  <img src="./assets/solver_qualified_pipe/qualified-pipe-recovery-summary.png"
+  <img src="../assets/solver_qualified_pipe/qualified-pipe-recovery-summary.png"
        alt="Qualified Pipe Recovery Summary"
        width="100%">
 </p>
@@ -227,7 +227,7 @@ Progressive CRR deployment generated increasing forecast uplift while preserving
 ## Capital Allocation Framework
 
 <p align="center">
-  <img src="./assets/solver_high_pipe/solver-investment-allocation-matrix.png"
+  <img src="../assets/solver_high_pipe/solver-investment-allocation-matrix.png"
        alt="High Confidence Capital Allocation"
        width="100%">
 </p>
@@ -237,7 +237,7 @@ Progressive CRR deployment generated increasing forecast uplift while preserving
 ## Forecast Uplift Matrix
 
 <p align="center">
-  <img src="./assets/solver_high_pipe/forecast-uplift-matrix.png"
+  <img src="../assets/solver_high_pipe/forecast-uplift-matrix.png"
        alt="High Confidence Forecast Uplift"
        width="100%">
 </p>
@@ -247,7 +247,7 @@ Progressive CRR deployment generated increasing forecast uplift while preserving
 ## Recovery Efficiency Curve
 
 <p align="center">
-  <img src="./assets/solver_high_pipe/recovery-efficiency-curve.png"
+  <img src="../assets/solver_high_pipe/recovery-efficiency-curve.png"
        alt="High Confidence Recovery Efficiency Curve"
        width="100%">
 </p>
@@ -261,7 +261,7 @@ This scenario assumes only the strongest opportunities materialize and therefore
 ## High Confidence Recovery Summary
 
 <p align="center">
-  <img src="./assets/solver_high_pipe/high-confidence-recovery-summary.png"
+  <img src="../assets/solver_high_pipe/high-confidence-recovery-summary.png"
        alt="High Confidence Recovery Summary"
        width="100%">
 </p>
