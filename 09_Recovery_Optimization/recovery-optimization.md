@@ -51,7 +51,7 @@ Rather than distributing investment uniformly across all regions, recovery plann
 <p align="center">
   <img src="../images/solver_qualified_pipe/geography-gap-analysis.png"
        alt="Geography Gap Analysis"
-       width="100%">
+       width="80%">
 </p>
 
 ### Executive Insight
@@ -95,7 +95,7 @@ for each targeted geography.
 <p align="center">
   <img src="../assets/solver_qualified_pipe/roi-coefficient-matrix.png"
        alt="ROI Coefficient Matrix"
-       width="100%">
+       width="80%">
 </p>
 
 ### Executive Insight
@@ -123,7 +123,7 @@ while balancing:
 <p align="center">
   <img src="../assets/solver_qualified_pipe/solver-investment-allocation-matrix.png"
        alt="Capital Allocation Framework"
-       width="100%">
+       width="80%">
 </p>
 
 ### Executive Insight
@@ -171,7 +171,7 @@ Success depends on deploying scarce capital where recovery efficiency is highest
 <p align="center">
   <img src="../assets/solver_qualified_pipe/solver-investment-allocation-matrix.png"
        alt="Qualified Pipe Capital Allocation"
-       width="100%">
+       width="80%">
 </p>
 
 ---
@@ -181,7 +181,7 @@ Success depends on deploying scarce capital where recovery efficiency is highest
 <p align="center">
   <img src="../assets/solver_qualified_pipe/forecast-uplift-matrix.png"
        alt="Qualified Pipe Forecast Uplift"
-       width="100%">
+       width="80%">
 </p>
 
 ---
@@ -191,7 +191,7 @@ Success depends on deploying scarce capital where recovery efficiency is highest
 <p align="center">
   <img src="../assets/solver_qualified_pipe/recovery-efficiency-curve.png"
        alt="Qualified Pipe Recovery Efficiency Curve"
-       width="100%">
+       width="80%">
 </p>
 
 ### Executive Insight
@@ -205,7 +205,7 @@ Progressive CRR deployment generated increasing forecast uplift while preserving
 <p align="center">
   <img src="../assets/solver_qualified_pipe/qualified-pipe-recovery-summary.png"
        alt="Qualified Pipe Recovery Summary"
-       width="100%">
+       width="80%">
 </p>
 
 ---
@@ -229,7 +229,7 @@ Progressive CRR deployment generated increasing forecast uplift while preserving
 <p align="center">
   <img src="../assets/solver_high_pipe/solver-investment-allocation-matrix.png"
        alt="High Confidence Capital Allocation"
-       width="100%">
+       width="80%">
 </p>
 
 ---
@@ -239,7 +239,7 @@ Progressive CRR deployment generated increasing forecast uplift while preserving
 <p align="center">
   <img src="../assets/solver_high_pipe/forecast-uplift-matrix.png"
        alt="High Confidence Forecast Uplift"
-       width="100%">
+       width="80%">
 </p>
 
 ---
@@ -249,7 +249,7 @@ Progressive CRR deployment generated increasing forecast uplift while preserving
 <p align="center">
   <img src="../assets/solver_high_pipe/recovery-efficiency-curve.png"
        alt="High Confidence Recovery Efficiency Curve"
-       width="100%">
+       width="80%">
 </p>
 
 ### Executive Insight
@@ -263,7 +263,7 @@ This scenario assumes only the strongest opportunities materialize and therefore
 <p align="center">
   <img src="../assets/solver_high_pipe/high-confidence-recovery-summary.png"
        alt="High Confidence Recovery Summary"
-       width="100%">
+       width="80%">
 </p>
 
 ---
