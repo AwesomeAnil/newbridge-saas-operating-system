@@ -49,7 +49,7 @@ Enterprise recovery capital should be concentrated where marginal impact is high
 Rather than distributing investment uniformly across all regions, recovery planning focused on the largest deficit geographies where intervention could generate the greatest forecast uplift.
 
 <p align="center">
-  <img src="../images/solver_qualified_pipe/geography-gap-analysis.png"
+  <img src="../assets/solver_qualified_pipe/geography-gap-analysis.png"
        alt="Geography Gap Analysis"
        width="80%">
 </p>
