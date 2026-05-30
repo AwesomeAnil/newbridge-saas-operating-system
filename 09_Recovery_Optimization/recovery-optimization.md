@@ -205,7 +205,7 @@ Progressive CRR deployment generated increasing forecast uplift while preserving
 <p align="center">
   <img src="../assets/solver_qualified_pipe/qualified-pipe-recovery-summary.png"
        alt="Qualified Pipe Recovery Summary"
-       width="80%">
+       width="100%">
 </p>
 
 ---
@@ -249,7 +249,7 @@ Progressive CRR deployment generated increasing forecast uplift while preserving
 <p align="center">
   <img src="../assets/solver_high_pipe/recovery-efficiency-curve.png"
        alt="High Confidence Recovery Efficiency Curve"
-       width="80%">
+       width="70%">
 </p>
 
 ### Executive Insight
@@ -263,7 +263,7 @@ This scenario assumes only the strongest opportunities materialize and therefore
 <p align="center">
   <img src="../assets/solver_high_pipe/high-confidence-recovery-summary.png"
        alt="High Confidence Recovery Summary"
-       width="80%">
+       width="100%">
 </p>
 
 ---
