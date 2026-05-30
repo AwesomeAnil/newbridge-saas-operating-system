@@ -81,7 +81,7 @@ This scenario assumes that:
 <p align="center">
   <img src="../assets/solver_qualified_pipe/qualified-pipe-tradeoff-curve.png"
        alt="Qualified Pipe Tradeoff Curve"
-       width="80%">
+       width="60%">
 </p>
 
 ### Executive Insight
@@ -150,7 +150,7 @@ This scenario assumes:
 <p align="center">
   <img src="../assets/solver_high_pipe/high-confidence-tradeoff-curve.png"
        alt="High Confidence Tradeoff Curve"
-       width="80%">
+       width="60%">
 </p>
 
 ### Executive Insight
@@ -198,19 +198,25 @@ While requiring materially larger intervention, it provides a more conservative 
 
 ---
 
-# ⚖️ Executive Decision Framework
+# 🏛️ Forecast Planning Perspectives
 
-The choice between recovery strategies ultimately depends on leadership's view of forecast confidence and enterprise risk tolerance.
+The recovery models were intentionally designed around two different forecast confidence assumptions.
 
-| Leadership Philosophy | Preferred Strategy |
-|-----------|-----------|
-| Moderate Risk Appetite | Qualified Pipe Recovery |
-| Balanced Governance | Qualified Pipe Recovery |
-| Capital Efficiency Focus | Qualified Pipe Recovery |
-| Conservative Planning | High Confidence Recovery |
-| Downside Protection | High Confidence Recovery |
-| Board-Level Risk Mitigation | High Confidence Recovery |
-| PE-Backed Governance Environment | High Confidence Recovery |
+The objective was not to determine which scenario was "correct."
+
+The objective was to understand how recovery economics change under different planning assumptions.
+
+| Planning Perspective | Qualified Pipe Recovery | High Confidence Recovery |
+|----------|----------|----------|
+| Forecast Coverage | 92.5% | 78.0% |
+| Gap to Budget | -12.0M | -35.0M |
+| Confidence Level | Moderate | High |
+| Recovery Challenge | Manageable | Severe |
+| CRR Requirement | Lower | Higher |
+| Capital Intensity | Moderate | Significant |
+| Planning Posture | Balanced | Conservative |
+| Primary Objective | Efficient Recovery | Downside Protection |
+
 
 ---
 
@@ -224,7 +230,7 @@ The choice between recovery strategies ultimately depends on leadership's view o
 | Recovery Posture | Targeted | War Room |
 | Forecast Lift Achieved | 11.89M | 34.76M |
 | Portfolio ROI | 1.70x | 1.93x |
-| Recovery Outcome | Full Recovery | Full Recovery |
+| Recovery Outcome | Qualified Pipe Recovery | High Pipe Recovery |
 
 ---
 
