@@ -105,7 +105,7 @@ However, marginal ROI gradually declines as investment levels increase, illustra
 ## Final Recovery Outcome
 
 <p align="center">
-  <img src="./assets/solver_qualified_pipe/qualified-pipe-recovery-summary.png"
+  <img src="../assets/solver_qualified_pipe/qualified-pipe-recovery-summary.png"
        alt="Qualified Pipe Recovery Summary"
        width="100%">
 </p>
