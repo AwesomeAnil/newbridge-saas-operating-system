@@ -20,7 +20,7 @@
 
 ---
 
-# 📌 Executive Reflection
+## 📌 Executive Reflection
 
 The New Bridge program began as an effort to build a scalable SaaS reporting and analytics environment.
 
@@ -38,7 +38,7 @@ The following lessons represent the key insights leadership would carry forward 
 
 ---
 
-# 1️⃣ Forecast Governance Must Begin On Day One
+### 1️⃣ Forecast Governance Must Begin On Day One
 
 Historical attainment and fiscal year commitments should never be managed as separate conversations.
 
@@ -59,7 +59,7 @@ By the time New Bridge identified emerging exposure, only one fiscal quarter rem
 
 ---
 
-# 2️⃣ Historical Success Can Conceal Future Risk
+### 2️⃣ Historical Success Can Conceal Future Risk
 
 At the end of Q3 FY26, New Bridge appeared exceptionally healthy from a historical reporting perspective.
 
@@ -81,7 +81,7 @@ Yet confidence-calibrated forecasting revealed a very different reality:
 
 ---
 
-# 3️⃣ Forecast Quality Matters More Than Forecast Volume
+### 3️⃣ Forecast Quality Matters More Than Forecast Volume
 
 The project demonstrated that forecast confidence quality is often more important than forecast size.
 
@@ -93,7 +93,7 @@ As confidence assumptions became stricter, enterprise survivability deteriorated
 
 ---
 
-# 4️⃣ Scenario Planning Is More Valuable Than Point Forecasting
+### 4️⃣ Scenario Planning Is More Valuable Than Point Forecasting
 
 Traditional operating reviews often focus on a single forecast number.
 
@@ -111,7 +111,7 @@ This created a more realistic view of enterprise risk and enabled leadership to 
 
 ---
 
-# 5️⃣ Not Every Revenue Gap Requires Intervention
+### 5️⃣ Not Every Revenue Gap Requires Intervention
 
 Although Full Pipe Coverage depended heavily on low-confidence opportunities, the organization still achieved:
 
@@ -127,7 +127,7 @@ The organization remained under monitoring but did not trigger recovery interven
 
 ---
 
-# 6️⃣ Recovery Capital Must Follow Impact Concentration
+### 6️⃣ Recovery Capital Must Follow Impact Concentration
 
 Enterprise exposure was not evenly distributed across all operating regions.
 
@@ -145,7 +145,7 @@ The recovery strategy therefore prioritized:
 
 ---
 
-# 7️⃣ Short-Term ROI Is Fundamentally Different From Long-Term ROI
+### 7️⃣ Short-Term ROI Is Fundamentally Different From Long-Term ROI
 
 Most investment programs optimize:
 
@@ -167,7 +167,7 @@ This changed the economics of investment decision-making and justified the inclu
 
 ---
 
-# 8️⃣ Capital Allocation Is A Governance Capability
+### 8️⃣ Capital Allocation Is A Governance Capability
 
 The Central Risk Reserve (CRR) evolved beyond a funding mechanism.
 
@@ -184,7 +184,7 @@ It became a structured process for:
 
 ---
 
-# 9️⃣ Optimization Improves Decisions But Does Not Replace Leadership
+### 9️⃣ Optimization Improves Decisions But Does Not Replace Leadership
 
 Optimization models identified efficient capital deployment pathways.
 
@@ -201,7 +201,7 @@ However, leadership remained responsible for:
 
 ---
 
-# 🔟 Recovery Should Be Measured By Efficiency, Not Spending
+### 🔟 Recovery Should Be Measured By Efficiency, Not Spending
 
 The objective of CRR was never to maximize investment.
 
@@ -215,7 +215,7 @@ This principle became particularly evident during Investment Tradeoff Analysis.
 
 ---
 
-# 1️⃣1️⃣ Enterprise Analytics Must Evolve Beyond Reporting
+### 1️⃣1️⃣ Enterprise Analytics Must Evolve Beyond Reporting
 
 The New Bridge journey began with reporting infrastructure.
 
@@ -238,7 +238,7 @@ This progression reflects the natural evolution of modern enterprise analytics o
 
 ---
 
-# 🎯 Strategic Conclusion
+## 🎯 Strategic Conclusion
 
 The New Bridge program demonstrated that commercial governance maturity is not determined by reporting sophistication alone.
 
@@ -254,13 +254,13 @@ These lessons form the foundation for the next generation operating model presen
 
 ---
 
-# 👤 Author
+### 👤 Author
 
 **Anil Jacob**
 Enterprise BI • RevOps Strategy • Executive Analytics • Forecast Governance
 
 ---
 
-# 📜 Repository Context
+### 📜 Repository Context
 
 All forecasts, recovery models, optimization frameworks, operating environments, and governance scenarios within this repository are synthetic and designed exclusively for portfolio and strategic demonstration purposes.
