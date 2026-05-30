@@ -65,7 +65,7 @@ At the end of Q3 FY26, New Bridge appeared exceptionally healthy from a historic
 
 The organization achieved:
 
-# 📈 139% Budget Attainment
+#### 📈 139% Budget Attainment
 
 Yet confidence-calibrated forecasting revealed a very different reality:
 
@@ -115,7 +115,7 @@ This created a more realistic view of enterprise risk and enabled leadership to 
 
 Although Full Pipe Coverage depended heavily on low-confidence opportunities, the organization still achieved:
 
-# 📈 105.1% Coverage
+#### 📈 105.1% Coverage
 
 No CRR activation was required.
 
@@ -155,7 +155,7 @@ Most investment programs optimize:
 
 The CRR framework optimized:
 
-# 90-Day Revenue Recovery
+### 90-Day Revenue Recovery
 
 because only one fiscal quarter remained available for intervention.
 
