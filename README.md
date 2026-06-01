@@ -3,7 +3,7 @@
 ## 🏛️ Enterprise Revenue Operating System Reference Architecture
 
 <p align="center">
-  <img src="assets/images/hero-banner.png" alt="New Bridge SaaS Operating System Banner" width="100%">
+  <img src="assets/images/Lighthouse.png" alt="New Bridge SaaS Operating System Banner" width="100%">
 </p>
 
 <p align="center">

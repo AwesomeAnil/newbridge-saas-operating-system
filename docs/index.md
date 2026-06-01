@@ -3,7 +3,7 @@
 ## 🏛️ Commercial Governance Reference Architecture & Reference Implementation
 
 <p align="center">
-  <img src="../assets/images/Lighthouse.png" alt="New Bridge SaaS Operating System" width="100%">
+  <img src="/assets/images/Lighthouse.png" alt="New Bridge SaaS Operating System" width="100%">
 </p>
 
 <p align="center">
