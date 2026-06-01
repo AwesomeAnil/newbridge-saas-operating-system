@@ -3,7 +3,7 @@
 ## 🏛️ Commercial Governance Reference Architecture & Reference Implementation
 
 <p align="center">
-  <img src="/newbrudge-saas-operating-system/assets/images/Lighthouse.png" alt="The Lighthouse of Commercial Governance" width="100%">
+  <img src="Lighthouse.png" alt="The Lighthouse of Commercial Governance" width="100%">
 </p>
 
 
