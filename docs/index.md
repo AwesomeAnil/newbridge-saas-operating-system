@@ -3,20 +3,9 @@
 ## 🏛️ Commercial Governance Reference Architecture & Reference Implementation
 
 <p align="center">
-  <img src="/assets/images/Lighthouse.png" alt="New Bridge SaaS Operating System" width="100%">
+  <img src="../assets/images/Lighthouse.png" alt="New Bridge SaaS Operating System" width="100%">
 </p>
 
-<p align="center">
-
-![Reference Architecture](https://img.shields.io/badge/Reference-Architecture-darkblue)
-![Commercial Governance](https://img.shields.io/badge/Commercial-Governance-black)
-![Forecast Governance](https://img.shields.io/badge/Forecast-Governance-critical)
-![Revenue Operations](https://img.shields.io/badge/Revenue-Operations-success)
-![Executive Analytics](https://img.shields.io/badge/Executive-Analytics-purple)
-![Capital Allocation](https://img.shields.io/badge/Capital-Allocation-orange)
-![Decision Science](https://img.shields.io/badge/Decision-Science-darkred)
-
-</p>
 
 ---
 
