@@ -1,4 +1,4 @@
-# 🏛️ Commercial Governance Reference Architecture
+# 🏛️ New Bridge Governance Framework
 
 ## Enterprise Revenue Operating System for Forecast Governance, Recovery Optimization & Executive Decision Science
 
