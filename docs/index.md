@@ -1,7 +1,3 @@
-# 🚀 New Bridge
-
-## Enterprise Revenue Governance and Decision Science Framework
-
 <p align="center">
   <img src="Lighthouse.png" alt="The Lighthouse of Revenue Governance" width="100%">
 </p>
