@@ -1,96 +1,101 @@
-# 🚀 New Bridge SaaS Operating System
+# 🚀 New Bridge
 
-## 🏛️ Enterprise Revenue Operating System Reference Architecture
+## Enterprise Revenue Governance and Decision Science Framework
 
 <p align="center">
-  <img src="assets/images/Lighthouse.png" alt="New Bridge SaaS Operating System Banner" width="100%">
+  <img src="assets/images/Lighthouse.png" alt="The Lighthouse of Revenue Governance" width="100%">
 </p>
 
 <p align="center">
 
-![Reference Architecture](https://img.shields.io/badge/Reference-Architecture-darkblue)
-![Domain](https://img.shields.io/badge/Domain-Commercial%20Governance-black)
+![Framework](https://img.shields.io/badge/Framework-Revenue%20Governance-darkblue)
+![Domain](https://img.shields.io/badge/Domain-Enterprise%20Governance-black)
 ![Focus](https://img.shields.io/badge/Focus-Forecast%20Governance-critical)
-![Analytics](https://img.shields.io/badge/Analytics-Executive%20Decision%20Science-success)
+![Analytics](https://img.shields.io/badge/Analytics-Decision%20Science-success)
 ![Platform](https://img.shields.io/badge/Platform-Power%20BI%20%7C%20Excel%20%7C%20Python-informational)
-![Optimization](https://img.shields.io/badge/Optimization-Capital%20Allocation-orange)
+![Optimization](https://img.shields.io/badge/Optimization-Investment%20Optimization-orange)
 ![Modeling](https://img.shields.io/badge/Modeling-ARR%20%7C%20ACV%20%7C%20IYRC-purple)
-![Governance](https://img.shields.io/badge/Governance-Board--Level-darkred)
+![Governance](https://img.shields.io/badge/Governance-Executive%20Decision%20Support-darkred)
 
 </p>
 
 ---
 
-## 📌 What Is New Bridge?
+# 📌 What Is New Bridge?
 
-New Bridge is a reference implementation of an **Enterprise Revenue Operating System** designed to help SaaS organizations govern forecasting, detect commercial risk earlier, optimize recovery investments, and improve executive decision-making.
+New Bridge is an Enterprise Revenue Governance and Decision Science Framework demonstrating how SaaS organizations can connect revenue realization, forecast governance, enterprise risk management, recovery planning, capital allocation, and executive decision-making into a unified governance model.
 
-The repository demonstrates how modern organizations can evolve from:
+The framework was developed to address a common challenge facing modern commercial organizations:
 
-```text
-Historical Reporting
-        ↓
-Forecasting
-        ↓
-Risk Detection
-        ↓
-Recovery Governance
-        ↓
-Capital Allocation
-        ↓
-Decision Science
-```
+> How do leaders make better decisions when future outcomes remain uncertain?
 
-Rather than focusing solely on dashboards and reporting, New Bridge explores how enterprise data, forecasting, governance, and investment decisions can work together as a unified operating model.
+New Bridge transforms forecasting from a reporting activity into a strategic decision-making capability through structured governance, risk quantification, recovery planning, investment optimization, and executive decision science.
+
+Rather than focusing solely on reporting and dashboards, the framework demonstrates how organizations can connect forecasting, risk management, recovery planning, and capital allocation into a coherent decision-making system.
 
 ---
 
-## 🎯 Why This Architecture Matters
+# 🎯 Why This Framework Matters
 
 Traditional forecasting environments typically answer:
 
-### What happened?
+## What happened?
 
-Modern commercial organizations need to answer:
+Modern commercial organizations must answer:
 
 * What is likely to happen?
+* How credible is the forecast?
 * What risks are emerging?
 * How severe are those risks?
 * What interventions are available?
 * Which investments should leadership prioritize?
-* How should the business respond?
+* What decision creates the best outcome?
 
-The New Bridge architecture was designed to answer these questions through a structured governance framework.
+The New Bridge framework was designed to answer these questions through a structured governance model.
 
 ---
 
-## 🏛️ Commercial Governance Reference Architecture
+# 🏛️ The New Bridge Governance Framework
 
 ```mermaid
 flowchart TD
 
-A[Revenue Intelligence]
+    A["Bookings → Revenue Realization"]
 
-A --> B[Forecast Governance]
+    --> B["Forecast Confidence & Coverage"]
 
-B --> C[Risk Detection]
+    --> C["Risk Exposure & Gap Analysis"]
 
-C --> D[Recovery Governance]
+    --> D["Recovery Strategy"]
 
-D --> E[Capital Allocation]
+    --> E["Investment Optimization"]
 
-E --> F[Executive Decision Science]
+    --> F["Decision Science"]
 
-F --> G[Operating Model Transformation]
+    --> G["Fiscal Year Outcomes"]
+
+    style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
+    style B fill:#cfe2ff,stroke:#084298,stroke-width:2px
+
+    style C fill:#f8d7da,stroke:#b02a37,stroke-width:2px
+
+    style D fill:#fff3cd,stroke:#997404,stroke-width:2px
+    style E fill:#fff3cd,stroke:#997404,stroke-width:2px
+
+    style F fill:#d1e7dd,stroke:#146c43,stroke-width:2px
+
+    style G fill:#cfe2ff,stroke:#084298,stroke-width:2px
 ```
 
-Each layer builds on the previous layer to create a continuous commercial governance capability.
+The framework connects commercial activity, forecasting, enterprise risk management, recovery planning, capital allocation, and executive decision-making into a single governance system.
+
+Each stage builds upon the previous stage, transforming commercial performance into informed leadership decisions.
 
 ---
 
-## 🧠 Core Architecture Principle
+# 🧠 Core Governance Principle
 
-The architecture is built around a simple idea:
+The framework is built around a simple idea:
 
 > Forecasting should be treated as a governance capability rather than a reporting process.
 
@@ -106,9 +111,13 @@ to:
 What should we do next?
 ```
 
+The objective is not simply to improve forecasting.
+
+The objective is to improve enterprise outcomes.
+
 ---
 
-## 📉 The Business Problem
+# 📉 The Business Problem
 
 At the end of Q3 FY26, New Bridge appeared operationally healthy when viewed through historical reporting.
 
@@ -119,180 +128,208 @@ At the end of Q3 FY26, New Bridge appeared operationally healthy when viewed thr
 | Pipeline Activity             |       Strong |
 | Revenue Expansion             |      Healthy |
 
-However, once leadership evaluated the full fiscal year outlook, a very different picture emerged.
+However, once leadership evaluated the full fiscal-year outlook, a very different picture emerged.
 
 | Forecast Scenario                 | Coverage |
 | --------------------------------- | -------: |
 | Full Pipeline Coverage            |   105.1% |
 | Qualified Pipeline Coverage       |    92.5% |
-| High-Confidence Pipeline Coverage |    78.0% |
+| High Confidence Pipeline Coverage |    78.0% |
 
 The organization discovered that strong historical performance was concealing increasing forecast risk.
 
 ---
 
-## ⚠️ Forecast Deterioration Journey
+# ⚠️ Forecast Deterioration Journey
 
 ```mermaid
 flowchart TD
 
-A[139% Historical Attainment]
+A["139% Historical Attainment"]
 
-A --> B[105.1% Full Pipe Coverage]
+A --> B["105.1% Full Pipeline Coverage"]
 
-B --> C[92.5% Qualified Pipe Coverage]
+B --> C["92.5% Qualified Pipeline Coverage"]
 
-C --> D[78.0% High Confidence Coverage]
+C --> D["78.0% High Confidence Coverage"]
 
-D --> E[Enterprise Forecast Exposure]
+D --> E["Enterprise Risk Exposure"]
+
+style A fill:#d1e7dd,stroke:#146c43,stroke-width:2px
+style B fill:#cfe2ff,stroke:#084298,stroke-width:2px
+style C fill:#fff3cd,stroke:#997404,stroke-width:2px
+style D fill:#f8d7da,stroke:#b02a37,stroke-width:2px
+style E fill:#f8d7da,stroke:#b02a37,stroke-width:2px
 ```
 
-This became the catalyst for the recovery and governance programs explored throughout the repository.
+Forecast deterioration transforms uncertainty into measurable enterprise exposure.
+
+What initially appears to be a healthy fiscal-year outlook may contain significant hidden risk once forecast confidence standards are applied.
+
+This deterioration becomes the catalyst for recovery planning, capital allocation, and executive intervention.
 
 ---
 
-## 🛡️ Central Risk Reserve (CRR)
+# 🛡️ Central Risk Reserve (CRR)
 
-One of the key concepts introduced in this architecture is the Central Risk Reserve (CRR).
+One of the core concepts introduced within the framework is the Central Risk Reserve (CRR).
 
-The CRR is a structured investment framework used to support forecast recovery when commercial performance deteriorates.
+The CRR is a governed recovery mechanism designed to support forecast recovery when enterprise exposure becomes visible.
 
 The framework helps leadership answer:
 
 * Where should recovery capital be deployed?
-* Which interventions generate the strongest return?
+* Which interventions generate the strongest recovery impact?
 * Which regions should be prioritized?
 * What level of investment is justified?
+* How should limited resources be allocated?
+
+The objective is not simply to provide funding.
+
+The objective is to improve recovery effectiveness while maintaining capital discipline.
 
 ---
 
-## ⚙️ Recovery Optimization Framework
+# ⚙️ Recovery Optimization Framework
 
 ```mermaid
 flowchart TD
 
-A[Forecast Gap]
+A["Forecast Gap"]
 
-A --> B[Risk Assessment]
+A --> B["Risk Assessment"]
 
-B --> C[CRR Allocation]
+B --> C["CRR Activation"]
 
-C --> D[Investment Optimization]
+C --> D["Investment Optimization"]
 
-D --> E[Forecast Recovery]
+D --> E["Forecast Recovery"]
 
-E --> F[Executive Review]
+E --> F["Executive Decision"]
+
+style A fill:#f8d7da,stroke:#b02a37,stroke-width:2px
+style B fill:#fff3cd,stroke:#997404,stroke-width:2px
+style C fill:#cfe2ff,stroke:#084298,stroke-width:2px
+style D fill:#d1e7dd,stroke:#146c43,stroke-width:2px
+style E fill:#d1e7dd,stroke:#146c43,stroke-width:2px
+style F fill:#cfe2ff,stroke:#084298,stroke-width:2px
 ```
+
+Recovery is treated as a governed capital allocation process rather than an ad hoc funding exercise.
 
 The objective is not to maximize spending.
 
-The objective is to identify the minimum efficient intervention required to restore fiscal performance.
+The objective is to identify the most effective and efficient intervention required to improve fiscal-year outcomes.
 
 ---
 
-## 📊 Architecture Capability Map
+# 📊 Framework Capability Map
 
-| Capability Domain      | Business Purpose                  |
-| ---------------------- | --------------------------------- |
-| Revenue Intelligence   | ARR, ACV and Revenue Visibility   |
-| Forecast Governance    | Coverage & Forecast Management    |
-| Risk Detection         | Early Warning & Exposure Analysis |
-| Recovery Governance    | Intervention Planning             |
-| Capital Allocation     | Investment Prioritization         |
-| Decision Science       | Executive Decision Support        |
-| Operating Model Design | Continuous Improvement            |
+| Framework Domain               | Business Purpose                 |
+| ------------------------------ | -------------------------------- |
+| Bookings → Revenue Realization | Revenue Materialization          |
+| Forecast Confidence & Coverage | Forecast Credibility             |
+| Risk Exposure & Gap Analysis   | Enterprise Risk Visibility       |
+| Recovery Strategy              | Revenue Recovery Planning        |
+| Investment Optimization        | Capital Efficiency               |
+| Decision Science               | Executive Decision Support       |
+| Fiscal Year Outcomes           | Strategic Performance Management |
 
 ---
 
-## 📂 Reference Implementation Structure
+# 📂 Repository Structure
 
-The repository is organized as a reference implementation of the architecture.
+The repository contains the business, analytical, governance, and optimization components supporting the framework.
 
-| Architecture Layer      | Repository Section                 |
+| Framework Domain        | Repository Section                 |
 | ----------------------- | ---------------------------------- |
-| Reference Architecture  | 00_Reference_Architecture          |
+| Governance Framework    | 00_Reference_Architecture          |
 | Executive Overview      | 01_Executive_Summary               |
 | Business Context        | 02_Business_Problem                |
 | Enterprise Architecture | 03_Enterprise_Architecture         |
-| Revenue Intelligence    | 04_SaaS_Financial_Model            |
-| Forecast Governance     | 05_Pipeline_Governance             |
-| Risk Detection          | 06_Forecast_Risk_Model             |
+| Revenue Realization     | 04_SaaS_Financial_Model            |
+| Forecast Confidence     | 05_Pipeline_Governance             |
+| Risk Exposure           | 06_Forecast_Risk_Model             |
 | Executive Reporting     | 07_PowerBI_Dashboards              |
-| Recovery Governance     | 08_CRR_Optimization                |
-| Capital Allocation      | 09_Recovery_Optimization           |
+| Recovery Strategy       | 08_CRR_Optimization                |
+| Investment Optimization | 09_Recovery_Optimization           |
 | Decision Science        | 10_Investment_Tradeoff_Analysis    |
-| Institutional Learning  | 11_Executive_Lessons_Learned       |
-| Future State Design     | 12_Next_Generation_Operating_Model |
+| Strategic Lessons       | 11_Executive_Lessons_Learned       |
+| Future-State Vision     | 12_Next_Generation_Operating_Model |
 
 ---
 
-## 🏗️ Technology & Analytics Stack
+# 🏗️ Technology & Analytics Stack
 
-| Area               | Platform                        |
-| ------------------ | ------------------------------- |
-| Reporting          | Power BI                        |
-| Data Modeling      | Power BI Semantic Models        |
-| Data Engineering   | Python / Pandas                 |
-| Financial Modeling | Excel                           |
-| Optimization       | Linear Programming in Excel Solver                    |
-| Forecasting        | Scenario Modeling               |
-| Governance         | Commercial Operating Frameworks |
-| Decision Support   | Executive Analytics             |
-
----
-
-## 🎯 Strategic Outcomes
-
-The New Bridge architecture demonstrates how organizations can:
-
-✅ Improve forecast visibility
-
-✅ Detect risk earlier
-
-✅ Quantify commercial exposure
-
-✅ Deploy recovery investments intelligently
-
-✅ Improve capital allocation decisions
-
-✅ Strengthen forecast governance
-
-✅ Enhance executive decision quality
+| Area               | Platform                          |
+| ------------------ | --------------------------------- |
+| Reporting          | Power BI                          |
+| Data Modeling      | Power BI Semantic Models          |
+| Data Engineering   | Python / Pandas                   |
+| Financial Modeling | Excel                             |
+| Optimization       | Linear Programming (Excel Solver) |
+| Forecasting        | Scenario Modeling                 |
+| Governance         | Revenue Governance Frameworks     |
+| Decision Support   | Executive Analytics               |
 
 ---
 
-## 📚 Repository Navigation
+# 🎯 Strategic Outcomes
 
-Architecture Layer → Reference Implementation
+The New Bridge framework demonstrates how organizations can:
 
-| Folder                                 | Purpose                                                                           |
-| -------------------------------------- | --------------------------------------------------------------------------------- |
-| **00_Reference_Architecture**          | Commercial Governance Reference Architecture and capability model                 |
-| **01_Executive_Summary**               | Executive overview, board brief, and strategic context                            |
-| **02_Business_Problem**                | Definition of the forecasting challenge and business case for intervention        |
-| **03_Enterprise_Architecture**         | Data, reporting, governance, and operating model architecture                     |
-| **04_SaaS_Financial_Model**            | ARR, ACV, bookings, revenue realization, and IYRC financial frameworks            |
-| **05_Pipeline_Governance**             | Pipeline coverage, confidence calibration, and forecast engineering methodologies |
-| **06_Forecast_Risk_Model**             | Forecast deterioration analysis and risk exposure quantification                  |
-| **07_PowerBI_Dashboards**              | Executive reporting experience and analytical visualization layer                 |
-| **08_CRR_Optimization**                | Central Risk Reserve (CRR) framework and optimization design                      |
-| **09_Recovery_Optimization**           | Capital allocation, forecast uplift modeling, and recovery economics              |
-| **10_Investment_Tradeoff_Analysis**    | Executive decision framework and recovery investment tradeoff analysis            |
-| **11_Executive_Lessons_Learned**       | Institutional learning and strategic insights derived from the program            |
-| **12_Next_Generation_Operating_Model** | Future-state commercial governance and proactive operating model design           |
+✅ Improve forecast quality
 
+✅ Quantify enterprise risk
+
+✅ Detect forecast deterioration earlier
+
+✅ Strengthen recovery readiness
+
+✅ Evaluate alternative recovery strategies
+
+✅ Optimize capital allocation
+
+✅ Improve executive decision quality
+
+✅ Increase governance maturity
+
+✅ Connect forecasting to strategic action
+
+✅ Transform forecasting into a decision-making capability
 
 ---
 
-## 👤 Author
+# 📚 Repository Navigation
+
+| Folder                                 | Purpose                                                               |
+| -------------------------------------- | --------------------------------------------------------------------- |
+| **00_Reference_Architecture**          | Governance framework foundations and conceptual model                 |
+| **01_Executive_Summary**               | Executive overview, board brief, and strategic context                |
+| **02_Business_Problem**                | Forecasting challenge and business case for intervention              |
+| **03_Enterprise_Architecture**         | Data, reporting, governance, and operating architecture               |
+| **04_SaaS_Financial_Model**            | ARR, ACV, bookings, revenue realization, and IYRC frameworks          |
+| **05_Pipeline_Governance**             | Pipeline coverage, forecast confidence, and forecasting methodologies |
+| **06_Forecast_Risk_Model**             | Forecast deterioration analysis and enterprise risk quantification    |
+| **07_PowerBI_Dashboards**              | Executive reporting and analytical visualization layer                |
+| **08_CRR_Optimization**                | Central Risk Reserve framework and recovery governance                |
+| **09_Recovery_Optimization**           | Investment optimization and recovery economics                        |
+| **10_Investment_Tradeoff_Analysis**    | Decision science and recovery investment trade-off analysis           |
+| **11_Executive_Lessons_Learned**       | Institutional learning and strategic insights                         |
+| **12_Next_Generation_Operating_Model** | Future-state governance and decision-making vision                    |
+
+---
+
+# 👤 Author
 
 **Anil Jacob**
-Enterprise BI • RevOps Strategy • Executive Analytics • Forecast Governance
+
+Enterprise BI • Revenue Operations Strategy • Executive Analytics • Forecast Governance
 
 ---
 
-## 📜 Repository Context
+# 📜 Repository Context
 
-All datasets, forecasts, operating models, governance frameworks, optimization models, and business scenarios contained within this repository are synthetic and intended exclusively for portfolio, educational, and strategic demonstration purposes.
+All datasets, forecasts, governance frameworks, optimization models, operating models, and business scenarios contained within this repository are synthetic and intended exclusively for portfolio, educational, and strategic demonstration purposes.
 
-The architecture and implementation are designed to illustrate enterprise commercial governance concepts rather than represent any specific organization.
+The repository serves as a practical demonstration of an Enterprise Revenue Governance and Decision Science Framework designed to illustrate revenue realization, forecast governance, enterprise risk management, recovery planning, capital allocation, and executive decision support concepts.
