@@ -40,8 +40,8 @@ New Bridge was designed to answer these questions.
 
 ## 🏛️ The New Bridge Governance Framework
 
-<p align="center">
-  <img src="newbridge_governance_framework.png" alt="The New Bridge Governance Framework" width="25%">
+<p align="left">
+  <img src="newbridge_governance_framework.png" alt="The New Bridge Governance Framework" >
 </p>
 
 
