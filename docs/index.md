@@ -174,7 +174,7 @@ Recommended for:
 * Data Strategy Leaders
 
 ```text
-00 Reference Architecture
+00 Governance Framework
         ↓
 03 Enterprise Architecture
         ↓
@@ -221,7 +221,7 @@ Recommended for:
 * Transformation Teams
 
 ```text
-00 Reference Architecture
+00 Governance Framework
         ↓
 03 Enterprise Architecture
         ↓
@@ -238,9 +238,9 @@ Recommended for:
 
 | Folder                             | Purpose                                                      |
 | ---------------------------------- | ------------------------------------------------------------ |
-| 00_Reference_Architecture          | Commercial governance architecture and framework foundations |
+| 00_Governance_Framework          | Commercial governance architecture and framework foundations |
 | 01_Executive_Summary               | Executive overview and board-level brief                     |
-| 02_Business_Problem                | Business context and forecasting challenge                   |
+| 02_Business_Contexxt                | Business context and forecasting challenge                   |
 | 03_Enterprise_Architecture         | Data, reporting and governance architecture                  |
 | 04_SaaS_Financial_Model            | ARR, ACV, bookings and revenue frameworks                    |
 | 05_Pipeline_Governance             | Pipeline coverage and forecast engineering                   |
