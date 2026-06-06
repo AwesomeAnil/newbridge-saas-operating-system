@@ -40,40 +40,10 @@ New Bridge was designed to answer these questions.
 
 ## 🏛️ The New Bridge Governance Framework
 
-<p align="left">
-  <img src="newbridge_governance_framework.png" alt="The New Bridge Governance Framework" >
+<p align="center">
+  <img src="newbridge_governance_framework.svg" alt="The New Bridge Governance Framework" >
 </p>
 
-
-```mermaid
-flowchart TD
-
-    A["Bookings → Revenue Realization"]
-
-    --> B["Forecast Confidence & Coverage"]
-
-    --> C["Risk Exposure & Gap Analysis"]
-
-    --> D["Recovery Strategy"]
-
-    --> E["Investment Optimization"]
-
-    --> F["Decision Science"]
-
-    --> G["Fiscal Year Outcomes"]
-
-    style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
-    style B fill:#cfe2ff,stroke:#084298,stroke-width:2px
-
-    style C fill:#f8d7da,stroke:#b02a37,stroke-width:2px
-
-    style D fill:#fff3cd,stroke:#997404,stroke-width:2px
-    style E fill:#fff3cd,stroke:#997404,stroke-width:2px
-
-    style F fill:#d1e7dd,stroke:#146c43,stroke-width:2px
-
-    style G fill:#cfe2ff,stroke:#084298,stroke-width:2px
-```
 
 The framework connects commercial activity, forecasting, enterprise risk management, recovery planning, capital allocation, and executive decision-making into a single governance system.
 
@@ -134,25 +104,10 @@ The challenge became:
 
 ## ⚠️ Forecast Deterioration Journey
 
-```mermaid
-flowchart TD
+<p align="center">
+  <img src="forecast-deterioration-journey.svg" alt="Forecast Deterioration" >
+</p>
 
-A["139% Historical Attainment"]
-
-A --> B["105.1% Full Pipeline Coverage"]
-
-B --> C["92.5% Qualified Pipeline Coverage"]
-
-C --> D["78.0% High Confidence Coverage"]
-
-D --> E["Enterprise Risk Exposure"]
-
-style A fill:#d1e7dd,stroke:#146c43,stroke-width:2px
-style B fill:#cfe2ff,stroke:#084298,stroke-width:2px
-style C fill:#fff3cd,stroke:#997404,stroke-width:2px
-style D fill:#f8d7da,stroke:#b02a37,stroke-width:2px
-style E fill:#f8d7da,stroke:#b02a37,stroke-width:2px
-```
 
 Forecast deterioration transforms uncertainty into measurable enterprise exposure.
 
@@ -174,28 +129,10 @@ The objective is to determine:
 * Where capital should be invested
 * How forecast exposure can be reduced
 
-```mermaid
-flowchart TD
+<p align="center">
+  <img src="recovery-optimization-framework.svg" alt="Recovery Optimization Framework" >
+</p>
 
-A["Forecast Gap"]
-
-A --> B["Risk Assessment"]
-
-B --> C["CRR Activation"]
-
-C --> D["Investment Optimization"]
-
-D --> E["Forecast Recovery"]
-
-E --> F["Executive Decision"]
-
-style A fill:#f8d7da,stroke:#b02a37,stroke-width:2px
-style B fill:#fff3cd,stroke:#997404,stroke-width:2px
-style C fill:#cfe2ff,stroke:#084298,stroke-width:2px
-style D fill:#d1e7dd,stroke:#146c43,stroke-width:2px
-style E fill:#d1e7dd,stroke:#146c43,stroke-width:2px
-style F fill:#cfe2ff,stroke:#084298,stroke-width:2px
-```
 
 Recovery is treated as a governed capital allocation process rather than an ad hoc funding exercise.
 

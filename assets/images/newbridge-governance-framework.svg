@@ -1,0 +1,134 @@
+<svg width="1200" height="1050" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <style>
+
+      .title {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 34px;
+        font-weight: bold;
+        fill: #0b2545;
+        text-anchor: middle;
+      }
+
+      .boxtext {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        font-weight: bold;
+        fill: #222;
+        text-anchor: middle;
+        dominant-baseline: middle;
+      }
+
+      .boxtextwhite {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        font-weight: bold;
+        fill: white;
+        text-anchor: middle;
+        dominant-baseline: middle;
+      }
+
+      .arrow {
+        stroke: #666;
+        stroke-width: 3;
+        fill: none;
+        marker-end: url(#arrowhead);
+      }
+
+    </style>
+
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="7" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#666"></polygon>
+    </marker>
+
+  </defs>
+
+  <!-- Title -->
+
+  <text x="600" y="55" class="title">
+    New Bridge Governance Framework
+  </text>
+
+  <!-- Box A -->
+
+  <rect x="350" y="100" width="500" height="70" rx="12" ry="12" fill="#cfe2ff" stroke="#084298" stroke-width="2"></rect>
+
+  <text x="600" y="135" class="boxtext">
+    Bookings → Revenue Realization
+  </text>
+
+  <!-- Arrow -->
+
+  <line x1="600" y1="170" x2="600" y2="220" class="arrow"></line>
+
+  <!-- Box B -->
+
+  <rect x="350" y="225" width="500" height="70" rx="12" ry="12" fill="#cfe2ff" stroke="#084298" stroke-width="2"></rect>
+
+  <text x="600" y="260" class="boxtext">
+    Forecast Confidence &amp; Coverage
+  </text>
+
+  <!-- Arrow -->
+
+  <line x1="600" y1="295" x2="600" y2="345" class="arrow"></line>
+
+  <!-- Box C -->
+
+  <rect x="350" y="350" width="500" height="70" rx="12" ry="12" fill="#f8d7da" stroke="#b02a37" stroke-width="2"></rect>
+
+  <text x="600" y="385" class="boxtext">
+    Risk Exposure &amp; Gap Analysis
+  </text>
+
+  <!-- Arrow -->
+
+  <line x1="600" y1="420" x2="600" y2="470" class="arrow"></line>
+
+  <!-- Box D -->
+
+  <rect x="350" y="475" width="500" height="70" rx="12" ry="12" fill="#fff3cd" stroke="#997404" stroke-width="2"></rect>
+
+  <text x="600" y="510" class="boxtext">
+    Recovery Strategy
+  </text>
+
+  <!-- Arrow -->
+
+  <line x1="600" y1="545" x2="600" y2="595" class="arrow"></line>
+
+  <!-- Box E -->
+
+  <rect x="350" y="600" width="500" height="70" rx="12" ry="12" fill="#fff3cd" stroke="#997404" stroke-width="2"></rect>
+
+  <text x="600" y="635" class="boxtext">
+    Investment Optimization
+  </text>
+
+  <!-- Arrow -->
+
+  <line x1="600" y1="670" x2="600" y2="720" class="arrow"></line>
+
+  <!-- Box F -->
+
+  <rect x="350" y="725" width="500" height="70" rx="12" ry="12" fill="#d1e7dd" stroke="#146c43" stroke-width="2"></rect>
+
+  <text x="600" y="760" class="boxtext">
+    Decision Science
+  </text>
+
+  <!-- Arrow -->
+
+  <line x1="600" y1="795" x2="600" y2="845" class="arrow"></line>
+
+  <!-- Box G -->
+
+  <rect x="350" y="850" width="500" height="70" rx="12" ry="12" fill="#084298" stroke="#084298" stroke-width="2"></rect>
+
+  <text x="600" y="885" class="boxtextwhite">
+    Fiscal Year Outcomes
+  </text>
+
+</svg>

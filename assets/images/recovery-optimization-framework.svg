@@ -1,0 +1,135 @@
+<svg width="1200" height="1020" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <style>
+
+      .title {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 34px;
+        font-weight: bold;
+        fill: #0b2545;
+        text-anchor: middle;
+      }
+
+      .subtitle {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 16px;
+        fill: #666;
+        text-anchor: middle;
+      }
+
+      .boxtext {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        font-weight: bold;
+        fill: #222;
+        text-anchor: middle;
+        dominant-baseline: middle;
+      }
+
+      .boxtextwhite {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        font-weight: bold;
+        fill: white;
+        text-anchor: middle;
+        dominant-baseline: middle;
+      }
+
+      .arrow {
+        stroke: #666;
+        stroke-width: 3;
+        fill: none;
+        marker-end: url(#arrowhead);
+      }
+
+    </style>
+
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="7" refY="3.5" orient="auto">
+
+      <polygon points="0 0, 10 3.5, 0 7" fill="#666"></polygon>
+
+    </marker>
+
+  </defs>
+
+  <!-- Title -->
+
+  <text x="600" y="55" class="title">
+    Recovery Optimization Framework
+  </text>
+
+  <text x="600" y="85" class="subtitle">
+    Transforming Enterprise Risk Exposure into Structured Recovery Decisions
+  </text>
+
+  <!-- Box A -->
+
+  <rect x="350" y="120" width="500" height="70" rx="12" ry="12" fill="#f8d7da" stroke="#b02a37" stroke-width="2"></rect>
+
+  <text x="600" y="155" class="boxtext">
+    Forecast Gap
+  </text>
+
+  <!-- Arrow -->
+
+  <line x1="600" y1="190" x2="600" y2="245" class="arrow"></line>
+
+  <!-- Box B -->
+
+  <rect x="350" y="250" width="500" height="70" rx="12" ry="12" fill="#fff3cd" stroke="#997404" stroke-width="2"></rect>
+
+  <text x="600" y="285" class="boxtext">
+    Risk Assessment
+  </text>
+
+  <!-- Arrow -->
+
+  <line x1="600" y1="320" x2="600" y2="375" class="arrow"></line>
+
+  <!-- Box C -->
+
+  <rect x="350" y="380" width="500" height="70" rx="12" ry="12" fill="#cfe2ff" stroke="#084298" stroke-width="2"></rect>
+
+  <text x="600" y="415" class="boxtext">
+    CRR Activation
+  </text>
+
+  <!-- Arrow -->
+
+  <line x1="600" y1="450" x2="600" y2="505" class="arrow"></line>
+
+  <!-- Box D -->
+
+  <rect x="350" y="510" width="500" height="70" rx="12" ry="12" fill="#d1e7dd" stroke="#146c43" stroke-width="2"></rect>
+
+  <text x="600" y="545" class="boxtext">
+    Investment Optimization
+  </text>
+
+  <!-- Arrow -->
+
+  <line x1="600" y1="580" x2="600" y2="635" class="arrow"></line>
+
+  <!-- Box E -->
+
+  <rect x="350" y="640" width="500" height="70" rx="12" ry="12" fill="#d1e7dd" stroke="#146c43" stroke-width="2"></rect>
+
+  <text x="600" y="675" class="boxtext">
+    Forecast Recovery
+  </text>
+
+  <!-- Arrow -->
+
+  <line x1="600" y1="710" x2="600" y2="765" class="arrow"></line>
+
+  <!-- Box F -->
+
+  <rect x="350" y="770" width="500" height="80" rx="12" ry="12" fill="#084298" stroke="#084298" stroke-width="2"></rect>
+
+  <text x="600" y="810" class="boxtextwhite">
+    Executive Decision
+  </text>
+
+</svg>
