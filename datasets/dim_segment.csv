@@ -1,0 +1,5 @@
+segment,segment_description,segment_rank
+Enterprise,Large enterprise accounts,2
+MidMarket,Mid-size commercial customers,3
+SMB,Small and medium business customers,4
+Strategic,Global strategic enterprise customers,1

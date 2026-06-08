@@ -1,0 +1,7 @@
+sales_motion,motion_type,motion_category,motion_description,Sort_order
+RENEWAL,Retention,Core,Contract renewal,1
+RENEWAL_UPLIFT,Expansion,Price,Price uplift on renewal,2
+NEW,Acquisition,Growth,New customer acquisition,3
+CROSS_SELL,Expansion,Product,Additional product purchase,4
+UPSELL,Expansion,Edition,Edition upgrade,5
+CHURN,Loss,Contraction,Customer contract termination,6

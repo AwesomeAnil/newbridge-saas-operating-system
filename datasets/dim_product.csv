@@ -1,0 +1,6 @@
+product_id,product_name,product_family,product_category
+P001_Collaboration,Collaboration,Productivity,Core Platform
+P002_FileSharing,FileSharing,Productivity,Core Platform
+P003_WorkflowAutomation,WorkflowAutomation,Automation,Add-on
+P004_Analytics,Analytics,Intelligence,Add-on
+P005_Security,Security,Security,Platform Extension

@@ -1,0 +1,11 @@
+subregion_id,subregion_name,region_id,region_name,countries,sort_order,region_sort
+SR001_NA_West,NA West,R001,North America,"USA, Canada",1,1
+SR002_NA_East,NA East,R001,North America,USA,2,1
+SR003_DACH,DACH,R002,Europe,"Germany, Austria, Switzerland",3,2
+SR004_UKI,UKI,R002,Europe,"United Kingdom, Ireland",4,2
+SR005_India,India,R003,APAC,India,5,3
+SR006_ANZ,ANZ,R003,APAC,"Australia, New Zealand",6,3
+SR007_Brazil,Brazil,R004,LATAM,Brazil,7,4
+SR008_Mexico,Mexico,R004,LATAM,Mexico,8,4
+SR009_MiddleEast,Middle East,R005,MEA,"UAE, Saudi Arabia",9,5
+SR010_Africa,Africa,R005,MEA,South Africa,10,5
