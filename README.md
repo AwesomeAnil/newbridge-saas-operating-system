@@ -304,7 +304,7 @@ The New Bridge framework demonstrates how organizations can:
 
 | Folder                                 | Purpose                                                               |
 | -------------------------------------- | --------------------------------------------------------------------- |
-| **00_Reference_Architecture**          | Governance framework foundations and conceptual model                 |
+| **00_00_Governance_Framework**          | Governance framework foundations and conceptual model                 |
 | **01_Executive_Summary**               | Executive overview, board brief, and strategic context                |
 | **02_Business_Problem**                | Forecasting challenge and business case for intervention              |
 | **03_Enterprise_Architecture**         | Data, reporting, governance, and operating architecture               |
