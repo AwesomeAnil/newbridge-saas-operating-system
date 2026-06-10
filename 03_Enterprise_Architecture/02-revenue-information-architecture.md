@@ -19,7 +19,7 @@
 
 ---
 
-# 📌 Executive Overview
+## 📌 Executive Overview
 
 Revenue information is one of the most strategically important assets within a SaaS enterprise.
 
@@ -31,7 +31,7 @@ The New Bridge Revenue Information Architecture defines the information domains,
 
 ---
 
-# 🎯 Architecture Objective
+## 🎯 Architecture Objective
 
 The architecture answers a single question:
 
@@ -41,7 +41,7 @@ The architecture traces the complete information journey from individual sales t
 
 ---
 
-# 🧠 Core Architecture Principle
+## 🧠 Core Architecture Principle
 
 The architecture is built around a foundational principle:
 
@@ -51,9 +51,9 @@ The quality of executive decisions depends on the quality of the underlying info
 
 ---
 
-# 🏛️ Revenue Information Architecture
+## 🏛️ Revenue Information Architecture
 
-## Revenue Information Flow
+### Revenue Information Flow
 
 ```mermaid
 flowchart LR
@@ -97,7 +97,7 @@ style J fill:#e2d9f3,stroke:#6f42c1,stroke-width:2px
 
 ---
 
-# 📊 Information Domains
+## 📊 Information Domains
 
 The architecture is organized into six information domains.
 
@@ -112,7 +112,7 @@ The architecture is organized into six information domains.
 
 ---
 
-# 🧩 Revenue Information Domain Model
+## 🧩 Revenue Information Domain Model
 
 ```mermaid
 flowchart TD
@@ -144,9 +144,9 @@ style F fill:#e2d9f3,stroke:#6f42c1,stroke-width:2px
 
 ---
 
-# 1️⃣ Commercial Activity Domain
+## 1️⃣ Commercial Activity Domain
 
-## Purpose
+### Purpose
 
 Captures customer-facing commercial events.
 
@@ -159,15 +159,15 @@ Captures customer-facing commercial events.
 - Customers
 - Territories
 
-### Business Question
+#### Business Question
 
 > What commercial activity occurred?
 
 ---
 
-# 2️⃣ Revenue Construction Domain
+## 2️⃣ Revenue Construction Domain
 
-## Purpose
+### Purpose
 
 Transforms commercial transactions into standardized revenue metrics.
 
@@ -180,15 +180,15 @@ Transforms commercial transactions into standardized revenue metrics.
 - Segment ARR
 - Geographic ARR
 
-### Business Question
+#### Business Question
 
 > What recurring revenue was created?
 
 ---
 
-# 3️⃣ Revenue Realization Domain
+## 3️⃣ Revenue Realization Domain
 
-## Purpose
+### Purpose
 
 Determines how recurring revenue contributes toward fiscal outcomes.
 
@@ -205,9 +205,9 @@ Determines how recurring revenue contributes toward fiscal outcomes.
 
 ---
 
-# 4️⃣ Forecast Intelligence Domain
+## 4️⃣ Forecast Intelligence Domain
 
-## Purpose
+### Purpose
 
 Evaluates future attainment potential.
 
@@ -245,7 +245,7 @@ Transforms forecast information into measurable enterprise exposure.
 
 # 6️⃣ Decision Intelligence Domain
 
-## Purpose
+### Purpose
 
 Supports executive action and investment decisions.
 
@@ -262,11 +262,11 @@ Supports executive action and investment decisions.
 
 ---
 
-# 🔄 Revenue Information Lineage
+## 🔄 Revenue Information Lineage
 
 The architecture organizes information into progressively higher levels of business value.
 
-## Information Lineage Model
+### Information Lineage Model
 
 ```mermaid
 flowchart LR
@@ -300,7 +300,7 @@ The architecture demonstrates how information gains strategic value as it progre
 
 ---
 
-# 📂 Repository Mapping
+## 📂 Repository Mapping
 
 | Repository Section | Information Domain |
 |---------------------|---------------------|
@@ -313,7 +313,7 @@ The architecture demonstrates how information gains strategic value as it progre
 
 ---
 
-# 🎯 Architecture Implications
+## 🎯 Architecture Implications
 
 The Revenue Information Architecture establishes the information backbone of the New Bridge operating system.
 
@@ -323,7 +323,7 @@ The architecture provides the semantic bridge between business capabilities and 
 
 ---
 
-# 🚀 Strategic Outcome
+## 🚀 Strategic Outcome
 
 The Revenue Information Architecture transforms revenue information from a collection of disconnected metrics into a governed enterprise information supply chain.
 
@@ -331,7 +331,7 @@ This architecture enables consistent revenue governance, forecast governance, ri
 
 ---
 
-# 👤 Author
+### 👤 Author
 
 **Anil Jacob**
 
@@ -339,6 +339,6 @@ Enterprise BI • RevOps Strategy • Executive Analytics • Forecast Governanc
 
 ---
 
-# 📜 Repository Context
+### 📜 Repository Context
 
 All information domains, business metrics, governance models, analytical environments, and business scenarios presented throughout this repository are synthetic and intended exclusively for portfolio, educational, and strategic demonstration purposes.

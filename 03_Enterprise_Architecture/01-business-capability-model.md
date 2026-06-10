@@ -21,7 +21,7 @@
 
 ---
 
-# 📌 Executive Overview
+## 📌 Executive Overview
 
 Enterprise architecture begins with understanding what an organization must be capable of doing before considering how those capabilities are executed through processes, governance structures, analytics platforms, or technology solutions.
 
@@ -40,7 +40,7 @@ The New Bridge Business Capability Model defines the core capabilities required 
 
 ---
 
-# 🎯 Architecture Objective
+## 🎯 Architecture Objective
 
 The Business Capability Model answers a single question:
 
@@ -48,7 +48,7 @@ The Business Capability Model answers a single question:
 
 ---
 
-# 🧠 Core Architecture Principle
+## 🧠 Core Architecture Principle
 
 The model is built around a foundational enterprise architecture principle:
 
@@ -58,11 +58,11 @@ Business capabilities provide the enduring structure connecting strategy, operat
 
 ---
 
-# 🏛️ Enterprise Capability Architecture
+## 🏛️ Enterprise Capability Architecture
 
 The New Bridge operating environment is built around six primary capability domains.
 
-## Enterprise Capability Map
+### Enterprise Capability Map
 
 ```mermaid
 flowchart TD
@@ -92,7 +92,7 @@ style G fill:#e2d9f3,stroke:#6f42c1,stroke-width:2px
 
 ---
 
-# 📊 Capability Domain Overview
+## 📊 Capability Domain Overview
 
 | Capability Domain | Purpose |
 |------------------|----------|
@@ -105,11 +105,11 @@ style G fill:#e2d9f3,stroke:#6f42c1,stroke-width:2px
 
 ---
 
-# 🧩 Capability Decomposition
+## 🧩 Capability Decomposition
 
 The Level 2 decomposition identifies the major capabilities required within each business domain.
 
-## Capability Decomposition Model
+### Capability Decomposition Model
 
 ```mermaid
 flowchart TB
@@ -176,9 +176,9 @@ style DM fill:#e2d9f3,stroke:#6f42c1,stroke-width:2px
 
 ---
 
-# 1️⃣ Revenue Management
+## 1️⃣ Revenue Management
 
-## Purpose
+### Purpose
 
 Revenue Management governs how commercial activity translates into recurring revenue performance and financial outcomes.
 
@@ -196,9 +196,9 @@ Establish a trusted and governed understanding of enterprise revenue performance
 
 ---
 
-# 2️⃣ Forecast Management
+## 2️⃣ Forecast Management
 
-## Purpose
+### Purpose
 
 Forecast Management governs how future business performance is evaluated, monitored, and communicated across the enterprise.
 
@@ -216,9 +216,9 @@ Enable continuous visibility into future business performance and forecast attai
 
 ---
 
-# 3️⃣ Risk Management
+## 3️⃣ Risk Management
 
-## Purpose
+### Purpose
 
 Risk Management governs the identification, assessment, and escalation of threats to enterprise fiscal performance.
 
@@ -256,9 +256,9 @@ Enable disciplined intervention and recovery execution.
 
 ---
 
-# 5️⃣ Capital Allocation
+## 5️⃣ Capital Allocation
 
-## Purpose
+### Purpose
 
 Capital Allocation governs how limited enterprise resources are prioritized and invested.
 
@@ -276,9 +276,9 @@ Maximize recovery effectiveness while preserving capital discipline.
 
 ---
 
-# 6️⃣ Decision Management
+## 6️⃣ Decision Management
 
-## Purpose
+### Purpose
 
 Decision Management governs how enterprise intelligence is transformed into executive action.
 
@@ -296,11 +296,11 @@ Transform enterprise intelligence into disciplined executive decision-making.
 
 ---
 
-# 🔄 Capability Relationship Architecture
+## 🔄 Capability Relationship Architecture
 
 Although each capability domain is distinct, they operate as an integrated enterprise capability value chain.
 
-## Enterprise Capability Value Chain
+### Enterprise Capability Value Chain
 
 ```mermaid
 flowchart LR
@@ -347,7 +347,7 @@ Executive Decision
 
 ---
 
-# 📂 Repository Capability Mapping
+## 📂 Repository Capability Mapping
 
 | Repository Section | Primary Capability |
 |-------------------|-------------------|
@@ -362,7 +362,7 @@ Executive Decision
 
 ---
 
-# 🎯 Architecture Implications
+## 🎯 Architecture Implications
 
 This Business Capability Model serves as the architectural foundation for:
 
@@ -385,7 +385,7 @@ The model intentionally separates:
 
 ---
 
-# 🚀 Strategic Outcome
+## 🚀 Strategic Outcome
 
 The Business Capability Model establishes the architectural backbone of the New Bridge operating system.
 
@@ -395,13 +395,13 @@ This model becomes the foundational architecture artifact upon which all other g
 
 ---
 
-# 👤 Author
+### 👤 Author
 
 **Anil Jacob**  
 Enterprise BI • RevOps Strategy • Executive Analytics • Forecast Governance
 
 ---
 
-# 📜 Repository Context
+### 📜 Repository Context
 
 All business capabilities, governance frameworks, operating models, analytical environments, and business scenarios presented throughout this repository are synthetic and intended exclusively for portfolio, educational, and strategic demonstration purposes.
