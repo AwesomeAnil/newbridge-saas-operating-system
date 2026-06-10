@@ -224,9 +224,9 @@ Evaluates future attainment potential.
 
 ---
 
-# 5️⃣ Risk Intelligence Domain
+## 5️⃣ Risk Intelligence Domain
 
-## Purpose
+### Purpose
 
 Transforms forecast information into measurable enterprise exposure.
 
@@ -243,7 +243,7 @@ Transforms forecast information into measurable enterprise exposure.
 
 ---
 
-# 6️⃣ Decision Intelligence Domain
+## 6️⃣ Decision Intelligence Domain
 
 ### Purpose
 
