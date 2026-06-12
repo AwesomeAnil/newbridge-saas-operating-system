@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1250" viewBox="0 0 1000 1250">
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="4" orient="auto">
+      <path d="M0,0 L0,8 L12,4 z" fill="#666"/>
+    </marker>
+  </defs>
+
+  <style>
+    .title { font-family: Arial, Helvetica, sans-serif; font-size: 34px; font-weight: 700; fill: #222; }
+    .subtitle { font-family: Arial, Helvetica, sans-serif; font-size: 18px; fill: #555; }
+    .boxtext { font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: 600; fill: #222; }
+    .boxtextwhite { font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: 700; fill: white; }
+    .arrow { stroke:#666; stroke-width:3; fill:none; marker-end:url(#arrow); }
+  </style>
+
+  <text x="500" y="55" text-anchor="middle" class="title">Enterprise Architecture Stack</text>
+  <text x="500" y="90" text-anchor="middle" class="subtitle">
+    Layered architecture showing how capabilities, information, decisions and technology connect
+  </text>
+
+  <rect x="250" y="140" width="500" height="70" rx="12" ry="12" fill="#cfe2ff" stroke="#084298" stroke-width="2"/>
+  <text x="500" y="183" text-anchor="middle" class="boxtext">Business Capability Model</text>
+
+  <rect x="250" y="260" width="500" height="70" rx="12" ry="12" fill="#fff3cd" stroke="#997404" stroke-width="2"/>
+  <text x="500" y="303" text-anchor="middle" class="boxtext">Revenue Information Architecture</text>
+
+  <rect x="250" y="380" width="500" height="70" rx="12" ry="12" fill="#e2d9f3" stroke="#6f42c1" stroke-width="2"/>
+  <text x="500" y="423" text-anchor="middle" class="boxtext">Decision Intelligence Architecture</text>
+
+  <rect x="250" y="500" width="500" height="70" rx="12" ry="12" fill="#d1e7dd" stroke="#146c43" stroke-width="2"/>
+  <text x="500" y="543" text-anchor="middle" class="boxtext">Solution Architecture</text>
+
+  <rect x="250" y="620" width="500" height="70" rx="12" ry="12" fill="#cfe2ff" stroke="#084298" stroke-width="2"/>
+  <text x="500" y="663" text-anchor="middle" class="boxtext">Operating Models</text>
+
+  <rect x="250" y="740" width="500" height="70" rx="12" ry="12" fill="#f8d7da" stroke="#b02a37" stroke-width="2"/>
+  <text x="500" y="783" text-anchor="middle" class="boxtext">Governance Frameworks</text>
+
+  <rect x="250" y="860" width="500" height="70" rx="12" ry="12" fill="#cfe2ff" stroke="#084298" stroke-width="2"/>
+  <text x="500" y="903" text-anchor="middle" class="boxtext">Financial Models</text>
+
+  <rect x="250" y="980" width="500" height="70" rx="12" ry="12" fill="#d1e7dd" stroke="#146c43" stroke-width="2"/>
+  <text x="500" y="1023" text-anchor="middle" class="boxtext">Optimization Models</text>
+
+  <rect x="250" y="1100" width="500" height="80" rx="12" ry="12" fill="#6f42c1" stroke="#6f42c1" stroke-width="3"/>
+  <text x="500" y="1148" text-anchor="middle" class="boxtextwhite">Executive Analytics</text>
+
+  <line x1="500" y1="210" x2="500" y2="260" class="arrow"/>
+  <line x1="500" y1="330" x2="500" y2="380" class="arrow"/>
+  <line x1="500" y1="450" x2="500" y2="500" class="arrow"/>
+  <line x1="500" y1="570" x2="500" y2="620" class="arrow"/>
+  <line x1="500" y1="690" x2="500" y2="740" class="arrow"/>
+  <line x1="500" y1="810" x2="500" y2="860" class="arrow"/>
+  <line x1="500" y1="930" x2="500" y2="980" class="arrow"/>
+  <line x1="500" y1="1050" x2="500" y2="1100" class="arrow"/>
+
+</svg>

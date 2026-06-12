@@ -130,45 +130,10 @@ The objective is to determine:
 
 The repository is intentionally organized as a layered enterprise architecture.
 
-```mermaid
-flowchart TD
+<p align="center">
+  <img src="enterprise-architecture-stack.svg" alt="Enterprise Architecture Stack">
+</p>
 
-A["Business Capability Model"]
-
---> B["Revenue Information Architecture"]
-
---> C["Decision Intelligence Architecture"]
-
---> D["Solution Architecture"]
-
---> E["Operating Models"]
-
---> F["Governance Frameworks"]
-
---> G["Financial Models"]
-
---> H["Optimization Models"]
-
---> I["Executive Analytics"]
-
-style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
-
-style B fill:#fff3cd,stroke:#997404,stroke-width:2px
-
-style C fill:#e2d9f3,stroke:#6f42c1,stroke-width:2px
-
-style D fill:#d1e7dd,stroke:#146c43,stroke-width:2px
-
-style E fill:#cfe2ff,stroke:#084298,stroke-width:2px
-
-style F fill:#f8d7da,stroke:#b02a37,stroke-width:2px
-
-style G fill:#cfe2ff,stroke:#084298,stroke-width:2px
-
-style H fill:#d1e7dd,stroke:#146c43,stroke-width:2px
-
-style I fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
-```
 
 This architecture demonstrates how business capabilities, information, governance, optimization, and executive analytics combine to form a unified decision intelligence operating system.
 
