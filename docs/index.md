@@ -55,37 +55,9 @@ New Bridge was built to answer these questions.
 
 The repository is organized around a simple progression:
 
-```mermaid
-flowchart LR
-
-A["Commercial Activity"]
-
---> B["Revenue Intelligence"]
-
---> C["Forecast Intelligence"]
-
---> D["Risk Intelligence"]
-
---> E["Recovery Intelligence"]
-
---> F["Optimization Intelligence"]
-
---> G["Executive Decisions"]
-
-style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
-
-style B fill:#cfe2ff,stroke:#084298,stroke-width:2px
-
-style C fill:#fff3cd,stroke:#997404,stroke-width:2px
-
-style D fill:#f8d7da,stroke:#b02a37,stroke-width:2px
-
-style E fill:#fff3cd,stroke:#997404,stroke-width:2px
-
-style F fill:#d1e7dd,stroke:#146c43,stroke-width:2px
-
-style G fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
-```
+<p align="center">
+  <img src="Decision_Intelligence_Value_Chain.png" alt="Decision Intelligence Value Chain">
+</p>
 
 Each stage transforms information into progressively higher forms of business value.
 
