@@ -174,7 +174,7 @@ A["Risk Detection"]
 
 --> E["Recovery Authorization"]
 
---> F["Optimization Execution"]
+--> F["Optimizated Execution"]
 
 style A fill:#f8d7da,stroke:#b02a37,stroke-width:2px
 
