@@ -6,28 +6,6 @@
 
 ---
 
-## 🏆 Enterprise Capability Coverage
-
-| Domain                             | Coverage |
-| ---------------------------------- | -------- |
-| Business Architecture              | ✅        |
-| Information Architecture           | ✅        |
-| Decision Intelligence Architecture | ✅        |
-| Solution Architecture              | ✅        |
-| Operating Model Design             | ✅        |
-| Revenue Governance                 | ✅        |
-| Forecast Governance                | ✅        |
-| Revenue Intelligence               | ✅        |
-| Risk Intelligence                  | ✅        |
-| Recovery Planning                  | ✅        |
-| Capital Allocation                 | ✅        |
-| Optimization Modeling              | ✅        |
-| Executive Analytics                | ✅        |
-
-**Repository Scope:** End-to-end Revenue Governance, Decision Intelligence, Portfolio Optimization, and Executive Analytics Operating System.
-
----
-
 ## 📌 Executive Brief
 
 New Bridge is an Enterprise Revenue Governance and Decision Intelligence Operating System demonstrating how SaaS organizations can transform revenue intelligence, forecast governance, enterprise risk management, recovery planning, capital allocation, and executive decision-making into a unified operating model.
@@ -84,6 +62,56 @@ The repository is organized around a simple progression:
 Each stage transforms information into progressively higher forms of business value.
 
 The architecture intentionally extends beyond traditional reporting environments and demonstrates how enterprise intelligence can support executive decision-making under uncertainty.
+
+---
+
+<table>
+<tr>
+<td>🏛️ Business Architecture</td>
+<td>📊 Information Architecture</td>
+<td>🧠 Decision Intelligence</td>
+</tr>
+
+<tr>
+<td>⚙️ Solution Architecture</td>
+<td>🛡️ Governance Frameworks</td>
+<td>📈 Revenue Intelligence</td>
+</tr>
+
+<tr>
+<td>⚠️ Risk Intelligence</td>
+<td>🔄 Recovery Planning</td>
+<td>💰 Capital Allocation</td>
+</tr>
+
+<tr>
+<td>📐 Optimization Models</td>
+<td>📊 Executive Analytics</td>
+<td>🚀 Operating Models</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Enterprise Capability Coverage
+
+| Domain                             | Coverage |
+| ---------------------------------- | -------- |
+| Business Architecture              | ✅        |
+| Information Architecture           | ✅        |
+| Decision Intelligence Architecture | ✅        |
+| Solution Architecture              | ✅        |
+| Operating Model Design             | ✅        |
+| Revenue Governance                 | ✅        |
+| Forecast Governance                | ✅        |
+| Revenue Intelligence               | ✅        |
+| Risk Intelligence                  | ✅        |
+| Recovery Planning                  | ✅        |
+| Capital Allocation                 | ✅        |
+| Optimization Modeling              | ✅        |
+| Executive Analytics                | ✅        |
+
+**Repository Scope:** End-to-end Revenue Governance, Decision Intelligence, Portfolio Optimization, and Executive Analytics Operating System.
 
 ---
 
