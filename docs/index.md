@@ -56,7 +56,7 @@ New Bridge was built to answer these questions.
 The repository is organized around a simple progression:
 
 <p align="center">
-  <img src="Decision_Intelligence_Value_Chain.png" alt="Decision Intelligence Value Chain">
+  <img src="DI_Value_Chain.svg" alt="Decision Intelligence Value Chain">
 </p>
 
 Each stage transforms information into progressively higher forms of business value.
