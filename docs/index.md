@@ -6,6 +6,28 @@
 
 ---
 
+## 🏆 Enterprise Capability Coverage
+
+| Domain                             | Coverage |
+| ---------------------------------- | -------- |
+| Business Architecture              | ✅        |
+| Information Architecture           | ✅        |
+| Decision Intelligence Architecture | ✅        |
+| Solution Architecture              | ✅        |
+| Operating Model Design             | ✅        |
+| Revenue Governance                 | ✅        |
+| Forecast Governance                | ✅        |
+| Revenue Intelligence               | ✅        |
+| Risk Intelligence                  | ✅        |
+| Recovery Planning                  | ✅        |
+| Capital Allocation                 | ✅        |
+| Optimization Modeling              | ✅        |
+| Executive Analytics                | ✅        |
+
+**Repository Scope:** End-to-end Revenue Governance, Decision Intelligence, Portfolio Optimization, and Executive Analytics Operating System.
+
+---
+
 ## 📌 Executive Brief
 
 New Bridge is an Enterprise Revenue Governance and Decision Intelligence Operating System demonstrating how SaaS organizations can transform revenue intelligence, forecast governance, enterprise risk management, recovery planning, capital allocation, and executive decision-making into a unified operating model.
@@ -31,7 +53,7 @@ The objective is to improve decision quality.
 
 ---
 
-# 🎯 The Executive Problem
+## 🎯 The Executive Problem
 
 Most organizations can answer:
 
@@ -51,7 +73,7 @@ New Bridge was built to answer these questions.
 
 ---
 
-# 🧠 Decision Intelligence Value Chain
+## 🧠 Decision Intelligence Value Chain
 
 The repository is organized around a simple progression:
 
@@ -65,7 +87,7 @@ The architecture intentionally extends beyond traditional reporting environments
 
 ---
 
-# 📉 The Business Challenge
+## 📉 The Business Challenge
 
 At the end of Q3 FY26, historical reporting suggested the business was performing strongly.
 
@@ -92,7 +114,7 @@ The challenge became:
 
 ---
 
-# ⚠️ Forecast Deterioration Journey
+## ⚠️ Forecast Deterioration Journey
 
 <p align="center">
   <img src="forecast-deterioration-journey.svg" alt="Forecast Deterioration Journey">
@@ -106,7 +128,7 @@ This deterioration becomes the catalyst for recovery planning, capital allocatio
 
 ---
 
-# 🛡️ Recovery Optimization Framework
+## 🛡️ Recovery Optimization Framework
 
 <p align="center">
   <img src="recovery-optimization-framework.svg" alt="Recovery Optimization Framework">
@@ -126,7 +148,7 @@ The objective is to determine:
 
 ---
 
-# 🏛️ Enterprise Architecture Stack
+## 🏛️ Enterprise Architecture Stack
 
 The repository is intentionally organized as a layered enterprise architecture.
 
@@ -139,9 +161,9 @@ This architecture demonstrates how business capabilities, information, governanc
 
 ---
 
-# 🧭 Choose Your Journey
+## 🧭 Choose Your Journey
 
-## 🏛️ Board Members, CEOs, CFOs & CROs
+### 🏛️ Board Members, CEOs, CFOs & CROs
 
 Recommended path:
 
@@ -159,7 +181,7 @@ Next Generation Operating Model
 
 ---
 
-## 💰 Finance & Revenue Leaders
+### 💰 Finance & Revenue Leaders
 
 Recommended path:
 
@@ -175,7 +197,7 @@ Investment Tradeoff Analysis
 
 ---
 
-## 📈 Revenue Operations & Commercial Strategy
+### 📈 Revenue Operations & Commercial Strategy
 
 Recommended path:
 
@@ -191,7 +213,7 @@ Investment Tradeoff Analysis
 
 ---
 
-## 🏛️ Enterprise Architects
+### 🏛️ Enterprise Architects
 
 Recommended path:
 
@@ -209,7 +231,7 @@ Next Generation Operating Model
 
 ---
 
-## 📊 BI, Analytics & Data Leaders
+### 📊 BI, Analytics & Data Leaders
 
 Recommended path:
 
@@ -225,7 +247,7 @@ Power BI Dashboards
 
 ---
 
-## 🧠 Strategy, Transformation & Private Equity Leaders
+### 🧠 Strategy, Transformation & Private Equity Leaders
 
 Recommended path:
 
@@ -241,9 +263,9 @@ Executive Lessons Learned
 
 ---
 
-# 📂 Repository Components
+## 📂 Repository Components
 
-## 🏛️ Architecture Layer
+### 🏛️ Architecture Layer
 
 Defines enterprise structure, information flow, decision flow, and implementation architecture.
 
@@ -254,7 +276,7 @@ Defines enterprise structure, information flow, decision flow, and implementatio
 
 ---
 
-## ⚙️ Operating Model Layer
+### ⚙️ Operating Model Layer
 
 Defines how the enterprise operates.
 
@@ -262,7 +284,7 @@ Defines how the enterprise operates.
 
 ---
 
-## 🛡️ Governance Layer
+### 🛡️ Governance Layer
 
 Defines controls, accountability, and management disciplines.
 
@@ -272,7 +294,7 @@ Defines controls, accountability, and management disciplines.
 
 ---
 
-## 💰 Financial Intelligence Layer
+### 💰 Financial Intelligence Layer
 
 Defines revenue realization mechanics and financial intelligence.
 
@@ -280,7 +302,7 @@ Defines revenue realization mechanics and financial intelligence.
 
 ---
 
-## 📈 Optimization Layer
+### 📈 Optimization Layer
 
 Defines recovery, intervention, and capital allocation strategies.
 
@@ -290,7 +312,7 @@ Defines recovery, intervention, and capital allocation strategies.
 
 ---
 
-## 📊 Executive Analytics Layer
+$## 📊 Executive Analytics Layer
 
 Provides decision visibility and executive reporting.
 
@@ -298,7 +320,7 @@ Provides decision visibility and executive reporting.
 
 ---
 
-# 🏆 Key Capabilities Demonstrated
+## 🏆 Key Capabilities Demonstrated
 
 | Capability               | Demonstrated |
 | ------------------------ | ------------ |
@@ -321,7 +343,7 @@ Provides decision visibility and executive reporting.
 
 ---
 
-# 🌟 What Makes This Different?
+## 🌟 What Makes This Different?
 
 Most analytics initiatives stop at:
 
@@ -353,7 +375,7 @@ The result is a practical demonstration of how forecasting, governance, enterpri
 
 ---
 
-# 🎯 Strategic Outcomes
+## 🎯 Strategic Outcomes
 
 The New Bridge operating system demonstrates how organizations can:
 
@@ -379,7 +401,7 @@ The New Bridge operating system demonstrates how organizations can:
 
 ---
 
-## 👤 Author
+### 👤 Author
 
 **Anil Jacob**
 
@@ -387,7 +409,7 @@ Enterprise BI • Revenue Operations Strategy • Executive Analytics • Foreca
 
 ---
 
-## 📜 Repository Context
+### 📜 Repository Context
 
 All datasets, architectures, operating models, governance frameworks, financial models, optimization systems, forecasts, and business scenarios contained within this repository are synthetic and intended exclusively for portfolio, educational, and strategic demonstration purposes.
 
