@@ -28,7 +28,7 @@
 
 ---
 
-# 📌 Executive Overview
+## 📌 Executive Overview
 
 Most organizations can identify forecast deterioration.
 
@@ -47,17 +47,17 @@ CRR is a governance mechanism designed to formalize how organizations prioritize
 
 The framework serves as the bridge between:
 
-## ⚠️ Enterprise Risk Detection
+### ⚠️ Enterprise Risk Detection
 
 and
 
-## 🛡️ Enterprise Recovery Intervention
+### 🛡️ Enterprise Recovery Intervention
 
 transforming forecast deterioration into a structured decision-making process rather than an ad hoc reaction.
 
 ---
 
-# 🎯 The Intervention Problem
+## 🎯 The Intervention Problem
 
 Traditional forecast governance often follows a predictable pattern.
 
@@ -99,7 +99,7 @@ The objective is to maximize survivability.
 
 ---
 
-# 🧠 Core Governance Principle
+## 🧠 Core Governance Principle
 
 The framework is built around a foundational principle:
 
@@ -114,17 +114,17 @@ Organizations should intervene only when:
 
 This creates a governed escalation pathway between:
 
-## 📊 Forecast Visibility
+### 📊 Forecast Visibility
 
 and
 
-## 🏛️ Enterprise Recovery Governance
+### 🏛️ Enterprise Recovery Governance
 
 ---
 
-# 🏛️ Why CRR Exists
+## 🏛️ Why CRR Exists
 
-## Recovery Governance Value Chain
+### Recovery Governance Value Chain
 
 ```mermaid
 flowchart TD
@@ -159,7 +159,7 @@ Rather than treating forecast deterioration as a reporting exercise, the framewo
 
 ---
 
-# 📊 CRR Governance Model
+## 📊 CRR Governance Model
 
 ```mermaid
 flowchart TD
@@ -193,7 +193,7 @@ The governance model ensures intervention decisions remain transparent, auditabl
 
 ---
 
-# 📉 Enterprise Forecast Escalation States
+## 📉 Enterprise Forecast Escalation States
 
 The New Bridge simulation intentionally models three progressively calibrated forecast confidence states at the end of Fiscal Q3 FY26.
 
@@ -209,7 +209,7 @@ The objective is to determine when enterprise intervention becomes justified.
 
 ---
 
-# 🚦 CRR Decision Matrix
+## 🚦 CRR Decision Matrix
 
 The governance framework defines intervention thresholds based on exposure severity.
 
@@ -224,7 +224,7 @@ The decision matrix establishes consistency in intervention decisions and reduce
 
 ---
 
-# 💰 Recovery Capital Allocation Framework
+## 💰 Recovery Capital Allocation Framework
 
 Recovery resources are finite.
 
@@ -264,7 +264,7 @@ The framework ensures that capital is directed toward the highest-value recovery
 
 ---
 
-# 🌍 Recovery Prioritization Philosophy
+## 🌍 Recovery Prioritization Philosophy
 
 Recovery funding should not be distributed uniformly.
 
@@ -281,7 +281,7 @@ The objective is to maximize fiscal-year recovery per unit of capital deployed.
 
 ---
 
-# 🛡️ Governance Escalation Pathways
+## 🛡️ Governance Escalation Pathways
 
 ```mermaid
 flowchart TD
@@ -315,7 +315,7 @@ This governance pathway formalizes the movement from exposure visibility to fund
 
 ---
 
-# 🔄 Relationship To Recovery Optimization
+## 🔄 Relationship To Recovery Optimization
 
 CRR and Recovery Optimization serve different but complementary purposes.
 
@@ -339,7 +339,7 @@ Together they create a complete governance-to-execution model.
 
 ---
 
-# 🏗️ Position Within The New Bridge Operating System
+## 🏗️ Position Within The New Bridge Operating System
 
 CRR occupies a unique position within the overall architecture.
 
@@ -361,7 +361,7 @@ Together they create an end-to-end decision intelligence workflow.
 
 ---
 
-# 🎯 Strategic Outcomes
+## 🎯 Strategic Outcomes
 
 The Central Risk Reserve transforms forecast deterioration from a reporting problem into a governed intervention process.
 
@@ -387,7 +387,7 @@ CRR serves as the decision bridge between enterprise risk detection and recovery
 
 ---
 
-# 🏆 Key Takeaways
+## 🏆 Key Takeaways
 
 ### Traditional Model
 
