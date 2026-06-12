@@ -370,22 +370,22 @@ Executive Lessons Learned
 
 ## 📂 Repository Structure
 
-### Architecture Layer
+### Architecture Layer: folder 03_Architecture
 
 | Artifact                           | Purpose                              |
 | ---------------------------------- | ------------------------------------ |
-| Business Capability Model          | Enterprise capability architecture   |
-| Revenue Information Architecture   | Revenue information flow             |
-| Decision Intelligence Architecture | Executive decision architecture      |
-| Solution Architecture              | Platform implementation architecture |
+| 01-Business-Capability-Model          | Enterprise capability architecture   |
+| 02-Revenue_Information_Architecture   | Revenue information flow             |
+| 03-Decision-Intelligence-Architecture | Executive decision architecture      |
+| 04-Solution-Architecture              | Platform implementation architecture |
 
 ---
 
-### Operating Model Layer
+### Operating Model Layer: 
 
 | Section                         | Purpose                       |
 | ------------------------------- | ----------------------------- |
-| Next Generation Operating Model | Future-state operating vision |
+| 12_Next_Generation_Operating_Model | Future-state operating vision |
 
 ---
 
@@ -425,7 +425,7 @@ Executive Lessons Learned
 
 ---
 
-# 🏗️ Technology & Analytics Stack
+## 🏗️ Technology & Analytics Stack
 
 | Area               | Platform                      |
 | ------------------ | ----------------------------- |
@@ -498,7 +498,7 @@ The result is a practical demonstration of how forecasting, governance, enterpri
 
 ---
 
-## 👤 Author
+### 👤 Author
 
 **Anil Jacob**
 
@@ -506,7 +506,7 @@ Enterprise BI • Revenue Operations Strategy • Executive Analytics • Foreca
 
 ---
 
-## 📜 Repository Context
+### 📜 Repository Context
 
 All datasets, architectures, operating models, governance frameworks, financial models, optimization systems, forecasts, and business scenarios contained within this repository are synthetic and intended exclusively for portfolio, educational, and strategic demonstration purposes.
 
