@@ -1,10 +1,12 @@
 # 🚀 Next Generation Revenue Operating Model
+
 ## 🏛️ From Reactive Recovery To Proactive Commercial Governance
 
 <p align="center">
 
-🏠 \[Repository Home](../README.md)
-🎓 \[Institutional Lessons \& Strategic Insights](../11\_Institutional\_Lessons/institutional-lessons-and-strategic-insights.md)
+🏠 [Repository Home](../README.md)
+
+🎓 [Institutional Lessons & Strategic Insights](../11_Institutional_Lessons/institutional-lessons-and-strategic-insights.md)
 
 </p>
 
@@ -12,23 +14,22 @@
 
 <p align="center">
 
-!\[Revenue Operating Model](https://img.shields.io/badge/Revenue-Operating%20Model-darkblue)
-!\[Forecast Intelligence](https://img.shields.io/badge/Forecast-Intelligence-critical)
-!\[Risk Intelligence](https://img.shields.io/badge/Risk-Intelligence-orange)
-!\[Recovery Governance](https://img.shields.io/badge/Recovery-Governance-success)
-!\[Portfolio Intelligence](https://img.shields.io/badge/Portfolio-Intelligence-green)
-!\[Decision Intelligence](https://img.shields.io/badge/Decision-Intelligence-purple)
-!\[Commercial Governance](https://img.shields.io/badge/Commercial-Governance-black)
-!\[Future State](https://img.shields.io/badge/Future-State-brightgreen)
+![Revenue Operating Model](https://img.shields.io/badge/Revenue-Operating%20Model-darkblue)
+![Forecast Intelligence](https://img.shields.io/badge/Forecast-Intelligence-critical)
+![Risk Intelligence](https://img.shields.io/badge/Risk-Intelligence-orange)
+![Recovery Governance](https://img.shields.io/badge/Recovery-Governance-success)
+![Portfolio Intelligence](https://img.shields.io/badge/Portfolio-Intelligence-green)
+![Decision Intelligence](https://img.shields.io/badge/Decision-Intelligence-purple)
+![Commercial Governance](https://img.shields.io/badge/Commercial-Governance-black)
+![Future State](https://img.shields.io/badge/Future-State-brightgreen)
 
 </p>
 
 ---
+
 ## 📌 Executive Overview
 
-
-
-The New Bridge simulation demonstrated that forecast coverage could deteriorate from \*\*105.1% under Full Pipe assumptions\*\* to \*\*78.0% under High Confidence assumptions\*\*, creating a potential \*\*$35M forecast exposure\*\* despite strong historical attainment. Recovery Optimization subsequently demonstrated that fiscal-year attainment could be restored through intervention portfolios requiring between \*\*$5.99M and $18.0M\*\* of recovery capital.
+The New Bridge simulation demonstrated that forecast coverage could deteriorate from **105.1% under Full Pipe assumptions** to **78.0% under High Confidence assumptions**, creating a potential **$35M forecast exposure** despite strong historical attainment. Recovery Optimization subsequently demonstrated that fiscal-year attainment could be restored through intervention portfolios requiring between **$5.99M and $18.0M** of recovery capital.
 
 While these capabilities successfully addressed the immediate recovery challenge, they also exposed a larger opportunity. The same forecasting, governance, optimization, and decision frameworks used to recover performance could be deployed much earlier in the fiscal cycle, reducing exposure before recovery becomes necessary.
 
@@ -40,19 +41,32 @@ The purpose of the Next Generation Revenue Operating Model is therefore not to i
 
 ```mermaid
 flowchart TD
-A\["<table><tr><td width='350' align='center'>Forecast Intelligence</td></tr></table>"] --> B\["<table><tr><td width='350' align='center'>Risk Intelligence</td></tr></table>"]
-B --> C\["<table><tr><td width='350' align='center'>Recovery Governance</td></tr></table>"]
-C --> D\["<table><tr><td width='350' align='center'>Portfolio Intelligence</td></tr></table>"]
-D --> E\["<table><tr><td width='350' align='center'>Decision Intelligence</td></tr></table>"]
-E --> F\["<table><tr><td width='350' align='center'>Sustainable Fiscal Performance</td></tr></table>"]
-%% Individual Node Color Overrides
+
+A["Forecast Intelligence"]
+
+--> B["Risk Intelligence"]
+
+--> C["Recovery Governance"]
+
+--> D["Portfolio Intelligence"]
+
+--> E["Decision Intelligence"]
+
+--> F["Sustainable Fiscal Performance"]
+
 style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
+
 style B fill:#fff3cd,stroke:#997404,stroke-width:2px
+
 style C fill:#f8d7da,stroke:#b02a37,stroke-width:2px
+
 style D fill:#d1e7dd,stroke:#146c43,stroke-width:2px
+
 style E fill:#e2d9f3,stroke:#6f42c1,stroke-width:2px
+
 style F fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
 ```
+
 The future-state model institutionalizes the capabilities developed throughout New Bridge and embeds them into the operating rhythm of the organization.
 
 ---
@@ -65,54 +79,70 @@ The operating model evolves from:
 
 ```text
 Historical Reporting
-&#x20;       ↓
+        ↓
 Q3 Risk Discovery
-&#x20;       ↓
+        ↓
 CRR Activation
-&#x20;       ↓
+        ↓
 Recovery Program
-&#x20;       ↓
+        ↓
 Budget Protection
 ```
+
 To:
 
 ### Future State
 
 ```text
 Continuous Forecast Governance
-&#x20;       ↓
+        ↓
 Early Risk Detection
-&#x20;       ↓
+        ↓
 Scenario-Based Planning
-&#x20;       ↓
+        ↓
 Recovery Readiness
-&#x20;       ↓
+        ↓
 Capital Optimization
-&#x20;       ↓
+        ↓
 Sustainable Fiscal Performance
 ```
+
 ---
 
 ## 🔄 Operating Model Transformation
 
 ```mermaid
 flowchart TD
-A\["<table><tr><td width='350' align='center'>Revenue Intelligence</td></tr></table>"] --> B\["<table><tr><td width='350' align='center'>Forecast Intelligence</td></tr></table>"]
-B --> C\["<table><tr><td width='350' align='center'>Risk Intelligence</td></tr></table>"]
-C --> D\["<table><tr><td width='350' align='center'>Recovery Governance</td></tr></table>"]
-D --> E\["<table><tr><td width='350' align='center'>Portfolio Intelligence</td></tr></table>"]
-E --> F\["<table><tr><td width='350' align='center'>Decision Intelligence</td></tr></table>"]
-F --> G\["<table><tr><td width='350' align='center'>Commercial Operating Model</td></tr></table>"]
 
-%% Individual Node Color Overrides
+A["Revenue Intelligence"]
+
+--> B["Forecast Intelligence"]
+
+--> C["Risk Intelligence"]
+
+--> D["Recovery Governance"]
+
+--> E["Portfolio Intelligence"]
+
+--> F["Decision Intelligence"]
+
+--> G["Commercial Operating Model"]
+
 style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
+
 style B fill:#cfe2ff,stroke:#084298,stroke-width:2px
+
 style C fill:#fff3cd,stroke:#997404,stroke-width:2px
+
 style D fill:#f8d7da,stroke:#b02a37,stroke-width:2px
+
 style E fill:#d1e7dd,stroke:#146c43,stroke-width:2px
+
 style F fill:#e2d9f3,stroke:#6f42c1,stroke-width:2px
+
 style G fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
 ```
+
 This progression reflects the evolution observed throughout the New Bridge journey and provides the foundation for a more mature commercial operating model.
 
 ---
@@ -125,17 +155,21 @@ The future-state operating model seeks to identify deterioration much earlier in
 
 | Detection Timing | Available Recovery Window |
 | ---------------- | ------------------------: |
-| End of Q1        |                 \~9 Months |
-| End of Q2        |                 \~6 Months |
-| End of Q3        |                 \~3 Months |
+| End of Q1        |                 ~9 Months |
+| End of Q2        |                 ~6 Months |
+| End of Q3        |                 ~3 Months |
 | Q4               |    Limited Remaining Time |
 
 Earlier detection creates:
 
 ✅ Longer realization windows
+
 ✅ Greater forecast visibility
+
 ✅ Higher intervention effectiveness
+
 ✅ Improved recovery economics
+
 ✅ Reduced execution pressure
 
 ### Executive Insight
@@ -146,10 +180,12 @@ Recovery effectiveness is driven as much by timing as by investment magnitude.
 
 ## 2️⃣ Early Risk Detection Expands Available Recovery Levers
 
-The High Confidence scenario created approximately \*\*$35M of forecast exposure\*\* with only one fiscal quarter remaining. Under these conditions, recovery efforts were necessarily concentrated on short-cycle interventions such as RAF programs, renewals acceleration, discount programs, and deal acceleration initiatives.
+The High Confidence scenario created approximately **$35M of forecast exposure** with only one fiscal quarter remaining. Under these conditions, recovery efforts were necessarily concentrated on short-cycle interventions such as RAF programs, renewals acceleration, discount programs, and deal acceleration initiatives.
+
 Earlier detection fundamentally changes the recovery toolkit available to leadership by creating sufficient time for growth-oriented interventions that are unavailable during late-stage recovery environments.
 
 ### Late Detection Environment
+
 ```text
 RAF Programs
 Renewal Programs
@@ -158,11 +194,13 @@ Deal Acceleration
 ```
 
 ### Early Detection Environment
+
 ```text
 RAF Programs
 Renewal Programs
 Discount Programs
 Deal Acceleration
+
 Lead Generation
 Pipeline Creation
 Partner Enablement
@@ -200,9 +238,11 @@ Multiple forecast realities provide stronger governance than a single forecast a
 ## 4️⃣ Standing Recovery Readiness
 
 New Bridge required the creation of CRR governance frameworks, ROI coefficient matrices, geography prioritization methodologies, and recovery optimization models under active recovery conditions.
+
 The future-state model institutionalizes these capabilities as standing business assets, ensuring that recovery readiness exists before forecast deterioration occurs.
 
 Core capabilities include:
+
 * CRR governance frameworks
 * ROI intelligence models
 * Recovery playbooks
@@ -216,9 +256,9 @@ Recovery readiness should become an institutional capability rather than an emer
 
 ---
 
-## 5️⃣ Institutional Capital Allocation
+## 5️⃣ Institutional Capital Allocation Intelligence
 
-The High Confidence scenario demonstrated that approximately \*\*$18M of recovery capital\*\* could be concentrated within geographies to address nearly \*\*$35M of forecast exposure\*\*. The effectiveness of this approach depended upon ROI intelligence, forecast uplift potential, and geography-specific recovery economics.
+The High Confidence scenario demonstrated that approximately **$18M of recovery capital** could be concentrated within a relatively small number of geographies to address nearly **$35M of forecast exposure**. The effectiveness of this approach depended upon ROI intelligence, forecast uplift potential, and geography-specific recovery economics.
 
 The future-state operating model institutionalizes these capabilities so that capital allocation decisions are continuously informed by objective recovery economics rather than developed during periods of crisis.
 
@@ -232,7 +272,7 @@ Core capabilities include:
 
 ### Executive Insight
 
-Capital allocation compounds in value when treated as a strategic enterprise asset.
+Capital allocation intelligence compounds in value when treated as a strategic enterprise asset.
 
 ---
 
@@ -244,10 +284,10 @@ The future-state model embeds scenario planning directly into the governance cad
 
 ```text
 Full Pipe
-&#x20;     ↓
+      ↓
 Qualified Pipe
-&#x20;     ↓
-High (Confidence) Pipe
+      ↓
+High Confidence
 ```
 
 This approach shifts scenario planning from an occasional analytical exercise to a permanent governance capability.
@@ -258,22 +298,23 @@ Scenario planning should become part of the operating cadence rather than an act
 
 ---
 
-## 7️⃣ Analytics for Decision Intelligence
+## 7️⃣ Analytics As Decision Intelligence
 
 New Bridge began with reporting, forecasting, and revenue visibility. As forecast confidence deteriorated and exposure increased, the focus shifted toward intervention governance, capital allocation, recovery optimization, and executive portfolio selection.
+
 This progression transformed analytics from a reporting capability into a decision intelligence capability capable of supporting leadership through uncertainty.
 
 ```text
 Revenue Intelligence
-&#x20;       ↓
+        ↓
 Forecast Intelligence
-&#x20;       ↓
+        ↓
 Risk Intelligence
-&#x20;       ↓
+        ↓
 Recovery Governance
-&#x20;       ↓
+        ↓
 Portfolio Intelligence
-&#x20;       ↓
+        ↓
 Decision Intelligence
 ```
 
@@ -287,27 +328,42 @@ The highest value of analytics is not visibility. It is better decisions.
 
 ```mermaid
 flowchart TD
-A\["<table><tr><td width='350' align='center'>Continuous Forecast<br> Governance</td></tr></table>"] --> B\["<table><tr><td width='350' align='center'>Early Risk Detection</td></tr></table>"]
-B --> C\["<table><tr><td width='350' align='center'>Scenario Planning</td></tr></table>"]
-C --> D\["<table><tr><td width='350' align='center'>Recovery Readiness</td></tr></table>"]
-D --> E\["<table><tr><td width='350' align='center'>Capital Allocation<br> Intelligence</td></tr></table>"]
-E --> F\["<table><tr><td width='350' align='center'>Decision Intelligence</td></tr></table>"]
-F --> G\["<table><tr><td width='350' align='center'>Sustainable Fiscal<br> Performance</td></tr></table>"]
 
-%% Individual Node Color Overrides
+A["Continuous Forecast Governance"]
+
+--> B["Early Risk Detection"]
+
+--> C["Scenario Planning"]
+
+--> D["Recovery Readiness"]
+
+--> E["Capital Allocation Intelligence"]
+
+--> F["Decision Intelligence"]
+
+--> G["Sustainable Fiscal Performance"]
+
 style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
+
 style B fill:#fff3cd,stroke:#997404,stroke-width:2px
+
 style C fill:#fff3cd,stroke:#997404,stroke-width:2px
+
 style D fill:#f8d7da,stroke:#b02a37,stroke-width:2px
+
 style E fill:#d1e7dd,stroke:#146c43,stroke-width:2px
+
 style F fill:#e2d9f3,stroke:#6f42c1,stroke-width:2px
+
 style G fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
 ```
+
 ---
 
 ## 🎯 Strategic Outcome
 
 The Next Generation Revenue Operating Model transforms the organization from one that reacts to forecast deterioration into one that continuously anticipates, monitors, and manages commercial risk.
+
 The model institutionalizes confidence-calibrated forecasting, scenario-based governance, recovery readiness, capital allocation intelligence, and decision intelligence as permanent enterprise capabilities. The result is a more resilient, more predictable, and more governable commercial operating environment capable of reducing exposure before recovery intervention becomes necessary.
 
 ---
@@ -323,10 +379,13 @@ In this sense, the Next Generation Revenue Operating Model is not a replacement 
 ---
 
 ### 👤 Author
+
 **Anil Jacob**
+
 Enterprise BI • Revenue Operations Strategy • Decision Intelligence • Executive Analytics
 
 ---
+
 ### 📜 Repository Context
 
 All forecasts, operating models, governance frameworks, recovery strategies, optimization models, portfolio allocations, and business scenarios contained within this repository are synthetic and intended exclusively for portfolio, educational, and strategic demonstration purposes.
