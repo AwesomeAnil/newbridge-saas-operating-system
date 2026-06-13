@@ -117,11 +117,11 @@ Traditional investment programs optimize:
 - Market expansion
 - Strategic positioning
 
-Recovery Optimization focuses on:
+This Recovery Optimization focuses on:
 
-# 90-Day Revenue Recovery
+#### 90-Day Revenue Recovery
 
-because only one fiscal quarter remains available for intervention.
+because only one fiscal quarter remains available for intervention pushing deal closures for highest in-year revenue controbution.
 
 ---
 
@@ -438,7 +438,7 @@ Reactive Spending
 Uncertain Results
 ```
 
-#### Recovery Optimization Model
+#### Optimization based Recovery Model
 
 ```text
 CRR Activation
