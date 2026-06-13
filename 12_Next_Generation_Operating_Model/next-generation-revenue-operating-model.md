@@ -42,8 +42,6 @@ The purpose of the Next Generation Revenue Operating Model is therefore not to i
 ```mermaid
 flowchart TD
 
-flowchart TD
-
 A["<table><tr><td width='350' align='center'>Forecast Intelligence</td></tr></table>"] --> B["<table><tr><td width='350' align='center'>Risk Intelligence</td></tr></table>"]
 B --> C["<table><tr><td width='350' align='center'>Recovery Governance</td></tr></table>"]
 C --> D["<table><tr><td width='350' align='center'>Portfolio Intelligence</td></tr></table>"]
@@ -57,6 +55,7 @@ style C fill:#f8d7da,stroke:#b02a37,stroke-width:2px
 style D fill:#d1e7dd,stroke:#146c43,stroke-width:2px
 style E fill:#e2d9f3,stroke:#6f42c1,stroke-width:2px
 style F fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
+
 ```
 
 The future-state model institutionalizes the capabilities developed throughout New Bridge and embeds them into the operating rhythm of the organization.
@@ -106,19 +105,21 @@ Sustainable Fiscal Performance
 ```mermaid
 flowchart TD
 
-A["<table><tr><td width='350' align='center'>Forecast Intelligence</td></tr></table>"] --> B["<table><tr><td width='350' align='center'>Risk Intelligence</td></tr></table>"]
-B --> C["<table><tr><td width='350' align='center'>Recovery Governance</td></tr></table>"]
-C --> D["<table><tr><td width='350' align='center'>Portfolio Intelligence</td></tr></table>"]
-D --> E["<table><tr><td width='350' align='center'>Decision Intelligence</td></tr></table>"]
-E --> F["<table><tr><td width='350' align='center'>Sustainable Fiscal<br> Performance</td></tr></table>"]
+A["<table><tr><td width='350' align='center'>Revenue Intelligence</td></tr></table>"] --> B["<table><tr><td width='350' align='center'>Forecast Intelligence</td></tr></table>"]
+B --> C["<table><tr><td width='350' align='center'>Risk Intelligence</td></tr></table>"]
+C --> D["<table><tr><td width='350' align='center'>Recovery Governance</td></tr></table>"]
+D --> E["<table><tr><td width='350' align='center'>Portfolio Intelligence</td></tr></table>"]
+E --> F["<table><tr><td width='350' align='center'>Decision Intelligence</td></tr></table>"]
+F --> G["<table><tr><td width='350' align='center'>Commercial Operating<br> Model</td></tr></table>"]
 
 %% Individual Node Color Overrides
 style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
-style B fill:#fff3cd,stroke:#997404,stroke-width:2px
-style C fill:#f8d7da,stroke:#b02a37,stroke-width:2px
-style D fill:#d1e7dd,stroke:#146c43,stroke-width:2px
-style E fill:#e2d9f3,stroke:#6f42c1,stroke-width:2px
-style F fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
+style B fill:#cfe2ff,stroke:#084298,stroke-width:2px
+style C fill:#fff3cd,stroke:#997404,stroke-width:2px
+style D fill:#f8d7da,stroke:#b02a37,stroke-width:2px
+style E fill:#d1e7dd,stroke:#146c43,stroke-width:2px
+style F fill:#e2d9f3,stroke:#6f42c1,stroke-width:2px
+style G fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
 ```
 
 This progression reflects the evolution observed throughout the New Bridge journey and provides the foundation for a more mature commercial operating model.
