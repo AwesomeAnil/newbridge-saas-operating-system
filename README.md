@@ -44,41 +44,25 @@ Each layer builds upon the previous layer to transform commercial activity into 
 ```mermaid
 flowchart TD
 
-A["Business Capability Model"]
+    A["<table><tr><td width='350' align='center'>Business Capability Model</td></tr></table>"] --> B["<table><tr><td width='350' align='center'>Revenue Information<br/>Architecture</td></tr></table>"]
+    B --> C["<table><tr><td width='350' align='center'>Decision Intelligence<br/>Architecture</td></tr></table>"]
+    C --> D["<table><tr><td width='350' align='center'>Solution Architecture</td></tr></table>"]
+    D --> E["<table><tr><td width='350' align='center'>Operating Models</td></tr></table>"]
+    E --> F["<table><tr><td width='350' align='center'>Governance Frameworks</td></tr></table>"]
+    F --> G["<table><tr><td width='350' align='center'>Financial Models</td></tr></table>"]
+    G --> H["<table><tr><td width='350' align='center'>Optimization Models</td></tr></table>"]
+    H --> I["<table><tr><td width='350' align='center'>Executive Analytics</td></tr></table>"]
 
---> B["Revenue Information Architecture"]
-
---> C["Decision Intelligence Architecture"]
-
---> D["Solution Architecture"]
-
---> E["Operating Models"]
-
---> F["Governance Frameworks"]
-
---> G["Financial Models"]
-
---> H["Optimization Models"]
-
---> I["Executive Analytics"]
-
-style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
-
-style B fill:#fff3cd,stroke:#997404,stroke-width:2px
-
-style C fill:#e2d9f3,stroke:#6f42c1,stroke-width:2px
-
-style D fill:#d1e7dd,stroke:#146c43,stroke-width:2px
-
-style E fill:#cfe2ff,stroke:#084298,stroke-width:2px
-
-style F fill:#f8d7da,stroke:#b02a37,stroke-width:2px
-
-style G fill:#cfe2ff,stroke:#084298,stroke-width:2px
-
-style H fill:#d1e7dd,stroke:#146c43,stroke-width:2px
-
-style I fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
+    %% Individual Node Color Overrides
+    style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
+    style B fill:#fff3cd,stroke:#997404,stroke-width:2px
+    style C fill:#e2d9f3,stroke:#6f42c1,stroke-width:2px
+    style D fill:#d1e7dd,stroke:#146c43,stroke-width:2px
+    style E fill:#cfe2ff,stroke:#084298,stroke-width:2px
+    style F fill:#f8d7da,stroke:#b02a37,stroke-width:2px
+    style G fill:#cfe2ff,stroke:#084298,stroke-width:2px
+    style H fill:#d1e7dd,stroke:#146c43,stroke-width:2px
+    style I fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
 ```
 
 ---
@@ -132,33 +116,21 @@ The objective is improved decision quality.
 ```mermaid
 flowchart TD
 
-A["Bookings & Revenue Realization"]
+    A["<table><tr><td width='350' align='center'>Bookings & Revenue<br/>Realization</td></tr></table>"] --> B["<table><tr><td width='350' align='center'>Forecast Confidence<br/>& Coverage</td></tr></table>"]
+    B --> C["<table><tr><td width='350' align='center'>Risk Exposure<br/>& Gap Analysis</td></tr></table>"]
+    C --> D["<table><tr><td width='350' align='center'>Recovery Planning</td></tr></table>"]
+    D --> E["<table><tr><td width='350' align='center'>Investment Optimization</td></tr></table>"]
+    E --> F["<table><tr><td width='350' align='center'>Decision Intelligence</td></tr></table>"]
+    F --> G["<table><tr><td width='350' align='center'>Fiscal Year Outcomes</td></tr></table>"]
 
---> B["Forecast Confidence & Coverage"]
-
---> C["Risk Exposure & Gap Analysis"]
-
---> D["Recovery Planning"]
-
---> E["Investment Optimization"]
-
---> F["Decision Intelligence"]
-
---> G["Fiscal Year Outcomes"]
-
-style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
-
-style B fill:#cfe2ff,stroke:#084298,stroke-width:2px
-
-style C fill:#f8d7da,stroke:#b02a37,stroke-width:2px
-
-style D fill:#fff3cd,stroke:#997404,stroke-width:2px
-
-style E fill:#d1e7dd,stroke:#146c43,stroke-width:2px
-
-style F fill:#e2d9f3,stroke:#6f42c1,stroke-width:2px
-
-style G fill:#084298,color:#ffffff,stroke:#084298,stroke-width:3px
+    %% Individual Node Color Overrides
+    style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
+    style B fill:#cfe2ff,stroke:#084298,stroke-width:2px
+    style C fill:#f8d7da,stroke:#b02a37,stroke-width:2px
+    style D fill:#fff3cd,stroke:#997404,stroke-width:2px
+    style E fill:#d1e7dd,stroke:#146c43,stroke-width:2px
+    style F fill:#e2d9f3,stroke:#6f42c1,stroke-width:2px
+    style G fill:#084298,color:#ffffff, stroke:#084298,stroke-width:3px
 ```
 
 The operating system connects commercial performance, forecasting, risk management, recovery planning, optimization, and executive decision support into a unified governance model.
@@ -197,25 +169,17 @@ The challenge became:
 ```mermaid
 flowchart TD
 
-A["139% Historical Attainment"]
+    A["<table><tr><td width='350' align='center'>139% Historical<br/>Attainment</td></tr></table>"] --> B["<table><tr><td width='350' align='center'>105.1% Full Pipeline<br/>Coverage</td></tr></table>"]
+    B --> C["<table><tr><td width='350' align='center'>92.5% Qualified<br/>Coverage</td></tr></table>"]
+    C --> D["<table><tr><td width='350' align='center'>78.0% High Confidence<br/>Coverage</td></tr></table>"]
+    D --> E["<table><tr><td width='350' align='center'>Enterprise Risk<br/>Exposure</td></tr></table>"]
 
---> B["105.1% Full Pipeline Coverage"]
-
---> C["92.5% Qualified Coverage"]
-
---> D["78.0% High Confidence Coverage"]
-
---> E["Enterprise Risk Exposure"]
-
-style A fill:#d1e7dd,stroke:#146c43,stroke-width:2px
-
-style B fill:#cfe2ff,stroke:#084298,stroke-width:2px
-
-style C fill:#fff3cd,stroke:#997404,stroke-width:2px
-
-style D fill:#f8d7da,stroke:#b02a37,stroke-width:2px
-
-style E fill:#b02a37,color:#ffffff,stroke:#b02a37,stroke-width:3px
+    %% Individual Node Color Overrides
+    style A fill:#d1e7dd,stroke:#146c43,stroke-width:2px
+    style B fill:#cfe2ff,stroke:#084298,stroke-width:2px
+    style C fill:#fff3cd,stroke:#997404,stroke-width:2px
+    style D fill:#f8d7da,stroke:#b02a37,stroke-width:2px
+    style E fill:#b02a37,color:#ffffff,stroke:#b02a37,stroke-width:3px
 ```
 
 Forecast deterioration transforms uncertainty into measurable enterprise exposure.
@@ -247,29 +211,19 @@ Recovery is treated as a governed capital allocation process rather than an ad h
 ```mermaid
 flowchart TD
 
-A["Forecast Gap"]
+    A["<table><tr><td width='350' align='center'>Forecast Gap</td></tr></table>"] --> B["<table><tr><td width='350' align='center'>Risk Assessment</td></tr></table>"]
+    B --> C["<table><tr><td width='350' align='center'>CRR Activation</td></tr></table>"]
+    C --> D["<table><tr><td width='350' align='center'>Investment Optimization</td></tr></table>"]
+    D --> E["<table><tr><td width='350' align='center'>Forecast Recovery</td></tr></table>"]
+    E --> F["<table><tr><td width='350' align='center'>Executive Decision</td></tr></table>"]
 
---> B["Risk Assessment"]
-
---> C["CRR Activation"]
-
---> D["Investment Optimization"]
-
---> E["Forecast Recovery"]
-
---> F["Executive Decision"]
-
-style A fill:#f8d7da,stroke:#b02a37,stroke-width:2px
-
-style B fill:#fff3cd,stroke:#997404,stroke-width:2px
-
-style C fill:#cfe2ff,stroke:#084298,stroke-width:2px
-
-style D fill:#d1e7dd,stroke:#146c43,stroke-width:2px
-
-style E fill:#d1e7dd,stroke:#146c43,stroke-width:2px
-
-style F fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
+    %% Individual Node Color Overrides
+    style A fill:#f8d7da,stroke:#b02a37,stroke-width:2px
+    style B fill:#fff3cd,stroke:#997404,stroke-width:2px
+    style C fill:#cfe2ff,stroke:#084298,stroke-width:2px
+    style D fill:#d1e7dd,stroke:#146c43,stroke-width:2px
+    style E fill:#d1e7dd,stroke:#146c43,stroke-width:2px
+    style F fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
 ```
 
 The objective is not to maximize spending.
