@@ -42,28 +42,18 @@ The purpose of the Next Generation Revenue Operating Model is therefore not to i
 ```mermaid
 flowchart TD
 
-A["Forecast Intelligence"]
+A["<table><tr><td width='350' align='center'>Forecast Intelligence</td></tr></table>"] --> B["<table><tr><td width='350' align='center'>Risk Intelligence</td></tr></table>"]
+B --> C["<table><tr><td width='350' align='center'>Recovery Governance</td></tr></table>"]
+C --> D["<table><tr><td width='350' align='center'>Portfolio Intelligence</td></tr></table>"]
+D --> E["<table><tr><td width='350' align='center'>Decision Intelligence</td></tr></table>"]
+E --> F["<table><tr><td width='350' align='center'>Sustainable Fiscal Performance</td></tr></table>"]
 
---> B["Risk Intelligence"]
-
---> C["Recovery Governance"]
-
---> D["Portfolio Intelligence"]
-
---> E["Decision Intelligence"]
-
---> F["Sustainable Fiscal Performance"]
-
+%% Individual Node Color Overrides
 style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
-
 style B fill:#fff3cd,stroke:#997404,stroke-width:2px
-
 style C fill:#f8d7da,stroke:#b02a37,stroke-width:2px
-
 style D fill:#d1e7dd,stroke:#146c43,stroke-width:2px
-
 style E fill:#e2d9f3,stroke:#6f42c1,stroke-width:2px
-
 style F fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
 ```
 
@@ -114,33 +104,19 @@ Sustainable Fiscal Performance
 ```mermaid
 flowchart TD
 
-A["Revenue Intelligence"]
+A["<table><tr><td width='350' align='center'>Forecast Intelligence</td></tr></table>"] --> B["<table><tr><td width='350' align='center'>Risk Intelligence</td></tr></table>"]
+B --> C["<table><tr><td width='350' align='center'>Recovery Governance</td></tr></table>"]
+C --> D["<table><tr><td width='350' align='center'>Portfolio Intelligence</td></tr></table>"]
+D --> E["<table><tr><td width='350' align='center'>Decision Intelligence</td></tr></table>"]
+E --> F["<table><tr><td width='350' align='center'>Sustainable Fiscal Performance</td></tr></table>"]
 
---> B["Forecast Intelligence"]
-
---> C["Risk Intelligence"]
-
---> D["Recovery Governance"]
-
---> E["Portfolio Intelligence"]
-
---> F["Decision Intelligence"]
-
---> G["Commercial Operating Model"]
-
+%% Individual Node Color Overrides
 style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
-
-style B fill:#cfe2ff,stroke:#084298,stroke-width:2px
-
-style C fill:#fff3cd,stroke:#997404,stroke-width:2px
-
-style D fill:#f8d7da,stroke:#b02a37,stroke-width:2px
-
-style E fill:#d1e7dd,stroke:#146c43,stroke-width:2px
-
-style F fill:#e2d9f3,stroke:#6f42c1,stroke-width:2px
-
-style G fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
+style B fill:#fff3cd,stroke:#997404,stroke-width:2px
+style C fill:#f8d7da,stroke:#b02a37,stroke-width:2px
+style D fill:#d1e7dd,stroke:#146c43,stroke-width:2px
+style E fill:#e2d9f3,stroke:#6f42c1,stroke-width:2px
+style F fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
 ```
 
 This progression reflects the evolution observed throughout the New Bridge journey and provides the foundation for a more mature commercial operating model.
@@ -329,32 +305,20 @@ The highest value of analytics is not visibility. It is better decisions.
 ```mermaid
 flowchart TD
 
-A["Continuous Forecast Governance"]
+A["<table><tr><td width='350' align='center'>Continuous Forecast Governance</td></tr></table>"] --> B["<table><tr><td width='350' align='center'>Early Risk Detection</td></tr></table>"]
+B --> C["<table><tr><td width='350' align='center'>Scenario Planning</td></tr></table>"]
+C --> D["<table><tr><td width='350' align='center'>Recovery Readiness</td></tr></table>"]
+D --> E["<table><tr><td width='350' align='center'>Capital Allocation Intelligence</td></tr></table>"]
+E --> F["<table><tr><td width='350' align='center'>Decision Intelligence</td></tr></table>"]
+F --> G["<table><tr><td width='350' align='center'>Sustainable Fiscal Performance</td></tr></table>"]
 
---> B["Early Risk Detection"]
-
---> C["Scenario Planning"]
-
---> D["Recovery Readiness"]
-
---> E["Capital Allocation Intelligence"]
-
---> F["Decision Intelligence"]
-
---> G["Sustainable Fiscal Performance"]
-
+%% Individual Node Color Overrides
 style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
-
 style B fill:#fff3cd,stroke:#997404,stroke-width:2px
-
 style C fill:#fff3cd,stroke:#997404,stroke-width:2px
-
 style D fill:#f8d7da,stroke:#b02a37,stroke-width:2px
-
 style E fill:#d1e7dd,stroke:#146c43,stroke-width:2px
-
 style F fill:#e2d9f3,stroke:#6f42c1,stroke-width:2px
-
 style G fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
 ```
 
