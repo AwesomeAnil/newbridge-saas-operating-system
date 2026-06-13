@@ -240,7 +240,7 @@ Investment Tradeoff Analysis determines which efficient portfolio leadership sho
 
 ---
 
-# 🎯 Strategic Conclusion
+## 🎯 Strategic Conclusion
 
 The New Bridge simulation revealed two materially different recovery environments. The Qualified Pipe scenario reduced forecast coverage to 92.5% and created a $12M exposure, while the High Confidence scenario reduced coverage to 78.0% and created a significantly larger $35M exposure. Recovery Optimization demonstrated that both scenarios could be restored to fiscal-year attainment, but the investment required and the level of protection provided were fundamentally different.
 
