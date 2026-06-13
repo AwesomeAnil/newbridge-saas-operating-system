@@ -42,11 +42,13 @@ The purpose of the Next Generation Revenue Operating Model is therefore not to i
 ```mermaid
 flowchart TD
 
+flowchart TD
+
 A["<table><tr><td width='350' align='center'>Forecast Intelligence</td></tr></table>"] --> B["<table><tr><td width='350' align='center'>Risk Intelligence</td></tr></table>"]
 B --> C["<table><tr><td width='350' align='center'>Recovery Governance</td></tr></table>"]
 C --> D["<table><tr><td width='350' align='center'>Portfolio Intelligence</td></tr></table>"]
 D --> E["<table><tr><td width='350' align='center'>Decision Intelligence</td></tr></table>"]
-E --> F["<table><tr><td width='350' align='center'>Sustainable Fiscal Performance</td></tr></table>"]
+E --> F["<table><tr><td width='350' align='center'>Sustainable Fiscal<br> Performance</td></tr></table>"]
 
 %% Individual Node Color Overrides
 style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
@@ -108,7 +110,7 @@ A["<table><tr><td width='350' align='center'>Forecast Intelligence</td></tr></ta
 B --> C["<table><tr><td width='350' align='center'>Recovery Governance</td></tr></table>"]
 C --> D["<table><tr><td width='350' align='center'>Portfolio Intelligence</td></tr></table>"]
 D --> E["<table><tr><td width='350' align='center'>Decision Intelligence</td></tr></table>"]
-E --> F["<table><tr><td width='350' align='center'>Sustainable Fiscal Performance</td></tr></table>"]
+E --> F["<table><tr><td width='350' align='center'>Sustainable Fiscal<br> Performance</td></tr></table>"]
 
 %% Individual Node Color Overrides
 style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
@@ -305,12 +307,12 @@ The highest value of analytics is not visibility. It is better decisions.
 ```mermaid
 flowchart TD
 
-A["<table><tr><td width='350' align='center'>Continuous Forecast Governance</td></tr></table>"] --> B["<table><tr><td width='350' align='center'>Early Risk Detection</td></tr></table>"]
+A["<table><tr><td width='350' align='center'>Continuous Forecast<br> Governance</td></tr></table>"] --> B["<table><tr><td width='350' align='center'>Early Risk Detection</td></tr></table>"]
 B --> C["<table><tr><td width='350' align='center'>Scenario Planning</td></tr></table>"]
 C --> D["<table><tr><td width='350' align='center'>Recovery Readiness</td></tr></table>"]
 D --> E["<table><tr><td width='350' align='center'>Capital Allocation Intelligence</td></tr></table>"]
 E --> F["<table><tr><td width='350' align='center'>Decision Intelligence</td></tr></table>"]
-F --> G["<table><tr><td width='350' align='center'>Sustainable Fiscal Performance</td></tr></table>"]
+F --> G["<table><tr><td width='350' align='center'>Sustainable Fiscal<br> Performance</td></tr></table>"]
 
 %% Individual Node Color Overrides
 style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
