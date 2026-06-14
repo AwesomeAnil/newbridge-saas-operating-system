@@ -1,21 +1,27 @@
-# 🏛️ New Bridge Governance Framework
+# 🏛️ Enterprise Revenue Governance Framework
 
-## Enterprise Revenue Operating System for Forecast Governance, Recovery Optimization & Executive Decision Science
+## Governing Revenue Intelligence, Forecast Risk, Capital Allocation & Decision Intelligence
 
-[⬅ Back to README](../README.md)
+<p align="center">
+
+🏠 [Repository Home](../README.md)
+
+📖 [Repository Index](../INDEX.md)
+
+</p>
 
 ---
 
 <p align="center">
 
-![Reference Architecture](https://img.shields.io/badge/Reference-Architecture-darkblue)
-![Revenue Operating System](https://img.shields.io/badge/Revenue-Operating%20System-critical)
+![Governance Framework](https://img.shields.io/badge/Governance-Framework-darkblue)
+![Revenue Governance](https://img.shields.io/badge/Revenue-Governance-critical)
 ![Forecast Governance](https://img.shields.io/badge/Forecast-Governance-success)
-![Commercial Intelligence](https://img.shields.io/badge/Commercial-Intelligence-orange)
-![Portfolio Governance](https://img.shields.io/badge/Portfolio-Governance-black)
-![Capital Allocation](https://img.shields.io/badge/Capital-Allocation-darkred)
-![Decision Science](https://img.shields.io/badge/Decision-Science-purple)
-![Executive Analytics](https://img.shields.io/badge/Executive-Analytics-brightgreen)
+![Risk Governance](https://img.shields.io/badge/Risk-Governance-orange)
+![Recovery Governance](https://img.shields.io/badge/Recovery-Governance-black)
+![Capital Governance](https://img.shields.io/badge/Capital-Governance-darkred)
+![Decision Intelligence](https://img.shields.io/badge/Decision-Intelligence-purple)
+![Enterprise Governance](https://img.shields.io/badge/Enterprise-Governance-brightgreen)
 
 </p>
 
@@ -23,27 +29,11 @@
 
 ## 📌 Executive Overview
 
-Most enterprise forecasting environments were designed to answer a single question:
+Enterprise forecasting has traditionally focused on reporting historical performance and producing periodic forecast submissions. As organizations become increasingly dependent upon recurring revenue models and longer planning horizons, forecasting must evolve into a broader governance capability capable of identifying risk, governing intervention decisions, allocating capital, and supporting executive decision-making.
 
-> What happened?
+The New Bridge simulation demonstrated how rapidly forecast confidence can deteriorate despite strong historical attainment, highlighting the need for structured governance mechanisms that extend beyond traditional reporting and forecasting processes.
 
-Modern commercial organizations require a more sophisticated operating model capable of answering:
-
-* What is likely to happen?
-* What risks are emerging?
-* How severe are those risks?
-* What interventions are available?
-* What investments should be prioritized?
-* How should leadership respond?
-
-The Commercial Governance Reference Architecture was developed to answer these questions through an integrated operating model spanning:
-
-* revenue intelligence,
-* forecast governance,
-* risk management,
-* recovery optimization,
-* capital allocation,
-* and executive decision science.
+The Enterprise Revenue Governance Framework defines the governance domains, decision rights, escalation paths, and management disciplines required to support Revenue Governance, Forecast Governance, Risk Governance, Recovery Governance, Capital Governance, and Decision Governance across the enterprise.
 
 ---
 
@@ -51,65 +41,53 @@ The Commercial Governance Reference Architecture was developed to answer these q
 
 Traditional forecasting environments frequently suffer from:
 
-❌ backward-looking reporting
+❌ Backward-looking reporting
 
-❌ single-point forecast assumptions
+❌ Single-point forecast assumptions
 
-❌ limited risk visibility
+❌ Limited risk visibility
 
-❌ late deterioration detection
+❌ Late deterioration detection
 
-❌ reactive recovery planning
+❌ Reactive recovery planning
 
-❌ fragmented decision-making
+❌ Fragmented decision-making
 
-As a result, organizations often discover fiscal year exposure too late to deploy effective intervention strategies.
+As a result, organizations frequently discover fiscal-year exposure too late to deploy effective intervention strategies, forcing leadership into compressed recovery cycles with limited strategic options.
 
 ---
 
-## 🏛️ Architecture Vision
+## 🏛️ Governance Maturity Model
 
-The architecture is designed to evolve organizations from:
+The framework is designed to evolve organizations from reporting-centric forecasting toward integrated enterprise governance.
 
-### Traditional Forecast Management
+```mermaid
+flowchart TD
 
-```text
-Historical Reporting
-        ↓
-Forecast Submission
-        ↓
-Budget Variance
-        ↓
-Executive Escalation
-```
+A["<table><tr><td width='350' align='center'>Reporting Governance</td></tr></table>"] --> B["<table><tr><td width='350' align='center'>Forecast Governance</td></tr></table>"]
+B --> C["<table><tr><td width='350' align='center'>Risk Governance</td></tr></table>"]
+C --> D["<table><tr><td width='350' align='center'>Recovery Governance</td></tr></table>"]
+D --> E["<table><tr><td width='350' align='center'>Capital Governance</td></tr></table>"]
+E --> F["<table><tr><td width='350' align='center'>Decision Governance</td></tr></table>"]
 
-To:
-
-### Commercial Governance Operating System
-
-```text
-Revenue Intelligence
-        ↓
-Forecast Governance
-        ↓
-Risk Detection
-        ↓
-Recovery Readiness
-        ↓
-Capital Allocation
-        ↓
-Decision Science
+%% Individual Node Color Overrides
+style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
+style B fill:#cfe2ff,stroke:#084298,stroke-width:2px
+style C fill:#fff3cd,stroke:#997404,stroke-width:2px
+style D fill:#f8d7da,stroke:#b02a37,stroke-width:2px
+style E fill:#d1e7dd,stroke:#146c43,stroke-width:2px
+style F fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
 ```
 
 ---
 
-## 🧠 Core Architecture Principle
+## 🧠 Governance Philosophy
 
-The architecture is built around a single operating philosophy:
+The framework is built upon a simple principle:
 
-> Enterprise forecasting should be treated as a governance capability rather than a reporting process.
+> Enterprise forecasting should be governed as a business capability rather than managed as a reporting process.
 
-This shifts the focus from:
+This shifts organizational focus from:
 
 ```text
 Visibility
@@ -121,224 +99,256 @@ to:
 Decision Quality
 ```
 
+and creates a structured governance model for managing uncertainty, exposure, intervention, and executive decision-making.
+
 ---
 
-## 🏗️ Commercial Governance Capability Model
+## ❓ Governance Questions Framework
+
+Each governance domain exists to answer a specific enterprise question.
+
+| Governance Domain   | Primary Question                      |
+| ------------------- | ------------------------------------- |
+| Revenue Governance  | What is happening?                    |
+| Forecast Governance | What is likely to happen?             |
+| Risk Governance     | What could go wrong?                  |
+| Recovery Governance | Should intervention occur?            |
+| Capital Governance  | Where should investment be deployed?  |
+| Decision Governance | What decision should leadership make? |
+
+Together these domains form an integrated governance chain that connects visibility, forecasting, risk management, capital allocation, and executive action.
+
+---
+
+## 🏗️ Enterprise Revenue Governance Model
 
 ```mermaid
 flowchart TD
 
-A[Revenue Intelligence]
+A["<table><tr><td width='350' align='center'>Revenue Governance</td></tr></table>"] --> B["<table><tr><td width='350' align='center'>Forecast Governance</td></tr></table>"]
+B --> C["<table><tr><td width='350' align='center'>Risk Governance</td></tr></table>"]
+C --> D["<table><tr><td width='350' align='center'>Recovery Governance</td></tr></table>"]
+D --> E["<table><tr><td width='350' align='center'>Capital Governance</td></tr></table>"]
+E --> F["<table><tr><td width='350' align='center'>Decision Governance</td></tr></table>"]
+F --> G["<table><tr><td width='350' align='center'>Continuous Governance</td></tr></table>"]
 
-A --> B[Forecast Governance]
-
-B --> C[Risk Detection]
-
-C --> D[Recovery Governance]
-
-D --> E[Capital Allocation]
-
-E --> F[Executive Decision Science]
-
-F --> G[Continuous Optimization]
+%% Individual Node Color Overrides
+style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
+style B fill:#cfe2ff,stroke:#084298,stroke-width:2px
+style C fill:#fff3cd,stroke:#997404,stroke-width:2px
+style D fill:#f8d7da,stroke:#b02a37,stroke-width:2px
+style E fill:#d1e7dd,stroke:#146c43,stroke-width:2px
+style F fill:#e2d9f3,stroke:#6f42c1,stroke-width:2px
+style G fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
 ```
 
 ---
 
-## 📊 Layer 1 — Revenue Intelligence
+## 📊 Governance Domain 1 — Revenue Governance
 
-Revenue Intelligence establishes the commercial foundation of the operating model.
+Revenue Governance establishes a trusted and governed view of enterprise commercial performance.
 
-### Core Capabilities
+### Core Responsibilities
 
-* ARR Modeling
-* ACV Modeling
-* Revenue Realization
-* Bookings Management
-* Customer Segmentation
-* Cohort Analysis
-* Revenue Motion Attribution
+* ARR Governance
+* ACV Governance
+* Revenue Realization Governance
+* Bookings Governance
+* Customer Segmentation Governance
+* Revenue Motion Governance
+* Commercial Performance Measurement
 
-#### Primary Objective
+### Governance Objective
 
-Create a trusted view of enterprise revenue performance and recurring revenue economics.
+Create a consistent, trusted, and auditable view of enterprise revenue performance.
+
+### Primary Outcome
+
+A single governed source of truth for revenue measurement and commercial performance.
 
 ---
 
-## 📈 Layer 2 — Forecast Governance
+## 📈 Governance Domain 2 — Forecast Governance
 
-Forecast Governance continuously evaluates enterprise recoverability.
+Forecast Governance evaluates future performance under multiple confidence assumptions.
 
-### Core Capabilities
+### Core Responsibilities
 
 * Full Pipe Coverage
 * Qualified Pipe Coverage
 * High Confidence Coverage
-* Budget Attainment Modeling
+* Budget Attainment Governance
 * Scenario Forecasting
-* Pipeline Survivability Analysis
+* Pipeline Survivability Assessment
 
-#### Primary Objective
+### Governance Objective
 
-Understand future fiscal performance under multiple confidence assumptions.
+Continuously evaluate fiscal-year recoverability and forecast confidence.
+
+### Primary Outcome
+
+A governed view of future performance under multiple planning assumptions.
 
 ---
 
-## ⚠️ Layer 3 — Risk Detection
+## ⚠️ Governance Domain 3 — Risk Governance
 
-Risk Detection identifies emerging deterioration before fiscal commitments become vulnerable.
+Risk Governance identifies emerging deterioration before fiscal commitments become vulnerable.
 
-### Core Capabilities
+### Core Governance Responsibilities
 
 * Coverage Gap Monitoring
-* Forecast Deterioration Tracking
+* Forecast Deterioration Monitoring
 * Geographic Exposure Analysis
-* Pipeline Quality Assessment
+* Pipeline Quality Assurance (Pipeline hygiene)
 * Confidence Calibration
 
-#### Primary Objective
+### Governance Objective
 
-Create early warning visibility into forecast risk.
+Create early visibility into enterprise exposure.
+
+### Primary Outcome
+
+Structured early-warning detection of commercial risk.
 
 ---
 
-## 🛡️ Layer 4 — Recovery Governance
+## 🛡️ Governance Domain 4 — Recovery Governance
 
-Recovery Governance determines when intervention becomes necessary.
+The New Bridge simulation demonstrated that forecast coverage could decline from **105.1% under Full Pipe assumptions** to **78.0% under High Confidence assumptions**, creating a potential **$35M exposure** despite strong historical attainment.
 
-### Core Capabilities
+Recovery Governance exists to ensure that intervention decisions are governed, repeatable, and aligned to enterprise priorities when exposure reaches material levels.
+
+### Core Governance Responsibilities
 
 * Central Risk Reserve (CRR)
 * Recovery Readiness
 * Intervention Planning
-* Recovery Scenario Modeling
-* Executive Escalation Frameworks
+* Recovery Scenario Governance
+* Escalation Frameworks
 
-#### Primary Objective
+### Governance Objective
 
-Provide structured responses to deteriorating forecast conditions.
+Determine when intervention becomes necessary and establish governance for recovery execution.
+
+### Primary Outcome
+
+Disciplined and auditable intervention decisions.
 
 ---
 
-## 💰 Layer 5 — Capital Allocation
+## 💰 Governance Domain 5 — Capital Governance
 
-Capital Allocation optimizes how limited recovery resources are deployed.
+The High Confidence scenario required approximately **$18M of recovery capital** to address nearly **$35M of forecast exposure**, demonstrating that capital deployment decisions materially influence fiscal-year outcomes.
 
-### Core Capabilities
+Capital Governance ensures that limited investment resources are allocated to the highest-impact opportunities through structured governance and objective recovery economics.
 
-* ROI Modeling
+### Core Governance Responsibilities
+
+* ROI Determination
 * Investment Prioritization
-* Geography Allocation
-* Lever Optimization
-* Recovery Efficiency Analysis
+* Geography Selection & Capital Allocation 
+* Investment Levers & Optimization 
+* Recovery Efficiency Measurement
 
-#### Primary Objective
+### Governance Objective
 
-Maximize forecast uplift while preserving capital efficiency.
+Govern how recovery capital is prioritized and deployed.
+
+### Primary Outcome
+
+Maximum forecast uplift with disciplined capital allocation.
 
 ---
 
-## 🎯 Layer 6 — Executive Decision Science
+## 🎯 Governance Domain 6 — Decision Governance
 
-Executive Decision Science transforms analytics into actionable leadership decisions.
+Recovery Optimization identified efficient intervention portfolios, while Investment Tradeoff Analysis evaluated alternative recovery strategies requiring between **$5.99M and $18.0M** of investment. The remaining challenge was determining which portfolio leadership should ultimately fund.
 
-### Core Capabilities
+Decision Governance exists to ensure that analytical recommendations are translated into accountable executive decisions.
 
-* Scenario Comparison
+### Core Governance Responsibilities
+
+* Scenario Evaluation
+* Portfolio Selection
 * Investment Tradeoff Analysis
-* Recovery Economics
-* Risk Appetite Assessment
-* Strategic Decision Frameworks
+* Risk Tolerance Assessment
+* Executive Decision Frameworks
 
-#### Primary Objective
+### Governance Objective
 
-Enable disciplined decision-making under uncertainty.
+Support disciplined decision-making under uncertainty.
+
+### Primary Outcome
+
+Governed executive decisions aligned to enterprise objectives.
 
 ---
 
-## 🔄 Continuous Optimization Loop
+## 🔄 Continuous Governance Loop
 
-The architecture intentionally operates as a closed-loop governance system.
+The framework intentionally operates as a closed-loop governance system.
 
-```mermaid
-flowchart LR
-
-A[Revenue Intelligence]
---> B[Forecast Governance]
-
-B --> C[Risk Detection]
-
-C --> D[Recovery Governance]
-
-D --> E[Capital Allocation]
-
-E --> F[Decision Science]
-
-F --> A
-```
-
-This ensures commercial performance continuously informs future planning, investment allocation, and governance decisions.
+This ensures that revenue visibility, forecasting, risk management, intervention planning, capital allocation, and executive decision-making remain continuously aligned.
 
 ---
 
 ## 🏛️ Reference Implementation — New Bridge
 
-The New Bridge repository serves as the reference implementation of this architecture.
+The New Bridge repository serves as a reference implementation of the governance framework.
 
-| Repository Section              | Architecture Layer      |
-| ------------------------------- | ----------------------- |
-| SaaS Financial Model            | Revenue Intelligence    |
-| Pipeline Governance             | Forecast Governance     |
-| Forecast Risk Model             | Risk Detection          |
-| CRR Optimization                | Recovery Governance     |
-| Recovery Optimization           | Capital Allocation      |
-| Investment Tradeoff Analysis    | Decision Science        |
-| Executive Lessons Learned       | Institutional Learning  |
-| Next Generation Operating Model | Continuous Optimization |
+| Repository Artifact                        | Governance Domain                     |
+| ------------------------------------------ | ------------------------------------- |
+| SaaS Financial Model                       | Revenue Governance                    |
+| Forecast Risk Model                        | Forecast Governance & Risk Governance |
+| Central Risk Reserve                       | Recovery Governance                   |
+| Recovery Optimization                      | Capital Governance                    |
+| Investment Tradeoff Analysis               | Decision Governance                   |
+| Institutional Lessons & Strategic Insights | Institutional Learning                |
+| Next Generation Revenue Operating Model    | Future-State Evolution                |
 
 ---
 
-## 🚀 Architecture Outcomes
+## 🚀 Governance Outcomes
 
-Organizations implementing this architecture gain the ability to:
+Organizations implementing this framework gain the ability to:
 
-✅ move beyond historical reporting
+✅ Move beyond historical reporting
 
-✅ detect risk earlier
+✅ Govern forecast confidence
 
-✅ continuously evaluate recoverability
+✅ Detect risk earlier
 
-✅ optimize recovery investments
+✅ Escalate exposure consistently
 
-✅ improve capital allocation decisions
+✅ Improve intervention discipline
 
-✅ institutionalize commercial governance
+✅ Optimize capital allocation
 
-✅ improve executive decision quality
+✅ Strengthen executive decision-making
+
+✅ Institutionalize enterprise governance
 
 ---
 
 ## 🎯 Strategic Outcome
 
-The Commercial Governance Reference Architecture transforms enterprise forecasting from a reporting exercise into a comprehensive operating system for:
+The Enterprise Revenue Governance Framework provides a structured governance model for managing forecast visibility, exposure detection, intervention planning, capital allocation, and executive decision-making.
 
-* revenue intelligence,
-* commercial governance,
-* recovery management,
-* capital allocation,
-* and executive decision-making.
-
-The result is a more resilient, more predictable, and more governable commercial organization.
+Rather than treating these activities as isolated processes, the framework integrates them into a coordinated governance system that supports better decisions under uncertainty and improves the organization's ability to manage fiscal-year performance proactively.
 
 ---
 
-### 👤 Author
+## 👤 Author
 
 **Anil Jacob**
-Enterprise BI • RevOps Strategy • Executive Analytics • Forecast Governance
+
+Enterprise BI • Revenue Operations Strategy • Decision Intelligence • Executive Analytics
 
 ---
 
-### 📜 Repository Context
+## 📜 Repository Context
 
-The architecture, operating models, forecasts, governance frameworks, optimization models, and business scenarios presented throughout this repository are synthetic and intended exclusively for portfolio, educational, and strategic demonstration purposes.
+All forecasts, governance frameworks, operating models, optimization engines, portfolio allocations, recovery strategies, and business scenarios contained within this repository are synthetic and intended exclusively for portfolio, educational, and strategic demonstration purposes.
+
+The Enterprise Revenue Governance Framework illustrates how organizations can govern revenue intelligence, forecast risk, recovery intervention, capital allocation, and executive decision-making through a unified governance model.
