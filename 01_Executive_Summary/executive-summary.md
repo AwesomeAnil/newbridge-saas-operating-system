@@ -1,406 +1,296 @@
-# 🏛️ Executive Summary  
-## 🚀 New Bridge SaaS Operating System  
-### 📈 Board-Level Forecast Governance & Recovery Optimization Simulation
+# 🏛️ Executive Summary
+
+## 🚀 New Bridge SaaS Revenue Operating System
+
+### 📈 Board-Level Revenue Governance, Recovery Optimization & Decision Intelligence Simulation
 
 ---
 
 <p align="center">
 
-![Enterprise BI](https://img.shields.io/badge/Enterprise%20BI-Executive%20Reporting-F2C811?logo=powerbi&logoColor=black)
-![RevOps](https://img.shields.io/badge/RevOps-Commercial%20Governance-blue)
-![Forecast Governance](https://img.shields.io/badge/Forecast-Governance-critical)
-![CRR](https://img.shields.io/badge/CRR-Central%20Risk%20Reserve-darkred)
-![Optimization](https://img.shields.io/badge/Optimization-Linear%20Programming-orange)
-![Solver](https://img.shields.io/badge/Excel-Solver-success)
-![Analytics](https://img.shields.io/badge/Analytics-Executive%20Decision%20Science-purple)
-![Scenario Modeling](https://img.shields.io/badge/Scenario-Modeling-informational)
-![Board Room](https://img.shields.io/badge/Board--Room-Decision%20Simulation-black)
-![War Room](https://img.shields.io/badge/War--Room-Recovery%20Operations-critical)
-![Power BI](https://img.shields.io/badge/Power%20BI-Enterprise%20Dashboards-F2C811?logo=powerbi&logoColor=black)
+![Enterprise BI](https://img.shields.io/badge/Enterprise%20BI-Executive%20Reporting-F2C811?logo=powerbi\&logoColor=black)
+![Revenue Governance](https://img.shields.io/badge/Revenue-Governance-critical)
+![Forecast Governance](https://img.shields.io/badge/Forecast-Governance-success)
+![Risk Governance](https://img.shields.io/badge/Risk-Governance-orange)
+![CRR](https://img.shields.io/badge/CRR-Recovery%20Governance-darkred)
+![Optimization](https://img.shields.io/badge/Optimization-Recovery%20Optimization-green)
+![Decision Intelligence](https://img.shields.io/badge/Decision-Intelligence-purple)
+![Portfolio Optimization](https://img.shields.io/badge/Portfolio-Optimization-blue)
+![Scenario Planning](https://img.shields.io/badge/Scenario-Planning-informational)
+![Executive Analytics](https://img.shields.io/badge/Executive-Decision%20Support-black)
+![Power BI](https://img.shields.io/badge/Power%20BI-Enterprise%20Dashboards-F2C811?logo=powerbi\&logoColor=black)
 ![MS Fabric](https://img.shields.io/badge/MS%20Fabric-Semantic%20Architecture-purple)
 ![Forecast Risk](https://img.shields.io/badge/Forecast%20Risk-Enterprise%20Exposure-red)
-![Business Recovery](https://img.shields.io/badge/Business%20Recovery-Enterprise%20Resilience-success)
-![Portfolio Optimization](https://img.shields.io/badge/Portfolio-Optimization-orange)
-![Historical Analysis](https://img.shields.io/badge/Historical%20Analysis-Revenue%20Attainment-blue)
-![Predictive Analytics](https://img.shields.io/badge/Predictive-Scenario%20Forecasting-teal)
-![Prescriptive Analytics](https://img.shields.io/badge/Prescriptive-Recovery%20Optimization-blueviolet)
+![Recovery Governance](https://img.shields.io/badge/Recovery-Governance-success)
+![Capital Allocation](https://img.shields.io/badge/Capital-Allocation-orange)
+![Board Room](https://img.shields.io/badge/Board--Room-Decision%20Simulation-black)
 
 </p>
 
 ---
 
-# 📌 Executive Overview
+## 📌 Executive Overview
 
-New Bridge is a simulated enterprise SaaS organization designed to model how modern subscription businesses govern commercial operations, forecast performance, pipeline risk, and enterprise recovery strategies under deteriorating operating conditions.
+At the end of Fiscal Q3 FY26, New Bridge appeared operationally healthy, achieving **139% historical budget attainment** across major geographies. However, confidence-calibrated forecasting revealed that enterprise coverage could deteriorate from **105.1% under Full Pipe assumptions** to **78.0% under High Confidence assumptions**, creating a potential **$35M forecast exposure** despite strong historical performance.
 
-The project was intentionally built as a:
+This repository demonstrates how revenue governance, forecast risk management, recovery governance, capital allocation, recovery optimization, and decision intelligence can be integrated into a single operating framework capable of identifying, governing, and recovering enterprise exposure under deteriorating commercial conditions.
 
-# 🏢 Fortune 500 Commercial Governance Simulation
-
-bridging:
-
-- Enterprise Business Intelligence
-- Revenue Operations (RevOps)
-- SaaS Financial Modeling
-- Forecast Governance
-- Executive Analytics
-- Portfolio Optimization
-- Recovery Strategy
-- Enterprise Risk Mitigation
-
-Unlike traditional analytics portfolios focused purely on reporting or dashboards, this platform simulates how executive leadership teams manage:
-
-- growth,
-- commercial exposure,
-- forecast deterioration,
-- capital allocation,
-- and enterprise survivability
-
-within a global SaaS operating environment.
+What began as a revenue analytics simulation ultimately evolved into a board-level decision intelligence operating system for managing uncertainty, allocating recovery capital, and protecting fiscal-year performance.
 
 ---
 
-# 🌍 Strategic Business Context
+## 🌍 Strategic Business Context
 
-At the end of Fiscal Q3 FY26, New Bridge appeared operationally healthy from a historical performance perspective.
+At the end of Fiscal Q3 FY26, New Bridge appeared to be outperforming expectations across major operating regions.
 
----
+### 📈 Historical Operating Performance
 
-## 📈 Historical Operating Performance
+| Metric                        |       Result |
+| ----------------------------- | -----------: |
+| Historical Revenue Attainment |         139% |
+| Geographic Performance        | Above Target |
+| Revenue Expansion             |      Healthy |
+| Pipeline Activity             |       Strong |
+| Commercial Momentum           |     Positive |
 
-| Metric | Result |
-|---|---:|
-| Historical Revenue Attainment | 139% |
-| Geographic Performance | All major regions above target |
-| Pipeline Activity | Strong |
-| Revenue Expansion | Healthy |
-| Commercial Momentum | Positive |
+Viewed through a traditional reporting lens, the organization appeared operationally healthy.
 
-At face value, the organization appeared to be outperforming expectations across global markets.
-
-However, once the enterprise transitioned from a historical operational lens to a forward-looking fiscal forecast perspective, significant enterprise risk exposure emerged.
+However, confidence-calibrated forecasting revealed a materially different picture of future performance.
 
 ---
 
-# ⚠️ Forecast Governance Breakdown
+## ⚠️ Enterprise Exposure Summary
 
-## 📉 Enterprise Coverage Deterioration
+### Forecast Coverage Deterioration
 
-| Forecast Scenario | Enterprise Coverage |
-|---|---:|
-| Full Pipeline Coverage | 105.0% |
-| Qualified Pipeline Coverage | 92.5% |
-| High-Confidence Pipeline Coverage | 78.0% |
+| Forecast Scenario | Coverage | Exposure |
+| ----------------- | -------: | -------: |
+| Full Pipe         |   105.1% |     None |
+| Qualified Pipe    |    92.5% |    ~$12M |
+| High Confidence   |    78.0% |    ~$35M |
 
-This revealed a critical governance problem:
+The analysis demonstrated that strong historical performance was masking significant forward-looking exposure.
 
-> Strong historical performance was masking severe forward-looking forecast fragility.
+As confidence assumptions became more restrictive, enterprise coverage deteriorated rapidly, exposing increasing dependence on lower-confidence pipeline and creating material risk against fiscal-year commitments.
 
-The organization had become increasingly dependent on:
+---
 
-- lower-confidence pipeline,
-- late-quarter recovery execution,
-- geographic concentration,
-- and aggressive forecast assumptions.
+## 🧠 New Bridge Executive Decision Journey
 
-This created escalating enterprise exposure against fiscal commitments and materially increased the probability of missing full-year operating targets.
+```mermaid
+flowchart TD
+
+A["<table><tr><td width='350' align='center'>Historical Performance</td></tr><tr><td align='center'>139% Attainment</td></tr></table>"] --> B["<table><tr><td width='350' align='center'>Forecast Calibration</td></tr><tr><td align='center'>105.1% → 78.0%</td></tr></table>"]
+B --> C["<table><tr><td width='350' align='center'>Exposure Assessment</td></tr><tr><td align='center'>$12M → $35M Risk</td></tr></table>"]
+C --> D["<table><tr><td width='350' align='center'>CRR Governance</td></tr></table>"]
+D --> E["<table><tr><td width='350' align='center'>Recovery Optimization</td></tr></table>"]
+E --> F["<table><tr><td width='350' align='center'>Executive Portfolio Selection</td></tr></table>"]
+F --> G["<table><tr><td width='350' align='center'>Decision Intelligence</td></tr></table>"]
+
+%% Individual Node Color Overrides
+style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
+style B fill:#cfe2ff,stroke:#084298,stroke-width:2px
+style C fill:#fff3cd,stroke:#997404,stroke-width:2px
+style D fill:#f8d7da,stroke:#b02a37,stroke-width:2px
+style E fill:#d1e7dd,stroke:#146c43,stroke-width:2px
+style F fill:#e2d9f3,stroke:#6f42c1,stroke-width:2px
+style G fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
+```
+
+The New Bridge journey illustrates how an organization can progress from historical performance measurement to governed executive decision-making through structured forecasting, exposure assessment, recovery governance, and portfolio optimization.
 
 ---
 
 ## 📷 Executive Dashboard Preview
 
 <p align="center">
-  
-  ![Executive Dashboard](/assets/images/executive-dashboard-preview.png)
-  
+
+![Executive Dashboard](/assets/images/executive-dashboard-preview.png)
+
 </p>
 
 ---
 
-## 🚀 Launch Interactive Power BI Experience
+### 🚀 Launch Interactive Power BI Experience
 
-[![Launch Power BI Dashboard](https://img.shields.io/badge/Launch-Interactive%20Executive%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNDcxZTU3M2YtMjQ5Ni00ODRhLTk3NTYtM2Q3NmJhYjU0ZGZlIiwidCI6ImY2NTRlNzkxLWY4NTgtNDZkNi05MWE5LTE5YzlmZTA4YTc0ZiJ9&pageName=1620bb6e7a6a9c45a384)
-
----
-
-# 🧠 Executive Narrative Progression
-
-```mermaid
-flowchart LR
-
-A[139% Historical Attainment]
---> B[105% Full Pipeline Coverage]
-
-B --> C[92.5% Qualified Coverage]
-
-C --> D[78% High-Confidence Coverage]
-
-D --> E[Enterprise Forecast Risk]
-
-E --> F[Board-Level Escalation]
-```
+[![Launch Power BI Dashboard](https://img.shields.io/badge/Launch-Interactive%20Executive%20Dashboard-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)](https://awesomeanil.github.io/newbridge-saas-operating-system/reports/newbridge_report.html)
 
 ---
 
-# 🏗️ Enterprise SaaS Operating System
+## 🏗️ Enterprise Revenue Operating System
 
-The project models a governed SaaS commercial operating system including:
+New Bridge models an integrated SaaS revenue operating system spanning commercial performance measurement, forecasting, risk governance, capital allocation, and executive decision support.
 
-- ARR transaction modeling
-- ACV normalization
-- Revenue realization logic
-- Fiscal calendar engineering
-- Opportunity lifecycle simulation
-- Pipeline governance
-- Forecast calibration
-- Executive KPI management
-- Geography-level risk analysis
+| Business Domain       | Capability                                       |
+| --------------------- | ------------------------------------------------ |
+| Revenue Governance    | ARR, ACV & Revenue Performance Management        |
+| Forecast Governance   | Multi-Scenario Forecast Calibration              |
+| Risk Governance       | Enterprise Exposure Assessment                   |
+| Recovery Governance   | CRR Activation & Intervention Planning           |
+| Capital Governance    | Recovery Investment Allocation                   |
+| Decision Intelligence | Portfolio Selection & Executive Decision Support |
 
-The platform intentionally bridges:
-
-| Business Domain | Capability |
-|---|---|
-| Enterprise BI | Executive reporting & semantic modeling |
-| RevOps | Pipeline governance & commercial operations |
-| SaaS Finance | ARR / ACV / IYRC mechanics |
-| Forecast Governance | Multi-scenario calibration |
-| Executive Analytics | Decision-support systems |
-| Commercial Strategy | Recovery optimization |
-| Portfolio Governance | Geographic investment allocation |
+The platform intentionally connects revenue performance, forecast confidence, exposure management, recovery planning, and executive decision-making within a single operating framework.
 
 ---
 
-# 🏛️ Enterprise Commercial Intelligence Architecture
+## 🧮 Revenue Realization Framework
 
-```mermaid
-flowchart LR
-
-A[Sales Pipeline]
---> B[Opportunity Lifecycle Engine]
-
-B --> C[ARR / ACV Normalization]
-
-C --> D[Revenue Realization Framework]
-
-D --> E[Forecast Governance Layer]
-
-E --> F[Executive Reporting]
-
-F --> G[Board-Level Decision Support]
-```
-
----
-
-# 🧮 ARR → Revenue Realization Framework
-
-The simulation models how SaaS commercial activity translates into fiscal outcomes through governed revenue realization mechanics.
+The simulation models how commercial activity ultimately translates into fiscal outcomes through governed revenue realization mechanics.
 
 Core modeling components include:
 
-- Annual Contract Value (ACV)
-- Annual Recurring Revenue (ARR)
-- In-Year Revenue Contribution (IYRC)
-- Revenue timing logic
-- Fiscal period allocation
-- Opportunity lifecycle causality
+* Annual Contract Value (ACV)
+* Annual Recurring Revenue (ARR)
+* In-Year Revenue Contribution (IYRC)
+* Revenue Timing Logic
+* Fiscal Calendar Allocation
+* Opportunity Lifecycle Modeling
 
----
-
-## 📊 Revenue Realization Flow
+### 📊 Revenue Realization Flow
 
 ```mermaid
 flowchart TD
 
-A[Bookings / ACV]
---> B[Contract Timing Logic]
+A["<table><tr><td width='350' align='center'>Bookings / ACV</td></tr></table>"] --> B["<table><tr><td width='350' align='center'>Contract Timing Logic</td></tr></table>"]
+B --> C["<table><tr><td width='350' align='center'>ARR Normalization</td></tr></table>"]
+C --> D["<table><tr><td width='350' align='center'>IYRC Computation</td></tr></table>"]
+D --> E["<table><tr><td width='350' align='center'>Revenue Forecast</td></tr></table>"]
+E --> F["<table><tr><td width='350' align='center'>Forecast Governance</td></tr></table>"]
 
-B --> C[ACV Normalization]
-
-C --> D[IYRC Computation]
-
-D --> E[Revenue Forecast]
-
-E --> F[Executive Forecast Governance]
+%% Context-Relevant Color Overrides
+style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
+style B fill:#cfe2ff,stroke:#084298,stroke-width:2px
+style C fill:#d1e7dd,stroke:#146c43,stroke-width:2px
+style D fill:#fff3cd,stroke:#997404,stroke-width:2px
+style E fill:#badbcc,stroke:#0f5132,stroke-width:2px
+style F fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
 ```
 
 ---
 
-# 🌍 Geography-Level Forecast Governance
+## 🌍 Geography-Level Exposure Analysis
 
-The framework models forecast deterioration across multiple global operating regions including:
+The simulation demonstrated that forecast exposure was not distributed evenly across all operating regions.
 
-- NA West
-- NA East
-- DACH
-- UKI
-- India
-- ANZ
-- Brazil
-- Middle East
+Material deterioration was concentrated within a relatively small number of geographies, while several regions contributed only marginal exposure. For example, selected Middle East & Africa subregions contributed approximately **$513K** of forecast deterioration under the High Confidence scenario and were therefore excluded from the recovery investment program.
 
-The project demonstrates how enterprise forecast exposure becomes unevenly distributed across global commercial portfolios under deteriorating pipeline conditions.
+This highlighted a critical governance principle:
+
+> Recovery capital should follow material exposure rather than geographic coverage.
 
 ---
 
-# 🛡️ Central Risk Reserve (CRR)
+## 🛡️ Central Risk Reserve (CRR)
 
-One of the project’s primary strategic innovations is the introduction of a:
+The Central Risk Reserve (CRR) was developed as a governance mechanism for determining when intervention should occur, where recovery capital should be deployed, and how limited resources should be prioritized during periods of forecast deterioration.
 
-# 🏦 Central Risk Reserve (CRR)
-
-The CRR acts as an institutional recovery-capital framework designed to preserve enterprise forecast attainment under severe downside conditions.
-
-The framework models how enterprise leadership can deploy economically rational recovery investments across global commercial portfolios.
+Rather than acting as a simple funding pool, the CRR established the governance structure through which recovery investments were evaluated, approved, prioritized, and monitored.
 
 ---
 
-# 🎯 Recovery Investment Levers
+## 🎯 Recovery Investment Levers
 
-| Lever | Strategic Purpose |
-|---|---|
-| RAF Acceleration | Pipeline expansion & scalable recovery |
-| Renewal Optimization | Installed-base recovery efficiency |
-| Tactical Discounts | Controlled late-stage recovery support |
-| Geographic Allocation | Portfolio efficiency prioritization |
+| Lever                  | Strategic Purpose                     |
+| ---------------------- | ------------------------------------- |
+| RAF Acceleration       | Pipeline Expansion & Revenue Recovery |
+| Renewal Optimization   | Installed-Base Recovery               |
+| Tactical Discounts     | Controlled Late-Stage Recovery        |
+| Geographic Allocation  | Capital Prioritization                |
+| Portfolio Optimization | Recovery Efficiency Maximization      |
 
 ---
 
-# ⚙️ Enterprise Recovery Optimization Framework
+## ⚙️ Recovery Optimization & Frontier Analysis
+
+Recovery Optimization demonstrated that multiple intervention portfolios could restore fiscal-year attainment under deteriorating forecast conditions.
+
+Frontier Analysis was then used to identify the point at which additional recovery investment ceased to produce meaningful incremental benefit, establishing the economic boundary of enterprise recovery.
+
+## Recovery Frontier Progression
 
 ```mermaid
 flowchart TD
 
-A[Enterprise Forecast Gap]
---> B[Central Risk Reserve]
+A["<table><tr><td width='350' align='center'>S8</td></tr><tr><td align='center'>Survivability</td></tr></table>"] --> B["<table><tr><td width='350' align='center'>S9A</td></tr><tr><td align='center'>Recovery Expansion</td></tr></table>"]
+B --> C["<table><tr><td width='350' align='center'>S9B</td></tr><tr><td align='center'>Near Frontier</td></tr></table>"]
+C --> D["<table><tr><td width='350' align='center'>S9C</td></tr><tr><td align='center'>Full Recovery Frontier</td></tr></table>"]
 
-B --> C[Recovery Lever Allocation]
-
-C --> D[Excel Solver Optimization]
-
-D --> E[ROI Frontier Analysis]
-
-E --> F[Enterprise Recovery Pathway]
-
-F --> G[Board-Level Decision Support]
+%% Individual Node Color Overrides
+style A fill:#f8d7da,stroke:#b02a37,stroke-width:2px
+style B fill:#fff3cd,stroke:#997404,stroke-width:2px
+style C fill:#d1e7dd,stroke:#146c43,stroke-width:2px
+style D fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
 ```
 
 ---
 
-# 📈 Recovery Frontier Analysis
+## 📊 Recovery Portfolio Comparison
 
-The repository models progressively severe enterprise stress environments.
+| Metric            | Qualified Pipe | High Confidence |
+| ----------------- | -------------: | --------------: |
+| Forecast Exposure |          ~$12M |           ~$35M |
+| CRR Investment    |         $5.99M |          $18.0M |
+| Forecast Recovery |        $11.89M |         $34.76M |
+| Portfolio ROI     |          1.70x |           1.93x |
+| Recovery Outcome  |  Full Recovery |   Full Recovery |
 
-| Scenario | Strategic Interpretation |
-|---|---|
-| S8 | Survivability Triage |
-| S9A | Recovery Expansion |
-| S9B | Near Recovery Frontier |
-| S9C | Full Enterprise Recovery Frontier |
-
-The optimization framework evaluates:
-
-- recovery efficiency,
-- marginal ROI deterioration,
-- binding constraints,
-- geographic prioritization,
-- and enterprise survivability economics.
+The Qualified Pipe portfolio emphasized capital efficiency, while the High Confidence portfolio emphasized fiscal-year survivability under more conservative planning assumptions.
 
 ---
 
-# 📊 Enterprise Recovery Progression
+## 🎯 Recovery Frontier Outcome
 
-```mermaid
-flowchart LR
+## S9C — Enterprise Recovery Frontier
 
-A[S8 - Survivability]
---> B[S9A - Recovery Expansion]
+The S9C scenario planning on Solver demonstrated that complete enterprise recovery became achievable once scalable RAF acceleration and high-efficiency renewal optimization were expanded sufficiently while maintaining disciplined discount governance.
 
-B --> C[S9B - Near Frontier]
+| Metric               |   Value |
+| -------------------- | ------: |
+| Total CRR Investment |  $18.0M |
+| Forecast Recovery    | $34.76M |
+| Residual Exposure    |      $0 |
+| Recovery Efficiency  |    100% |
+| Portfolio ROI        |   1.93x |
 
-C --> D[S9C - Full Enterprise Recovery]
-```
-
----
-
-# 🚀 S9C — Enterprise Recovery Frontier
-
-Scenario S9C mathematically demonstrated that full enterprise forecast recovery became achievable once scalable RAF acceleration and high-efficiency renewal optimization were sufficiently expanded while maintaining disciplined discount governance.
+This established the enterprise recovery frontier and defined the economic boundary of full forecast recovery under severe downside conditions.
 
 ---
 
-## 📌 S9C Outcome Summary
+## 🧠 Institutional Insights
 
-| Metric | Value |
-|---|---:|
-| Total Enterprise CRR | 18.0M |
-| Forecast Recovery Achieved | 34.76M |
-| Residual Enterprise Exposure | 0 |
-| Recovery Efficiency | 100% |
-| Effective Portfolio ROI | 1.93x |
+✅ Strong historical performance can conceal material future exposure
 
-This established the organization’s:
+✅ Forecast confidence is more important than forecast volume
 
-# 📈 Enterprise Recovery Frontier
+✅ Recovery capital should follow material exposure rather than geographic coverage
 
-the point at which complete global forecast recovery became mathematically achievable under severe downside stress conditions.
+✅ Recovery effectiveness depends as much on timing as investment magnitude
+
+✅ Optimization improves decision quality but does not replace leadership accountability
+
+✅ Revenue Intelligence creates visibility, while Decision Intelligence improves outcomes
 
 ---
 
-# 🧠 Strategic Executive Insights
+## 🎯 Strategic Outcome
 
-The project demonstrates that enterprise SaaS survivability under deteriorating commercial conditions depends on:
+New Bridge evolved from a revenue analytics initiative into a decision intelligence operating system capable of connecting revenue governance, forecast risk management, recovery governance, portfolio optimization, and executive decision support within a single enterprise framework.
 
-✅ Institutional governance discipline  
-✅ Forecast calibration maturity  
-✅ Economically rational recovery investment  
-✅ Geography-aware capital allocation  
-✅ Controlled pricing governance  
-✅ Executive decision intelligence  
-✅ Portfolio optimization discipline  
+The repository demonstrates how organizations can move beyond traditional reporting and forecasting to build a more disciplined operating model for managing uncertainty, allocating capital, and protecting fiscal-year performance under deteriorating commercial conditions.
 
 ---
 
-# 🎯 Strategic Outcome
+### 👤 Author
 
-New Bridge ultimately evolved beyond a traditional analytics initiative into a:
+**Anil Jacob**
 
-# 🏢 Board-Level Commercial Governance Platform
-
-demonstrating how enterprise SaaS organizations can:
-
-- operationalize commercial intelligence,
-- govern forecast risk institutionally,
-- optimize recovery capital deployment,
-- and preserve enterprise resilience under severe operating stress.
-
-The project intentionally bridges:
-
-- Enterprise BI
-- RevOps
-- SaaS Finance
-- Forecast Governance
-- Executive Analytics
-- Commercial Strategy
-- Portfolio Optimization
-
-within a unified enterprise operating simulation.
+Enterprise BI • Revenue Operations Strategy • Decision Intelligence • Executive Analytics
 
 ---
 
-# 👤 Author
+### 📜 Repository Purpose
 
-**Anil Jacob**  
-Enterprise BI • RevOps Strategy • Executive Analytics • Forecast Governance
+This repository is published as a strategic portfolio demonstrating how enterprise SaaS organizations can integrate revenue governance, forecast risk management, recovery optimization, capital allocation, and decision intelligence into a single operating framework.
 
----
-
-# 📜 Repository Purpose
-
-This repository is published for:
-
-- executive portfolio demonstration,
-- commercial governance simulation,
-- strategic analytics showcase,
-- and enterprise forecasting research.
-
-All datasets and business entities within this repository are simulated for portfolio and educational purposes.
+All datasets, forecasts, operating environments, governance models, optimization outputs, and business entities contained within this repository are synthetic and intended exclusively for portfolio, educational, and strategic demonstration purposes.
