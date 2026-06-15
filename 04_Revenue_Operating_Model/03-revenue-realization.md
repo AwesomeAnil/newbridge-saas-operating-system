@@ -117,13 +117,13 @@ These transactions contribute toward revenue realization, but they do not determ
 
 ---
 
-# 🏛️ Opening ARR Foundation
+## 🏛️ Opening ARR Foundation
 
 Every fiscal year begins with an existing recurring revenue base.
 
 This is referred to as:
 
-# 💰 Opening ARR
+### 💰 Opening ARR
 
 Opening ARR represents revenue already under contract before any new selling activity occurs.
 
