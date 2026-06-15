@@ -69,7 +69,7 @@ The historical operating model combined renewals, new customer acquisition, and 
 ### 📸 Historical Business Performance (FY20–FY25)
 
 
-![Historical View](/assets/images/Historical View.png)
+![Historical View](../assets/images/Historical View.png)
 
 ---
 
@@ -99,7 +99,7 @@ This shift was subtle enough to escape attention in traditional management repor
 
 ### 📸 FY26 Commercial Performance Snapshot
 
-![Current View](/assets/images/Current View.png)
+![Current View](../assets/images/Current View.png)
 
 ---
 
