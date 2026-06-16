@@ -57,6 +57,28 @@ transforming forecast deterioration into a structured decision-making process ra
 
 ---
 
+## 📊 New Bridge Risk Snapshot
+
+The Forecast Risk analysis established the following position at the conclusion of Q3 FY26.
+
+| Metric | Value |
+|----------|----------:|
+| FY26 Budget | $160M |
+| High Confidence Forecast | $125M |
+| Forecast Exposure | $35M |
+| Exposure Severity | 21.9% |
+| Governance State | Red |
+
+Forecast Risk established that a critical exposure exists.
+
+The remaining question is:
+
+> Does this exposure justify enterprise intervention?
+
+The Central Risk Reserve (CRR) exists to answer that question.
+
+---
+
 ## 🎯 The Intervention Problem
 
 Traditional forecast governance often follows a predictable pattern.
@@ -173,7 +195,7 @@ flowchart TD
     C["<table style='width:320px; display:block; text-align:center;'><tr><td><b style='font-size:16px;'>CRR Governance Review</b></td></tr></table>"]
     D["<table style='width:320px; display:block; text-align:center;'><tr><td><b style='font-size:16px;'>Capital Allocation</b></td></tr></table>"]
     E["<table style='width:320px; display:block; text-align:center;'><tr><td><b style='font-size:16px;'>Recovery Authorization</b></td></tr></table>"]
-    F["<table style='width:320px; display:block; text-align:center;'><tr><td><b style='font-size:16px;'>Optimizated Execution</b></td></tr></table>"]
+    F["<table style='width:320px; display:block; text-align:center;'><tr><td><b style='font-size:16px;'>Optimized Execution</b></td></tr></table>"]
 
     A --> B
     B --> C
@@ -243,50 +265,22 @@ CRR provides a governance mechanism for prioritizing limited recovery investment
 
 ```mermaid
 flowchart TD
+    A["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>CRR Activation</b></td></tr></table>"]
+    B["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Recovery Investment Pool</b></td></tr></table>"]
+    C["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Funding Approval</b></td></tr></table>"]
+    D["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Recovery Optimization</b></td></tr></table>"]
 
-A["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>CRR Activation</b></td></tr></table>"]
+    A --> B
+    B --> C
+    C --> D
 
---> B["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Recovery Investment Pool</b></td></tr></table>"]
-
---> C["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Geographic Prioritization</b></td></tr></table>"]
-
---> D["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Recovery Levers</b></td></tr></table>"]
-
---> E["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Expected Recovery Impact</b></td></tr></table>"]
-
---> F["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Portfolio Recommendation</b></td></tr></table>"]
-
-style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
-
-style B fill:#fff3cd,stroke:#997404,stroke-width:2px
-
-style C fill:#fff3cd,stroke:#997404,stroke-width:2px
-
-style D fill:#d1e7dd,stroke:#146c43,stroke-width:2px
-
-style E fill:#d1e7dd,stroke:#146c43,stroke-width:2px
-
-style F fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
+    style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
+    style B fill:#fff3cd,stroke:#997404,stroke-width:2px
+    style C fill:#d1e7dd,stroke:#146c43,stroke-width:2px
+    style D fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
 ```
 
 The framework ensures that capital is directed toward the highest-value recovery opportunities rather than distributed reactively.
-
----
-
-## 🌍 Recovery Prioritization Philosophy
-
-Recovery funding should not be distributed uniformly.
-
-CRR prioritizes opportunities based on:
-
-* Revenue impact potential
-* Probability of recovery success
-* Time-to-recovery
-* Geographic exposure
-* Strategic importance
-* Investment efficiency
-
-The objective is to maximize fiscal-year recovery per unit of capital deployed.
 
 ---
 
@@ -294,30 +288,22 @@ The objective is to maximize fiscal-year recovery per unit of capital deployed.
 
 ```mermaid
 flowchart TD
+    A["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Forecast Risk Review</b></td></tr></table>"]
+    B["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>CRR Activation</b></td></tr></table>"]
+    C["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Funding Approval</b></td></tr></table>"]
+    D["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Recovery Optimization</b></td></tr></table>"]
+    E["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Executive Monitoring</b></td></tr></table>"]
 
-A["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Forecast Review</b></td></tr></table>"]
+    A --> B
+    B --> C
+    C --> D
+    D --> E
 
---> B["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Exposure Assessment</b></td></tr></table>"]
-
---> C["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>CRR Governance Review</b></td></tr></table>"]
-
---> D["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Funding Approval</b></td></tr></table>"]
-
---> E["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Recovery Program</b></td></tr></table>"]
-
---> F["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Executive Monitoring</b></td></tr></table>"]
-
-style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
-
-style B fill:#f8d7da,stroke:#b02a37,stroke-width:2px
-
-style C fill:#fff3cd,stroke:#997404,stroke-width:2px
-
-style D fill:#d1e7dd,stroke:#146c43,stroke-width:2px
-
-style E fill:#d1e7dd,stroke:#146c43,stroke-width:2px
-
-style F fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
+    style A fill:#f8d7da,stroke:#b02a37,stroke-width:2px
+    style B fill:#cfe2ff,stroke:#084298,stroke-width:2px
+    style C fill:#fff3cd,stroke:#997404,stroke-width:2px
+    style D fill:#d1e7dd,stroke:#146c43,stroke-width:2px
+    style E fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
 ```
 
 This governance pathway formalizes the movement from exposure visibility to funded recovery intervention.
@@ -346,6 +332,14 @@ Recovery Optimization determines how intervention should be executed.
 
 Together they create a complete governance-to-execution model.
 
+### Executive Boundary
+
+CRR determines whether intervention should occur.
+
+Recovery Optimization determines how intervention should be executed.
+
+Together they create a governed transition from exposure management to recovery execution.
+
 ---
 
 ## 🏗️ Position Within The New Bridge Operating System
@@ -353,11 +347,17 @@ Together they create a complete governance-to-execution model.
 CRR occupies a unique position within the overall architecture.
 
 ```text
-Forecast Risk Model
+Forecast Confidence
+        ↓
+Forecast Exposure
+        ↓
+Forecast Risk
         ↓
 Central Risk Reserve
         ↓
 Recovery Optimization
+        ↓
+Investment Tradeoff Analysis
 ```
 
 The Forecast Risk Model identifies exposure.
