@@ -128,29 +128,34 @@ and
 
 ```mermaid
 flowchart TD
+    A["<div style='padding: 8px 30px; font-size: 14px;'><b>Forecast Deterioration</b></div>"]
+    B["<div style='padding: 8px 33px; font-size: 14px;'><b>Enterprise Exposure</b></div>"]
+    C["<div style='padding: 8px 43px; font-size: 14px;'><b>CRR Activation</b></div>"]
+    D["<div style='padding: 8px 10px; font-size: 14px;'><b>Recovery Capital Allocation</b></div>"]
+    E["<div style='padding: 8px 31px; font-size: 14px;'><b>Recovery Optimization</b></div>"]
+    F["<div style='padding: 8px 40px; font-size: 14px;'><b>Fiscal Stabilization</b></div>"]
 
-A["Forecast Deterioration"]
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
 
---> B["Enterprise Exposure"]
+    %% Color Styling %%
+    classDef styleA fill:#f8d7da,stroke:#b02a37,stroke-width:2px,color:#000000;
+    classDef styleB fill:#f8d7da,stroke:#b02a37,stroke-width:2px,color:#000000;
+    classDef styleC fill:#cfe2ff,stroke:#084298,stroke-width:2px,color:#000000;
+    classDef styleD fill:#fff3cd,stroke:#997404,stroke-width:2px,color:#000000;
+    classDef styleE fill:#d1e7dd,stroke:#146c43,stroke-width:2px,color:#000000;
+    classDef styleF fill:#6f42c1,stroke:#6f42c1,stroke-width:3px,color:#ffffff;
 
---> C["CRR Activation"]
-
---> D["Recovery Capital Allocation"]
-
---> E["Recovery Optimization"]
-
---> F["Fiscal Stabilization"]
-
-style A fill:#f8d7da,stroke:#b02a37,stroke-width:2px
-style B fill:#f8d7da,stroke:#b02a37,stroke-width:2px
-
-style C fill:#cfe2ff,stroke:#084298,stroke-width:2px
-
-style D fill:#fff3cd,stroke:#997404,stroke-width:2px
-
-style E fill:#d1e7dd,stroke:#146c43,stroke-width:2px
-
-style F fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
+    %% Applying styles to nodes %%
+    class A styleA;
+    class B styleB;
+    class C styleC;
+    class D styleD;
+    class E styleE;
+    class F styleF;
 ```
 
 The CRR framework formalizes the transition from risk identification to recovery intervention.
@@ -163,30 +168,34 @@ Rather than treating forecast deterioration as a reporting exercise, the framewo
 
 ```mermaid
 flowchart TD
+    A["<table style='width:320px; display:block; text-align:center;'><tr><td><b style='font-size:16px;'>Risk Detection</b></td></tr></table>"]
+    B["<table style='width:320px; display:block; text-align:center;'><tr><td><b style='font-size:16px;'>Exposure Assessment</b></td></tr></table>"]
+    C["<table style='width:320px; display:block; text-align:center;'><tr><td><b style='font-size:16px;'>CRR Governance Review</b></td></tr></table>"]
+    D["<table style='width:320px; display:block; text-align:center;'><tr><td><b style='font-size:16px;'>Capital Allocation</b></td></tr></table>"]
+    E["<table style='width:320px; display:block; text-align:center;'><tr><td><b style='font-size:16px;'>Recovery Authorization</b></td></tr></table>"]
+    F["<table style='width:320px; display:block; text-align:center;'><tr><td><b style='font-size:16px;'>Optimizated Execution</b></td></tr></table>"]
 
-A["Risk Detection"]
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
 
---> B["Exposure Assessment"]
+    %% Color Styling %%
+    classDef styleA fill:#f8d7da,stroke:#b02a37,stroke-width:2px,color:#000000;
+    classDef styleB fill:#f8d7da,stroke:#b02a37,stroke-width:2px,color:#000000;
+    classDef styleC fill:#cfe2ff,stroke:#084298,stroke-width:2px,color:#000000;
+    classDef styleD fill:#fff3cd,stroke:#997404,stroke-width:2px,color:#000000;
+    classDef styleE fill:#d1e7dd,stroke:#146c43,stroke-width:2px,color:#000000;
+    classDef styleF fill:#6f42c1,stroke:#6f42c1,stroke-width:3px,color:#ffffff;
 
---> C["CRR Governance Review"]
-
---> D["Capital Allocation"]
-
---> E["Recovery Authorization"]
-
---> F["Optimizated Execution"]
-
-style A fill:#f8d7da,stroke:#b02a37,stroke-width:2px
-
-style B fill:#f8d7da,stroke:#b02a37,stroke-width:2px
-
-style C fill:#cfe2ff,stroke:#084298,stroke-width:2px
-
-style D fill:#fff3cd,stroke:#997404,stroke-width:2px
-
-style E fill:#d1e7dd,stroke:#146c43,stroke-width:2px
-
-style F fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
+    %% Applying styles to nodes %%
+    class A styleA;
+    class B styleB;
+    class C styleC;
+    class D styleD;
+    class E styleE;
+    class F styleF;
 ```
 
 The governance model ensures intervention decisions remain transparent, auditable, and economically justified.
@@ -235,17 +244,17 @@ CRR provides a governance mechanism for prioritizing limited recovery investment
 ```mermaid
 flowchart TD
 
-A["CRR Activation"]
+A["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>CRR Activation</b></td></tr></table>"]
 
---> B["Recovery Investment Pool"]
+--> B["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Recovery Investment Pool</b></td></tr></table>"]
 
---> C["Geographic Prioritization"]
+--> C["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Geographic Prioritization</b></td></tr></table>"]
 
---> D["Recovery Levers"]
+--> D["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Recovery Levers</b></td></tr></table>"]
 
---> E["Expected Recovery Impact"]
+--> E["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Expected Recovery Impact</b></td></tr></table>"]
 
---> F["Portfolio Recommendation"]
+--> F["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Portfolio Recommendation</b></td></tr></table>"]
 
 style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
 
@@ -286,17 +295,17 @@ The objective is to maximize fiscal-year recovery per unit of capital deployed.
 ```mermaid
 flowchart TD
 
-A["Forecast Review"]
+A["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Forecast Review</b></td></tr></table>"]
 
---> B["Exposure Assessment"]
+--> B["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Exposure Assessment</b></td></tr></table>"]
 
---> C["CRR Governance Review"]
+--> C["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>CRR Governance Review</b></td></tr></table>"]
 
---> D["Funding Approval"]
+--> D["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Funding Approval</b></td></tr></table>"]
 
---> E["Recovery Program"]
+--> E["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Recovery Program</b></td></tr></table>"]
 
---> F["Executive Monitoring"]
+--> F["<table width='200'><tr><td style='white-space: normal; word-wrap: break-word;'><b>Executive Monitoring</b></td></tr></table>"]
 
 style A fill:#cfe2ff,stroke:#084298,stroke-width:2px
 
