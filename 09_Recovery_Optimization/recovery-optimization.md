@@ -49,9 +49,40 @@ the framework asks:
 
 ---
 
+## 📊 New Bridge Recovery Challenge
+
+The Recovery Optimization process begins only after Forecast Risk and Central Risk Reserve governance have completed.
+
+The New Bridge simulation established the following position at the conclusion of Q3 FY26.
+
+| Metric | Value |
+|----------|----------:|
+| FY26 Budget | $160M |
+| High Confidence Forecast | $125M |
+| Forecast Exposure | $35M |
+| Exposure Severity | 21.9% |
+| Risk Classification | Critical |
+| CRR Status | Activated |
+
+Forecast Confidence established that the forecast was vulnerable.
+
+Forecast Risk quantified the exposure.
+
+CRR authorized intervention.
+
+Recovery Optimization now answers the next question:
+
+> What combination of recovery actions provides the highest forecast uplift while respecting real-world business constraints?
+
+---
+
 ## 🎯 The Portfolio Allocation Problem
 
-Recovery capital is finite.
+Recovery capacity is finite.
+
+Funding is only one constraint.
+
+Organizations must also manage execution capacity, geographic deployment limitations, and fiscal timing realities..
 
 Execution capacity is constrained.
 
@@ -132,6 +163,23 @@ The objective is not maximum spending.
 The objective is:
 
 > Maximum forecast recovery with minimum efficient investment.
+
+---
+
+## 🧩 Optimization Inputs
+
+Recovery Optimization combines four categories of information.
+
+| Input Category | Examples |
+|----------|----------|
+| Geography | NA East, NA West, DACH, UKI |
+| Recovery Levers | RAF Programs, Renewals, Discount Programs |
+| Constraints | Budget, Capacity, Timing, Deployment Limits |
+| Objective Function | Maximize Forecast Uplift |
+
+The optimization engine evaluates these inputs simultaneously to identify the most efficient recovery portfolio.
+
+Unlike traditional recovery planning, intervention decisions are evaluated collectively rather than independently.
 
 ---
 
@@ -265,6 +313,12 @@ The solver identifies the highest-value solution within those constraints.
 
 The Qualified Pipe scenario demonstrates how modest intervention levels can materially improve forecast survivability while preserving attractive recovery economics.
 
+### Governance Interpretation
+
+Because the Qualified Pipeline scenario begins from 92.5% attainment, relatively modest intervention levels can materially improve fiscal survivability.
+
+Recovery Optimization therefore focuses on efficient uplift rather than large-scale recovery programs.
+
 ---
 
 ### Scenario Summary
@@ -323,6 +377,14 @@ The Qualified Pipe scenario demonstrates how modest intervention levels can mate
 
 This scenario assumes only the strongest opportunities materialize and therefore requires significantly greater intervention capacity.
 
+### Governance Interpretation
+
+The High Confidence scenario begins from a significantly larger exposure position.
+
+As a result, optimization prioritizes recovery scale and achievable uplift over incremental efficiency gains.
+
+This scenario represents the upper boundary of intervention requirements within the New Bridge operating model.
+
 ---
 
 ### Scenario Summary
@@ -336,6 +398,20 @@ This scenario assumes only the strongest opportunities materialize and therefore
 ---
 
 ## 📈 Recovery Frontier Analysis
+
+### Executive Interpretation
+
+The Recovery Frontier represents the practical limit of recoverable performance.
+
+As intervention levels increase:
+
+- forecast uplift initially improves rapidly
+- recovery efficiency remains attractive
+- diminishing returns eventually emerge
+
+Beyond a certain point, additional intervention produces progressively smaller improvements in fiscal outcomes.
+
+The frontier therefore identifies the boundary between efficient and inefficient recovery.
 
 ### The Efficient Recovery Frontier
 
@@ -367,7 +443,9 @@ Several observations emerged consistently across optimization scenarios.
 
 #### Observation 1
 
-Geographic concentration outperformed broad distribution.
+Across both Qualified Pipeline and High Confidence recovery scenarios, optimization consistently concentrated resources within a limited number of high-return geographies rather than distributing intervention evenly.
+
+This suggests that targeted recovery strategies frequently outperform broad enterprise-wide deployment.
 
 #### Observation 2
 
@@ -399,6 +477,14 @@ Investment Tradeoff Analysis evaluates alternative executive choices among those
 | Executive Portfolio Selection | | ✓ |
 | Tradeoff Evaluation | | ✓ |
 | Decision Recommendation | | ✓ |
+
+### Executive Boundary
+
+Recovery Optimization identifies what recovery outcomes are achievable.
+
+Investment Tradeoff Analysis evaluates which achievable outcome should be selected.
+
+Together these capabilities separate analytical optimization from executive decision-making.
 
 ---
 
@@ -438,16 +524,18 @@ Reactive Spending
 Uncertain Results
 ```
 
-### Recovery Optimization Model
+### Optimized Recovery Model
 
 ```text
+Forecast Risk
+    ↓
 CRR Activation
     ↓
-Portfolio Construction
-    ↓
-Optimization Engine
+Recovery Optimization
     ↓
 Recovery Frontier
+    ↓
+Investment Tradeoff Analysis
     ↓
 Executive Decision
 ```
