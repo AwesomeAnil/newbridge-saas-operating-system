@@ -269,7 +269,7 @@ Forecast deterioration was not evenly distributed across the enterprise.
 
 Instead, confidence deterioration concentrated within a small number of major revenue-producing geographies.
 
-![Forecast Coverage](../assets/image/forecast-coverage.png)
+![Forecast Coverage](../assets/images/forecast-coverage.png)
 
 ---
 
