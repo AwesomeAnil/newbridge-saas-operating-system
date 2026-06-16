@@ -23,11 +23,11 @@
 
 ---
 
-# 📌 Executive Overview
+## 📌 Executive Overview
 
 The New Bridge Power BI environment was intentionally designed as a:
 
-# 🏛️ Commercial Governance Operating System
+## 🏛️ Commercial Governance Operating System
 
 rather than a traditional dashboard collection.
 
@@ -53,7 +53,7 @@ within a unified commercial intelligence platform.
 
 ---
 
-# 🧠 Dashboard Experience Philosophy
+## 🧠 Dashboard Experience Philosophy
 
 The reporting architecture was intentionally designed around a foundational principle:
 
@@ -72,26 +72,43 @@ over traditional KPI-only reporting.
 
 ---
 
-# 🏛️ Executive Dashboard Navigation Flow
+## 🏛️ Executive Dashboard Navigation Flow
 
 ```mermaid
-flowchart LR
+flowchart TD
+    A["<table width='200'><tr><td><b>Historical Performance</b></td></tr></table>"]
+    B["<table width='200'><tr><td><b>Current FY Operations</b></td></tr></table>"]
+    C["<table width='200'><tr><td><b>Forecast Deterioration</b></td></tr></table>"]
+    D["<table width='200'><tr><td><b>Pipeline Exposure</b></td></tr></table>"]
+    E["<table width='200'><tr><td><b>Cohort Survivability</b></td></tr></table>"]
+    F["<table width='200'><tr><td><b>Recovery Governance</b></td></tr></table>"]
 
-A[Historical Performance]
---> B[Current FY Operations]
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
 
-B --> C[Forecast Deterioration]
+    %% Color Styling %%
+    classDef historical fill:#37474F,stroke:#263238,stroke-width:2px,color:#FFFFFF;
+    classDef current fill:#1565C0,stroke:#0D47A1,stroke-width:2px,color:#FFFFFF;
+    classDef deterioration fill:#E65100,stroke:#BF360C,stroke-width:2px,color:#FFFFFF;
+    classDef pipeline fill:#C62828,stroke:#5D4037,stroke-width:2px,color:#FFFFFF;
+    classDef cohort fill:#880E4F,stroke:#4A0033,stroke-width:2px,color:#FFFFFF;
+    classDef governance fill:#2E7D32,stroke:#1B5E20,stroke-width:2px,color:#FFFFFF;
 
-C --> D[Pipeline Exposure]
-
-D --> E[Cohort Survivability]
-
-E --> F[Recovery Governance]
+    %% Applying styles to nodes %%
+    class A historical;
+    class B current;
+    class C deterioration;
+    class D pipeline;
+    class E cohort;
+    class F governance;
 ```
 
 ---
 
-# 1️⃣ Executive Forecast Governance Dashboard
+## 1️⃣ Executive Forecast Governance Dashboard
 
 ![Executive Forecast Governance](https://img.shields.io/badge/Executive-Forecast%20Governance-blue?style=for-the-badge)
 
@@ -111,12 +128,12 @@ E --> F[Recovery Governance]
 
 ---
 
-# 2️⃣ Current Fiscal Year Operating Dashboard
+## 2️⃣ Current Fiscal Year Operating Dashboard
 
 ![Current FY Operations](https://img.shields.io/badge/Current%20FY-Commercial%20Operations-success?style=for-the-badge)
 
 <p align="center">
-  <img src="../assets/images/FY26 View.png"
+  <img src="../assets/images/Historical-View.png"
        alt="Current Fiscal Year Operating Dashboard"
        width="100%">
 </p>
@@ -131,7 +148,7 @@ E --> F[Recovery Governance]
 
 ---
 
-# 3️⃣ Historical Customer & ARR Evolution Dashboard
+## 3️⃣ Historical Customer & ARR Evolution Dashboard
 
 ![Historical ARR Evolution](https://img.shields.io/badge/Historical-ARR%20Evolution-purple?style=for-the-badge)
 
@@ -151,7 +168,7 @@ E --> F[Recovery Governance]
 
 ---
 
-# 4️⃣ FY26 Pipeline & Opportunities Governance Dashboard
+## 4️⃣ FY26 Pipeline & Opportunities Governance Dashboard
 
 ![Pipeline Governance](https://img.shields.io/badge/Pipeline-Governance-orange?style=for-the-badge)
 
@@ -171,7 +188,7 @@ E --> F[Recovery Governance]
 
 ---
 
-# 5️⃣ Cohort & Revenue Durability Dashboard
+## 5️⃣ Cohort & Revenue Durability Dashboard
 
 ![Cohort Analysis](https://img.shields.io/badge/Cohort-Revenue%20Durability-darkred?style=for-the-badge)
 
@@ -191,15 +208,15 @@ E --> F[Recovery Governance]
 
 ---
 
-# ⚠️ Forecast Deterioration Narrative
+## ⚠️ Forecast Deterioration Narrative
 
 Collectively, the dashboard environment demonstrates how:
 
-# 📈 Strong Operational Performance
+### 📈 Strong Operational Performance
 
 can coexist with:
 
-# 📉 Severe Forward-Looking Forecast Exposure
+### 📉 Severe Forward-Looking Forecast Exposure
 
 The reporting experience intentionally reveals how:
 
@@ -211,7 +228,7 @@ can still conceal deteriorating enterprise survivability beneath the forecast la
 
 ---
 
-# 🏦 Transition Into Recovery Governance
+## 🏦 Transition Into Recovery Governance
 
 Once enterprise exposure became materially visible through:
 
@@ -223,7 +240,7 @@ the organization required a governed recovery framework capable of preserving fi
 
 This directly triggered the introduction of the:
 
-# 🛡️ Central Risk Reserve (CRR)
+### 🛡️ Central Risk Reserve (CRR)
 
 optimization framework.
 
@@ -232,23 +249,40 @@ optimization framework.
 # ⚙️ Governance Escalation Flow
 
 ```mermaid
-flowchart LR
+flowchart TD
+    A["<table width='220'><tr><td><b>Historical Success</b></td></tr></table>"]
+    B["<table width='220'><tr><td><b>Forecast Deterioration</b></td></tr></table>"]
+    C["<table width='220'><tr><td><b>Pipeline Exposure</b></td></tr></table>"]
+    D["<table width='220'><tr><td><b>Enterprise Risk Visibility</b></td></tr></table>"]
+    E["<table width='220'><tr><td><b>CRR Intervention</b></td></tr></table>"]
+    F["<table width='220'><tr><td><b>Recovery Optimization</b></td></tr></table>"]
 
-A[Historical Success]
---> B[Forecast Deterioration]
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
 
-B --> C[Pipeline Exposure]
+    %% Color Styling %%
+    classDef success fill:#2E7D32,stroke:#1B5E20,stroke-width:2px,color:#FFFFFF;
+    classDef deterioration fill:#E65100,stroke:#BF360C,stroke-width:2px,color:#FFFFFF;
+    classDef pipeline fill:#C62828,stroke:#5D4037,stroke-width:2px,color:#FFFFFF;
+    classDef visibility fill:#701212,stroke:#3E0000,stroke-width:2px,color:#FFFFFF;
+    classDef intervention fill:#AD1457,stroke:#4A148C,stroke-width:2px,color:#FFFFFF;
+    classDef optimization fill:#1565C0,stroke:#0D47A1,stroke-width:2px,color:#FFFFFF;
 
-C --> D[Enterprise Risk Visibility]
-
-D --> E[CRR Intervention]
-
-E --> F[Recovery Optimization]
+    %% Applying styles to nodes %%
+    class A success;
+    class B deterioration;
+    class C pipeline;
+    class D visibility;
+    class E intervention;
+    class F optimization;
 ```
 
 ---
 
-# 🧠 Executive Dashboarding Philosophy
+## 🧠 Executive Dashboarding Philosophy
 
 The New Bridge reporting environment intentionally avoids:
 
@@ -267,11 +301,11 @@ Instead, the platform focuses on:
 
 ---
 
-# 🚀 Strategic Outcome
+## 🚀 Strategic Outcome
 
 The Power BI environment ultimately evolved beyond traditional reporting infrastructure into a:
 
-# 🏛️ Board-Level Commercial Governance Experience
+### 🏛️ Board-Level Commercial Governance Experience
 
 capable of supporting:
 
@@ -284,13 +318,13 @@ within a unified executive operating environment.
 
 ---
 
-# 👤 Author
+### 👤 Author
 
 **Anil Jacob**  
 Enterprise BI • RevOps Strategy • Executive Analytics • Forecast Governance
 
 ---
 
-# 📜 Repository Context
+### 📜 Repository Context
 
 All dashboards, forecasts, commercial operating environments, financial models, and governance simulations within this repository are synthetic and designed exclusively for portfolio and strategic demonstration purposes.
