@@ -153,7 +153,7 @@ flowchart TD
 ![Historical ARR Evolution](https://img.shields.io/badge/Historical-ARR%20Evolution-purple?style=for-the-badge)
 
 <p align="center">
-  <img src="../assets/images/Historical View.png"
+  <img src="../assets/images/Historical-View.png"
        alt="Historical ARR Evolution Dashboard"
        width="100%">
 </p>
