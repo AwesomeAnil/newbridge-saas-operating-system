@@ -31,6 +31,13 @@
 
 ## 📌 Executive Overview
 
+| Metric | Qualified Pipe | High Confidence |
+|----------|----------:|----------:|
+| Coverage | 92.5% | 78.0% |
+| Exposure | $12M | $35M |
+| CRR Investment | $5.99M | $18.0M |
+| Recovery Outcome | 100% | 100% |
+
 The Central Risk Reserve framework determines whether intervention is justified.
 
 Recovery Optimization determines how intervention should be executed.
@@ -68,7 +75,7 @@ This distinction transforms the discussion from optimization science into execut
 ```mermaid
 flowchart TD
 
-    A["<table><tr><td width='350' align='center'>Forecast Deterioration</td></tr></table>"] --> B["<table><tr><td width='350' align='center'>Enterprise Exposure<br/>Assessment</td></tr></table>"]
+    A["<table><tr><td width='350' align='center'>Recovery Optimization</td></tr></table>"] --> B["<table><tr><td width='350' align='center'>Portfolio Alternatives</td></tr></table>"]
     
     B --> C["<table><tr><td width='350' align='center'>Qualified Pipe Portfolio<br/>Coverage: 92.5%<br/>Gap: $12M<br/>CRR: $5.99M<br/>Balanced Recovery</td></tr></table>"]
     B --> D["<table><tr><td width='350' align='center'>High Confidence Portfolio<br/>Coverage: 78.0%<br/>Gap: $35M<br/>CRR: $18.0M<br/>Downside Protection<br/>Higher Urgency<br/>Higher Exposure</td></tr></table>"]
@@ -142,7 +149,13 @@ The tradeoff curve illustrates the relationship between recovery investment and 
        width="80%">
 </p>
 
-The curve demonstrates that recovery outcomes improve as intervention levels increase, but the relationship is not perfectly linear. Additional investment eventually produces smaller incremental gains, making portfolio selection a question of economic efficiency rather than absolute spending.
+### Executive Interpretation
+
+The tradeoff curve demonstrates that both recovery portfolios are capable of restoring fiscal-year attainment.
+
+The decision is therefore not whether recovery is possible.
+
+The decision is whether additional downside protection justifies the additional recovery investment required.
 
 ---
 
@@ -242,13 +255,22 @@ Investment Tradeoff Analysis determines which efficient portfolio leadership sho
 
 ## 🎯 Strategic Conclusion
 
-The New Bridge simulation revealed two materially different recovery environments. The Qualified Pipe scenario reduced forecast coverage to 92.5% and created a $12M exposure, while the High Confidence scenario reduced coverage to 78.0% and created a significantly larger $35M exposure. Recovery Optimization demonstrated that both scenarios could be restored to fiscal-year attainment, but the investment required and the level of protection provided were fundamentally different.
+Recovery Optimization demonstrated that both Qualified Pipe and High Confidence portfolios could restore fiscal-year attainment under their respective planning assumptions.
 
-The Qualified Pipe portfolio required approximately $5.99M of intervention and represented a capital-efficient recovery strategy built around broader pipeline confidence. The High Confidence portfolio required approximately $18.0M of intervention and represented a more conservative recovery strategy designed to protect against downside risk under significantly weaker forecast conditions.
+Investment Tradeoff Analysis revealed that the choice between these portfolios is not an optimization problem but a leadership decision.
 
-The decision was therefore not about which portfolio produced the better analytical outcome. Both portfolios achieved recovery. The real decision was whether leadership prioritized capital efficiency or fiscal-year survivability, and which planning assumption they believed most accurately reflected the operating environment.
+The Qualified Pipe portfolio prioritizes capital efficiency and assumes a broader portion of the qualified opportunity portfolio will successfully convert. The High Confidence portfolio prioritizes downside protection and fiscal-year survivability by assuming a more conservative operating environment and deploying significantly greater recovery capacity.
 
-Within the New Bridge operating system, Forecast Risk Modeling quantified exposure, the Central Risk Reserve established the governance mechanism for intervention, and Recovery Optimization identified efficient recovery portfolios. Investment Tradeoff Analysis completes the decision chain by helping leadership determine which recovery strategy should ultimately receive funding when capital, confidence, and risk considerations compete for attention.
+Neither portfolio is inherently superior.
+
+Each reflects a different balance between efficiency, confidence, risk, and recovery investment.
+
+The objective of Investment Tradeoff Analysis is therefore not to identify the correct portfolio. The objective is to make tradeoffs explicit so that leadership can select the recovery strategy most consistent with enterprise priorities and risk tolerance.
+
+Within the New Bridge operating system, Forecast Risk quantifies exposure, the Central Risk Reserve authorizes intervention, Recovery Optimization identifies efficient recovery portfolios, and Investment Tradeoff Analysis enables executive portfolio selection.
+
+The result is a structured decision framework that transforms recovery planning from a reactive exercise into a deliberate and governable leadership process.
+
 
 ---
 
@@ -260,6 +282,18 @@ Within the New Bridge operating system, Forecast Risk Modeling quantified exposu
 * The High Confidence portfolio prioritizes downside protection, forecast resilience, and fiscal-year survivability.
 * Recovery Optimization identifies efficient portfolios, while Investment Tradeoff Analysis determines which portfolio best aligns with executive priorities.
 * The final decision is not purely analytical; it is a leadership decision informed by risk tolerance, capital availability, and confidence in future performance.
+
+## 🏆Executive Insight 
+
+The objective of Investment Tradeoff Analysis is not to identify the correct portfolio.
+
+The objective is to make tradeoffs explicit.
+
+Qualified Pipe prioritizes efficiency.
+
+High Confidence prioritizes survivability.
+
+Leadership determines which objective matters most.
 
 ---
 
