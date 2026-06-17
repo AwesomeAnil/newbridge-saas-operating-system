@@ -1,4 +1,4 @@
-# 🚀 Next Generation Revenue Operating Model
+# 🚀 Next Generation Revenue & Decision Intelligence Operating Model
 
 ## 🏛️ From Reactive Recovery To Proactive Commercial Governance
 
@@ -29,11 +29,17 @@
 
 ## 📌 Executive Overview
 
-The New Bridge simulation demonstrated that forecast coverage could deteriorate from **105.1% under Full Pipe assumptions** to **78.0% under High Confidence assumptions**, creating a potential **$35M forecast exposure** despite strong historical attainment. Recovery Optimization subsequently demonstrated that fiscal-year attainment could be restored through intervention portfolios requiring between **$5.99M and $18.0M** of recovery capital.
+New Bridge demonstrated that confidence-calibrated forecasting, risk governance, recovery optimization, and portfolio decision-making could be combined into a coherent operating system capable of identifying, governing, and mitigating commercial risk.
 
-While these capabilities successfully addressed the immediate recovery challenge, they also exposed a larger opportunity. The same forecasting, governance, optimization, and decision frameworks used to recover performance could be deployed much earlier in the fiscal cycle, reducing exposure before recovery becomes necessary.
+While these capabilities successfully addressed forecast exposure and fiscal-year recovery challenges, they also revealed a larger opportunity.
 
-The purpose of the Next Generation Revenue Operating Model is therefore not to improve recovery execution. The purpose is to reduce reliance on recovery programs altogether by institutionalizing the capabilities that New Bridge proved were valuable.
+The same forecasting, governance, optimization, and decision frameworks used during recovery scenarios can be deployed much earlier in the fiscal cycle to identify risk before exposure becomes material.
+
+The purpose of the Next Generation Decision Intelligence Operating Model is therefore not to improve recovery execution.
+
+The purpose is to institutionalize the capabilities that New Bridge proved were valuable and embed them into the operating rhythm of the enterprise.
+
+The objective is not simply better forecasting. The objective is earlier and better decisions.
 
 ---
 
@@ -100,6 +106,33 @@ Sustainable Fiscal Performance
 
 ---
 
+## 7️⃣ Analytics As Decision Intelligence
+
+New Bridge began with reporting, forecasting, and revenue visibility. As forecast confidence deteriorated and exposure increased, the focus shifted toward intervention governance, capital allocation, recovery optimization, and executive portfolio selection.
+
+This progression transformed analytics from a reporting capability into a decision intelligence capability capable of supporting leadership through uncertainty.
+
+```text
+Revenue Intelligence
+        ↓
+Forecast Intelligence
+        ↓
+Risk Intelligence
+        ↓
+Recovery Governance
+        ↓
+Portfolio Intelligence
+        ↓
+Decision Intelligence
+```
+
+### Executive Insight
+
+The highest value of analytics is not visibility. It is better decisions.
+
+---
+
+
 ## 🔄 Operating Model Transformation
 
 ```mermaid
@@ -126,11 +159,13 @@ This progression reflects the evolution observed throughout the New Bridge journ
 
 ---
 
-## 1️⃣ Early Risk Detection Creates Recovery Optionality
+## 2️⃣ Early Risk Detection Creates Strategic Optionality
 
-The New Bridge simulation identified material forecast deterioration during Q3 FY26, leaving approximately one fiscal quarter available for corrective action. Although recovery was ultimately achieved through CRR activation and targeted intervention programs, the compressed timeline significantly constrained available recovery options.
+One of the most important observations from New Bridge was that early visibility creates strategic flexibility.
 
-The future-state operating model seeks to identify deterioration much earlier in the fiscal cycle, increasing the number of available recovery levers while reducing dependence on late-stage intervention programs.
+The Q3 assessment identified material forecast deterioration with approximately one fiscal quarter remaining for corrective action. Although recovery was ultimately achieved through CRR activation and targeted intervention programs, the compressed timeline constrained available recovery options.
+
+Earlier detection fundamentally changes both the quantity and quality of available interventions.
 
 | Detection Timing | Available Recovery Window |
 | ---------------- | ------------------------: |
@@ -139,29 +174,7 @@ The future-state operating model seeks to identify deterioration much earlier in
 | End of Q3        |                 ~3 Months |
 | Q4               |    Limited Remaining Time |
 
-Earlier detection creates:
-
-✅ Longer realization windows
-
-✅ Greater forecast visibility
-
-✅ Higher intervention effectiveness
-
-✅ Improved recovery economics
-
-✅ Reduced execution pressure
-
-### Executive Insight
-
-Recovery effectiveness is driven as much by timing as by investment magnitude.
-
----
-
-## 2️⃣ Early Risk Detection Expands Available Recovery Levers
-
-The High Confidence scenario created approximately **$35M of forecast exposure** with only one fiscal quarter remaining. Under these conditions, recovery efforts were necessarily concentrated on short-cycle interventions such as RAF programs, renewals acceleration, discount programs, and deal acceleration initiatives.
-
-Earlier detection fundamentally changes the recovery toolkit available to leadership by creating sufficient time for growth-oriented interventions that are unavailable during late-stage recovery environments.
+Earlier detection expands the range of available responses.
 
 ### Late Detection Environment
 
@@ -170,11 +183,10 @@ RAF Programs
 Renewal Programs
 Discount Programs
 Deal Acceleration
-```
 
-### Early Detection Environment
+### Early Detection Environment 
 
-```text
+```text 
 RAF Programs
 Renewal Programs
 Discount Programs
@@ -190,11 +202,14 @@ Marketing Investments
 Business Development Programs
 ```
 
-### Executive Insight
+### Executive Insight 
 
-Early risk detection does not simply improve recovery outcomes. It expands the range of strategic options available to leadership.
+Early risk detection does not simply improve recovery outcomes.
+
+It increases organizational optionality by expanding both the recovery window and the range of strategic choices available to leadership.
 
 ---
+
 
 ## 3️⃣ Continuous Confidence-Calibrated Forecasting
 
@@ -223,11 +238,9 @@ The future-state model institutionalizes these capabilities as standing business
 Core capabilities include:
 
 * CRR governance frameworks
-* ROI intelligence models
 * Recovery playbooks
-* Geography prioritization frameworks
-* Intervention allocation methodologies
 * Recovery optimization models
+* Capital Allocation Intelligence
 
 ### Executive Insight
 
@@ -277,31 +290,6 @@ Scenario planning should become part of the operating cadence rather than an act
 
 ---
 
-## 7️⃣ Analytics As Decision Intelligence
-
-New Bridge began with reporting, forecasting, and revenue visibility. As forecast confidence deteriorated and exposure increased, the focus shifted toward intervention governance, capital allocation, recovery optimization, and executive portfolio selection.
-
-This progression transformed analytics from a reporting capability into a decision intelligence capability capable of supporting leadership through uncertainty.
-
-```text
-Revenue Intelligence
-        ↓
-Forecast Intelligence
-        ↓
-Risk Intelligence
-        ↓
-Recovery Governance
-        ↓
-Portfolio Intelligence
-        ↓
-Decision Intelligence
-```
-
-### Executive Insight
-
-The highest value of analytics is not visibility. It is better decisions.
-
----
 
 ## 📊 Future-State Operating Framework
 
@@ -329,19 +317,33 @@ style G fill:#6f42c1,color:#ffffff,stroke:#6f42c1,stroke-width:3px
 
 ## 🎯 Strategic Outcome
 
-The Next Generation Revenue Operating Model transforms the organization from one that reacts to forecast deterioration into one that continuously anticipates, monitors, and manages commercial risk.
+The Next Generation Decision Intelligence Operating Model transforms the organization from one that reacts to forecast deterioration into one that continuously anticipates, evaluates, and manages commercial risk.
 
-The model institutionalizes confidence-calibrated forecasting, scenario-based governance, recovery readiness, capital allocation intelligence, and decision intelligence as permanent enterprise capabilities. The result is a more resilient, more predictable, and more governable commercial operating environment capable of reducing exposure before recovery intervention becomes necessary.
+The model institutionalizes confidence-calibrated forecasting, scenario-based governance, recovery readiness, capital allocation intelligence, and decision intelligence as permanent enterprise capabilities.
+
+The objective is not merely to improve forecasting accuracy. The objective is to improve the quality and timing of enterprise decisions before material exposure accumulates.
+
+The result is a more resilient, more governable, and more adaptive operating environment capable of responding to uncertainty before recovery intervention becomes necessary.
+
 
 ---
 
 ## 🏁 Final Reflection
 
-New Bridge demonstrated that forecasting, governance, optimization, and executive decision-making are not independent capabilities. Together they form a connected operating system capable of identifying risk, governing intervention, optimizing recovery investments, and supporting better decisions under uncertainty.
+New Bridge began as a revenue forecasting and recovery simulation.
 
-The future-state model builds upon this foundation by shifting these capabilities earlier in the fiscal cycle and embedding them into day-to-day operating rhythms. Rather than waiting for forecast deterioration to trigger recovery programs, the organization continuously monitors confidence-calibrated forecasts, evaluates emerging exposure, maintains recovery readiness, and optimizes capital allocation before material risk accumulates.
+It evolved into a broader exploration of how organizations can govern uncertainty, evaluate risk, allocate capital, optimize recovery strategies, and improve decision quality under changing business conditions.
 
-In this sense, the Next Generation Revenue Operating Model is not a replacement for New Bridge. It is the institutionalization of the capabilities that New Bridge proved were valuable.
+Throughout the journey, forecasting, governance, optimization, and executive decision-making proved to be interconnected capabilities rather than independent disciplines.
+
+The future-state model institutionalizes these capabilities and embeds them into the operating rhythm of the enterprise.
+
+The result is not simply a better Revenue Operating Model.
+
+It is a Decision Intelligence Operating Model designed to improve organizational resilience, capital allocation, fiscal-year survivability, and executive decision-making under uncertainty.
+
+In this sense, the future-state model is not a replacement for New Bridge. It is the institutionalization of the capabilities that New Bridge proved were valuable.
+
 
 ---
 
