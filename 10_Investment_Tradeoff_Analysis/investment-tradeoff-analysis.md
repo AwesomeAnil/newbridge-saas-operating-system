@@ -144,7 +144,7 @@ Although both portfolios achieve fiscal-year recovery, they reflect materially d
 The tradeoff curve illustrates the relationship between recovery investment and forecast uplift across alternative intervention strategies.
 
 <p align="center">
-  <img src="../assets/investment_tradeoff/tradeoff-curve.png"
+  <img src="../assets/images/tradeoff-curve.png"
        alt="Portfolio Tradeoff Curve"
        width="80%">
 </p>
